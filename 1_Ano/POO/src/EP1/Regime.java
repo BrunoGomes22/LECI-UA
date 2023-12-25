@@ -1,0 +1,5 @@
+package EP1;
+
+public enum Regime {
+    PEQUENOALMOCO, MEIAPENSAO, PENSAOCOMPLETA, TUDOINCLUIDO
+}
