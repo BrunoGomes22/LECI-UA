@@ -1,0 +1,1 @@
+fiz tudo do guião de routing aqui até ao ipv6 RIPng (exclusive)

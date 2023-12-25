@@ -1,0 +1,1 @@
+normalmente, o router que tiver maior IP fica como DR - Designated Router

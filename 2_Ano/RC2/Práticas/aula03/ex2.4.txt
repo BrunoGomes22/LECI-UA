@@ -1,0 +1,1 @@
+cada rede de trânsito tem um LSA-type 2, e cada router quando se liga manda o seu LSA-type 1

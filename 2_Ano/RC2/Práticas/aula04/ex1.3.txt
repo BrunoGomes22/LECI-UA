@@ -1,0 +1,1 @@
+Para um tunel ser visivel na tabela de encaminhamento tem de ter uma rede ip associada

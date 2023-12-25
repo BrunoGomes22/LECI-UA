@@ -1,0 +1,1 @@
+qual é a diferença entre ter um tunel GRE e um tunel IPv6 sobre IPv4?

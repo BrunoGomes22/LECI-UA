@@ -1,0 +1,1 @@
+a bridge responsável de mandar os pacotes BPDU é a bridge/switch designada da ligação local

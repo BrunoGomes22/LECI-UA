@@ -1,0 +1,2 @@
+BGP -> usado entre sistemas autonomos
+OSPF -> usado dentro dos sistemas autonomos para anunicar rotas

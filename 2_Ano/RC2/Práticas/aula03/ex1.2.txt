@@ -1,0 +1,1 @@
+a rede 192.168.3.0/25 aparece com mascara incorreta porque o protocolo RIPv1 não tem em conta a mascara de cada rede.

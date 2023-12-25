@@ -1,0 +1,1 @@
+neste caso aparece o rotas RIP que têm custo administrativo 120 que é menor que a rota estática que nós definimos com custo 200

@@ -1,0 +1,1 @@
+neste caso o router 1 não vai ter rotas com definidas pelo RIP, porque definimos uma rota estática que tem custo admnistrativo de 1, portanto o router sempre que possível utiliza a rota de custo administrativo menor. Daí não aparecerem rotas RIP que têm custo 120.

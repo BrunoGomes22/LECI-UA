@@ -1,0 +1,3 @@
+>> Analyze the packets routed from Router 1 to Router A (duplicated ICMP packets). (perguntar)
+	só aparecem requests porque os replies vão por outro caminho
+ 
