@@ -1,0 +1,3 @@
+set pcname Marketing1
+dhcp
+ip auto
