@@ -1,0 +1,426 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>uaLEARNING</title>
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <meta content="" name="keywords">
+    <meta content="" name="description">
+
+    <!-- Favicon -->
+    <link href="img/favicon.ico" rel="icon">
+
+    <!-- Google Web Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Heebo:wght@400;500;600&family=Nunito:wght@600;700;800&display=swap" rel="stylesheet">
+
+    <!-- Icon Font Stylesheet -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/css/all.min.css" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.1/font/bootstrap-icons.css" rel="stylesheet">
+
+    <!-- Libraries Stylesheet -->
+    <link href="lib/animate/animate.min.css" rel="stylesheet">
+    <link href="lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
+
+    <!-- Customized Bootstrap Stylesheet -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Template Stylesheet -->
+    <link href="css/style.css" rel="stylesheet">
+</head>
+
+<body>
+
+    <!-- Navbar Start -->
+    <nav class="navbar navbar-expand-lg bg-white navbar-light shadow sticky-top p-0">
+        <a href="index.html" class="navbar-brand d-flex align-items-end pb-3 px-4 px-lg-5">
+            <img src="./img/logo-ua.jpeg" alt="UA Icon" class="ua-logo-icon">
+            <h2 class="m-0 text-primary">uaLEARNING</h2>
+        </a>
+        <button type="button" class="navbar-toggler me-4" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarCollapse">
+            <div class="navbar-nav ms-auto p-4 p-lg-0">
+                <a href="index.html" class="nav-item nav-link active">Início</a>
+                <a href="courses.html" class="nav-item nav-link">Cursos</a>
+                <a href="contact.html" class="nav-item nav-link">Contactos</a>
+                <a class="nav-item nav-link" data-bs-toggle="modal" data-bs-target="#LoginModal"><i class="fa fa-solid fa-user"></i> Iniciar sessão</a>
+            </div>
+        </div>
+    </nav>
+    <!-- Navbar End -->
+
+    <!-- Carousel Start -->
+    <div class="container-fluid p-0 mb-5">
+        <div class="owl-carousel header-carousel position-relative ">
+            <div class="owl-carousel-item position-relative">
+                <img class="img-fluid" src="https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80" alt="">
+                <div class="position-absolute top-0 start-0 w-100 h-100 d-flex align-items-center" style="background: rgba(24, 29, 56, .7);">
+                    <div class="container">
+                        <div class="row justify-content-start">
+                            <div class="col-sm-10 col-lg-8">
+                                <h5 class="text-primary text-uppercase mb-3 animated slideInDown">Somos a melhor plataforma</h5>
+                                <h1 class="display-3 text-white animated slideInDown">Com recursos interativos e uma equipa dedicada</h1>
+                                <p class="fs-5 text-white mb-4 pb-2">Estamos aqui para te ajudar no teu caminho rumo ao sucesso.</p>
+                                <a href="#team" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">A nossa equipa</a>
+                                <a href="" class="btn btn-light py-md-3 px-md-5 animated slideInRight" data-bs-toggle="modal" data-bs-target="#contactModal">Junta-te agora!</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="owl-carousel-item position-relative">
+                <img class="img-fluid" src="https://images.unsplash.com/photo-1516321318423-f06f85e504b3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80" alt="">
+                <div class="position-absolute top-0 start-0 w-100 h-100 d-flex align-items-center" style="background: rgba(24, 29, 56, .7);">
+                    <div class="container">
+                        <div class="row justify-content-start">
+                            <div class="col-sm-10 col-lg-8">
+                                <h5 class="text-primary text-uppercase mb-3 animated slideInDown">Mais de 50 cursos</h5>
+                                <h1 class="display-3 text-white animated slideInDown">Totalmente online</h1>
+                                <p class="fs-5 text-white mb-4 pb-2">Aprende ao teu próprio ritmo, em qualquer lugar e a qualquer hora.</p>
+                                <a href="#about" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">Sobre nós</a>
+                                <a href="" class="btn btn-light py-md-3 px-md-5 animated slideInRight" data-bs-toggle="modal" data-bs-target="#contactModal">Junta-te agora!</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Carousel End -->
+
+    <!-- Service Start -->
+    <div class="container-xxl py-5">
+        <div class="container">
+            <div class="row g-4">
+                <div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.1s">
+                    <div class="service-item text-center pt-3">
+                        <div class="p-4">
+                            <i class="fa fa-3x fa-graduation-cap text-primary mb-4"></i>
+                            <h5 class="mb-3">Instrutores qualificados</h5>
+                            <p>Contamos com instrutores altamente qualificados para te guiar neste percurso de aprendizagem.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.3s">
+                    <div class="service-item text-center pt-3">
+                        <div class="p-4">
+                            <i class="fa fa-3x fa-globe text-primary mb-4"></i>
+                            <h5 class="mb-3">Vasto leque de cursos especializados</h5>
+                            <p>Oferecemos uma ampla variedade de cursos para abranger diversas áreas e interesses.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.5s">
+                    <div class="service-item text-center pt-3">
+                        <div class="p-4">
+                            <i class="fa fa-3x fa-home text-primary mb-4"></i>
+                            <h5 class="mb-3">Realiza os projetos em casa</h5>
+                            <p>Aprende e aplica os teus conhecimentos através de projetos práticos, sem sair de casa.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.7s">
+                    <div class="service-item text-center pt-3">
+                        <div class="p-4">
+                            <i class="fa fa-3x fa-book-open text-primary mb-4"></i>
+                            <h5 class="mb-3">Tutoriais online</h5>
+                            <p>Aproveita os nossos tutoriais online para obteres orientações detalhadas durante o teu percurso de aprendizagem.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Service End -->
+
+    <!-- About Start -->
+    <div class="container-xxl py-5" id="about">
+    <div class="container">
+        <div class="row g-5">
+            <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s" style="min-height: 400px;">
+                <div class="position-relative h-100">
+                    <img class="img-fluid position-absolute w-100 h-100" src="img/about.jpg" alt="" style="object-fit: cover;">
+                </div>
+            </div>
+            <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.3s">
+                <h6 class="section-title bg-white text-start text-primary pe-3">Sobre nós</h6>
+                <h1 class="mb-4">Bem vindo ao uaLEARNING</h1>
+                <p class="mb-4">Bem-vindo ao uaLearning - a plataforma de e-learning de referência da Universidade de Aveiro! Se estás interessado em eletrónica, software e engenharia de dados, chegaste ao sítio certo.</p>
+                <p class="mb-4">A nossa plataforma foi concebida para te fornecer as competências e o conhecimento necessários para te destacares nestas áreas em constante evolução.</p>
+                <a class="btn btn-primary py-3 px-5 mt-2" href="courses.html">Os nossos cursos</a>
+            </div>
+        </div>
+    </div>
+</div>
+    <!-- About End -->
+
+    <!-- Team Start -->
+    <div class="container-xxl py-5" id="team">
+        <div class="container">
+            <div class="text-center wow fadeInUp" data-wow-delay="0.1s">
+                <h6 class="section-title bg-white text-center text-primary px-3">Instrutores</h6>
+                <h1 class="mb-5">Fica a conhecer os nossos melhores instrutores:</h1>
+            </div>
+            <div class="row g-3 justify-content-center">
+                <div class="col-lg-2 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+                    <div class="team-item bg-light">
+                        <div class="overflow-hidden">
+                            <img class="img-fluid" src="https://scontent.fopo2-1.fna.fbcdn.net/v/t1.18169-9/29257774_1871394472934103_5549216220230327636_n.jpg?stp=dst-jpg_p843x403&_nc_cat=103&ccb=1-7&_nc_sid=174925&_nc_ohc=rjmS3Ul349EAX8T7kQK&_nc_ht=scontent.fopo2-1.fna&oh=00_AfAxd_4Pw9mfGVJGlvOxkePOpCz8_vKb_vhQua_dqz2vYg&oe=649F2A36" alt="">
+                        </div>
+                        <div class="position-relative d-flex justify-content-center" style="margin-top: -23px;">
+                            <div class="bg-light d-flex justify-content-center pt-2 px-1">
+                                <a class="btn btn-sm-square btn-primary mx-1" href="" target="_blank"><i class="fab fa-facebook-f"></i></a>
+                                <a class="btn btn-sm-square btn-primary mx-1" href="" target="_blank"><i class="fab fa-twitter"></i></a>
+                                <a class="btn btn-sm-square btn-primary mx-1" href="" target="_blank"><i class="fab fa-instagram"></i></a>
+                            </div>
+                        </div>
+                        <div class="text-center p-4">
+                            <h6 class="mb-0">Miguel Azevedo</h6>
+                            <small>Engenheiro Eletrotécnico</small>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-2 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
+                    <div class="team-item bg-light">
+                        <div class="overflow-hidden">
+                            <img class="img-fluid" src="img/samuel.jpeg" alt="">
+                        </div>
+                        <div class="position-relative d-flex justify-content-center" style="margin-top: -23px;">
+                            <div class="bg-light d-flex justify-content-center pt-2 px-1">
+                                <a class="btn btn-sm-square btn-primary mx-1" href="" target="_blank"><i class="fab fa-facebook-f"></i></a>
+                                <a class="btn btn-sm-square btn-primary mx-1" href="" target="_blank"><i class="fab fa-twitter"></i></a>
+                                <a class="btn btn-sm-square btn-primary mx-1" href="" target="_blank"><i class="fab fa-instagram"></i></a>
+                            </div>
+                        </div>
+                        <div class="text-center p-4">
+                            <h6 class="mb-0">Samuel Santos</h6>
+                            <small>Engenheiro Eletrotécnico</small>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-2 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
+                    <div class="team-item bg-light">
+                        <div class="overflow-hidden">
+                            <img class="img-fluid" src="https://pbs.twimg.com/profile_images/1010878028656848897/Vz8e9tJZ_400x400.jpg" alt="">
+                        </div>
+                        <div class="position-relative d-flex justify-content-center" style="margin-top: -23px;">
+                            <div class="bg-light d-flex justify-content-center pt-2 px-1">
+                                <a class="btn btn-sm-square btn-primary mx-1" href="https://www.facebook.com/sfontora" target="_blank"><i class="fab fa-facebook-f"></i></a>
+                                <a class="btn btn-sm-square btn-primary mx-1" href="https://twitter.com/mr_fontora" target="_blank"><i class="fab fa-twitter"></i></a>
+                            </div>
+                        </div>
+                        <div class="text-center p-4">
+                            <h6 class="mb-0">Sérgio Fontora</h6>
+                            <small>Engenheiro de Software</small>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-2 col-md-6 wow fadeInUp" data-wow-delay="0.7s">
+                    <div class="team-item bg-light">
+                        <div class="overflow-hidden">
+                            <img class="img-fluid" src="img/bruno.jpg" alt="">
+                        </div>
+                        <div class="position-relative d-flex justify-content-center" style="margin-top: -23px;">
+                            <div class="bg-light d-flex justify-content-center pt-2 px-1">
+                                <a class="btn btn-sm-square btn-primary mx-1" href="" target="_blank"><i class="fab fa-facebook-f"></i></a>
+                                <a class="btn btn-sm-square btn-primary mx-1" href="" target="_blank"><i class="fab fa-twitter"></i></a>
+                                <a class="btn btn-sm-square btn-primary mx-1" href="" target="_blank"><i class="fab fa-instagram"></i></a>
+                            </div>
+                        </div>
+                        <div class="text-center p-4">
+                            <h6 class="mb-0">Bruno Gomes</h6>
+                            <small>Engenheiro Informático</small>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-2 col-md-6 wow fadeInUp" data-wow-delay="0.7s">
+                    <div class="team-item bg-light">
+                        <div class="overflow-hidden">
+                            <img class="img-fluid" src="img/rodrigo.jpeg" alt="">
+                        </div>
+                        <div class="position-relative d-flex justify-content-center" style="margin-top: -23px;">
+                            <div class="bg-light d-flex justify-content-center pt-2 px-1">
+                                <a class="btn btn-sm-square btn-primary mx-1" href="" target="_blank"><i class="fab fa-facebook-f"></i></a>
+                                <a class="btn btn-sm-square btn-primary mx-1" href="" target="_blank"><i class="fab fa-twitter"></i></a>
+                                <a class="btn btn-sm-square btn-primary mx-1" href="" target="_blank"><i class="fab fa-instagram"></i></a>
+                            </div>
+                        </div>
+                        <div class="text-center p-4">
+                            <h6 class="mb-0">Rodrigo Caldelas</h6>
+                            <small>Engenheiro Eletrotécnico</small>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Team End -->
+
+    <!-- Testimonial Start -->
+    <div class="container-xxl py-5 wow fadeInUp" data-wow-delay="0.1s">
+        <div class="container">
+            <div class="text-center">
+                <h6 class="section-title bg-white text-center text-primary px-3">Críticas</h6>
+                <h1 class="mb-5">O que os nossos estudantes dizem!</h1>
+            </div>
+            <div class="owl-carousel testimonial-carousel position-relative">
+                <div class="testimonial-item text-center">
+                    <img class="border rounded-circle p-2 mx-auto mb-3" src="img/testimonial-2.jpg" style="width: 80px; height: 80px;">
+                    <h5 class="mb-0">Luís Fernandes</h5>
+                    <p>Engenheiro Eletrónico</p>
+                    <div class="testimonial-text bg-light text-center p-4">
+                        <p class="mb-0">Esta plataforma de e-learning é perfeita para os engenheiros eletrónicos. Aprendi novas técnicas de design de circuitos e desenvolvimento de dispositivos eletrónicos. Recomendo a todos os interessados nesta área!</p>
+                    </div>
+                </div>
+                <div class="testimonial-item text-center">
+                    <img class="border rounded-circle p-2 mx-auto mb-3" src="img/testimonial-1.jpg" style="width: 80px; height: 80px;">
+                    <h5 class="mb-0">Mariana Costa</h5>
+                    <p>Engenheira de Software</p>
+                    <div class="testimonial-text bg-light text-center p-4">
+                        <p class="mb-0">Esta plataforma revolucionou minha forma de aprender programação. Os cursos são atualizados e abrangem todas as áreas da engenharia de software. Estou muito satisfeita com o meu progresso graças a essa plataforma!</p>
+                    </div>
+                </div>
+                <div class="testimonial-item text-center">
+                    <img class="border rounded-circle p-2 mx-auto mb-3" src="img/testimonial-3.jpg" style="width: 80px; height: 80px;">
+                    <h5 class="mb-0">Pedro Oliveira</h5>
+                    <p>Engenheiro de Dados</p>
+                    <div class="testimonial-text bg-light text-center p-4">
+                        <p class="mb-0">Esta plataforma é uma mina de ouro para engenheiros de dados. Aprendi a trabalhar com grandes volumes de dados, ferramentas de análise e técnicas avançadas de processamento. Estou muito satisfeito com os resultados obtidos!</p>
+                    </div>
+                </div>
+                <div class="testimonial-item text-center">
+                    <img class="border rounded-circle p-2 mx-auto mb-3" src="img/testimonial-4.jpg" style="width: 80px; height: 80px;">
+                    <h5 class="mb-0">Sara Rodrigues</h5>
+                    <p>Engenheira Eletrónica</p>
+                    <div class="testimonial-text bg-light text-center p-4">
+                        <p class="mb-0">Gostaria de expressar minha gratidão por esta plataforma incrível. Aprendi as mais recentes tecnologias de eletrónica e agora sou capaz de desenvolver projetos eletrónicos complexos. Recomendo a todos!</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Testimonial End -->
+
+    <!-- Contact Form Modal -->
+    <div class="modal fade" id="contactModal" tabindex="-1" aria-labelledby="contactModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="contactModalLabel">Formulário de contato</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Fechar"></button>
+                </div>
+                <div class="modal-body">
+                    <form>
+                        <div class="mb-3">
+                            <label for="name" class="form-label">Nome</label>
+                            <input type="text" class="form-control" id="name" placeholder="Indica o teu nome">
+                        </div>
+                        <div class="mb-3">
+                            <label for="email" class="form-label">Email</label>
+                            <input type="email" class="form-control" id="email" placeholder="Indica o teu email">
+                        </div>
+                        <div class="mb-3">
+                            <label for="course" class="form-label">Categoria pretendida</label>
+                            <select class="form-control" id="course">
+                                <option value="eletronics">Engenharia de Computadores e Informática</option>
+                                <option value="software">Engenharia Eletrónica</option>
+                                <option value="data-engineering">Engenharia Computacional</option>
+                                <option value="data-engineering">Ciência de Dados</option>
+                            </select>
+                        </div>
+                        <button type="submit" class="btn btn-primary" data-bs-toggle="modal"
+                                data-bs-target="#successModal">Enviar</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Contact Form Modal -->
+
+    <!-- Login Form Modal -->
+    <div class="modal fade" id="LoginModal" tabindex="-1" aria-labelledby="contactModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="loginModalLabel">Entra no teu perfil</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Fechar"></button>
+                </div>
+                <div class="modal-body">
+                    <form>
+                        <div class="mb-3">
+                            <label for="email" class="form-label">Email</label>
+                            <input type="email" class="form-control" id="login_email" placeholder="Indica o teu email">
+                        </div>
+                        <div class="mb-3">
+                            <label for="name" class="form-label">Senha</label>
+                            <input type="password" class="form-control" id="login_name" placeholder="Insere a tua senha">
+                        </div>
+                        <div class="text-end">
+                        <a class="btn btn-primary" href="personal-area.html">Iniciar sessão</a>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Login Form Modal -->
+
+    <!-- Success Modal -->
+    <div class="modal fade" id="successModal" tabindex="-1" aria-labelledby="successModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="successModalLabel">Sucesso!</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Fechar"></button>
+                </div>
+                <div class="modal-body">
+                    <p>Obrigado pelo teu contato! Recebemos com sucesso as tuas informações e iremos entrar em contato em breve.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Success Modal -->
+
+    <!-- Join us -->
+    <div class="fixed-top d-flex justify-content-end join-us">
+        <a href="" class="btn btn-primary py-4 px-lg-5 d-none d-lg-block" data-bs-toggle="modal"
+           data-bs-target="#contactModal">Junta-te agora!<i class="fa fa-arrow-right ms-3"></i></a>
+    </div>
+    <!-- Join us -->
+
+    <!-- Footer Start -->
+    <div class="container-fluid bg-dark text-light footer wow fadeIn" data-wow-delay="0.1s">
+        <div class="copyright">
+            <div class="row">
+                <div class="text-center text-md-center">
+                    &copy; <a href="#">uaLearning</a>, 2023, Todos os direitos reservados.
+                    <!--/*** This template is free as long as you keep the footer author’s credit link/attribution link/backlink. If you'd like to use the template without the footer author’s credit link/attribution link/backlink, you can purchase the Credit Removal License from "https://htmlcodex.com/credit-removal". Thank you for your support. ***/-->
+                    Designed By <a class="border-bottom" href="https://htmlcodex.com">HTML Codex</a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Footer End -->
+
+    <!-- Back to Top -->
+    <a href="#" class="back-to-top"><i class="bi bi-arrow-up back-to-top-arrow"></i></a>
+    <!-- Back to Top -->
+
+    <!-- JavaScript Libraries -->
+    <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="lib/wow/wow.min.js"></script>
+    <script src="lib/easing/easing.min.js"></script>
+    <script src="lib/waypoints/waypoints.min.js"></script>
+    <script src="lib/owlcarousel/owl.carousel.min.js"></script>
+
+    <!-- Template Javascript -->
+    <script src="js/main.js"></script>
+
+</body>
+
+</html>
