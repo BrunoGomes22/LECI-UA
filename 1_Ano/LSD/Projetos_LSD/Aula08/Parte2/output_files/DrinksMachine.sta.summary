@@ -1,0 +1,113 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'CLOCK_50'
+Slack : -3.519
+TNS   : -85.122
+
+Type  : Slow 1200mV 85C Model Setup 'PulseGenerator:pulse|pulse'
+Slack : -3.329
+TNS   : -11.440
+
+Type  : Slow 1200mV 85C Model Setup 'DrinksFSM:machine|s_CurrentState.E0'
+Slack : -0.677
+TNS   : -0.677
+
+Type  : Slow 1200mV 85C Model Hold 'CLOCK_50'
+Slack : 0.424
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'DrinksFSM:machine|s_CurrentState.E0'
+Slack : 0.439
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'PulseGenerator:pulse|pulse'
+Slack : 0.570
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'CLOCK_50'
+Slack : -3.000
+TNS   : -37.695
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'PulseGenerator:pulse|pulse'
+Slack : -1.285
+TNS   : -7.710
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'DrinksFSM:machine|s_CurrentState.E0'
+Slack : 0.417
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'CLOCK_50'
+Slack : -3.107
+TNS   : -74.575
+
+Type  : Slow 1200mV 0C Model Setup 'PulseGenerator:pulse|pulse'
+Slack : -2.912
+TNS   : -9.824
+
+Type  : Slow 1200mV 0C Model Setup 'DrinksFSM:machine|s_CurrentState.E0'
+Slack : -0.535
+TNS   : -0.535
+
+Type  : Slow 1200mV 0C Model Hold 'CLOCK_50'
+Slack : 0.384
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'DrinksFSM:machine|s_CurrentState.E0'
+Slack : 0.428
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'PulseGenerator:pulse|pulse'
+Slack : 0.521
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'CLOCK_50'
+Slack : -3.000
+TNS   : -37.695
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'PulseGenerator:pulse|pulse'
+Slack : -1.285
+TNS   : -7.710
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'DrinksFSM:machine|s_CurrentState.E0'
+Slack : 0.431
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'PulseGenerator:pulse|pulse'
+Slack : -1.227
+TNS   : -3.520
+
+Type  : Fast 1200mV 0C Model Setup 'CLOCK_50'
+Slack : -1.174
+TNS   : -27.211
+
+Type  : Fast 1200mV 0C Model Setup 'DrinksFSM:machine|s_CurrentState.E0'
+Slack : 0.188
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'DrinksFSM:machine|s_CurrentState.E0'
+Slack : 0.191
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'CLOCK_50'
+Slack : 0.192
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'PulseGenerator:pulse|pulse'
+Slack : 0.217
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'CLOCK_50'
+Slack : -3.000
+TNS   : -31.833
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'PulseGenerator:pulse|pulse'
+Slack : -1.000
+TNS   : -6.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'DrinksFSM:machine|s_CurrentState.E0'
+Slack : 0.442
+TNS   : 0.000
+
+------------------------------------------------------------

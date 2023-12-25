@@ -1,0 +1,93 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/bgfgo/Projetos_LSD/Aula07/Parte2/simulation/modelsim
+Ebinudcntenrst4
+Z1 w1651744458
+Z2 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R0
+Z5 8C:/Users/bgfgo/Projetos_LSD/Aula07/Parte2/BinUDCntEnRst4.vhd
+Z6 FC:/Users/bgfgo/Projetos_LSD/Aula07/Parte2/BinUDCntEnRst4.vhd
+l0
+L5
+VXP;FYh?e6V?kokBI=WXK:0
+!s100 DNfJXNBkd?_7iQ0?3:f]I2
+Z7 OV;C;10.5b;63
+31
+Z8 !s110 1651746131
+!i10b 1
+Z9 !s108 1651746131.000000
+Z10 !s90 -reportprogress|300|-93|-work|work|C:/Users/bgfgo/Projetos_LSD/Aula07/Parte2/BinUDCntEnRst4.vhd|
+Z11 !s107 C:/Users/bgfgo/Projetos_LSD/Aula07/Parte2/BinUDCntEnRst4.vhd|
+!i113 1
+Z12 o-93 -work work
+Z13 tExplicit 1 CvgOpt 0
+Abehavioral
+R2
+R3
+R4
+Z14 DEx4 work 14 binudcntenrst4 0 22 XP;FYh?e6V?kokBI=WXK:0
+l15
+L13
+VcFFXNMG`h:7>;9lZ]n8RE2
+!s100 i:DX;oaj?fIcORaE@Pb@f2
+R7
+31
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Ebinudcntenrst8tb
+Z15 w1651745857
+R2
+R3
+R4
+R0
+Z16 8C:/Users/bgfgo/Projetos_LSD/Aula07/Parte2/BinUDCntEnRst8Tb.vhd
+Z17 FC:/Users/bgfgo/Projetos_LSD/Aula07/Parte2/BinUDCntEnRst8Tb.vhd
+l0
+L6
+VejB05Q9Q7LDJ^ZY5^dzSL1
+!s100 0dQ6;hfQ:aQ53CDGXWVKS1
+R7
+32
+Z18 !s110 1651746406
+!i10b 1
+Z19 !s108 1651746406.000000
+Z20 !s90 -reportprogress|300|-work|work|C:/Users/bgfgo/Projetos_LSD/Aula07/Parte2/BinUDCntEnRst8Tb.vhd|
+Z21 !s107 C:/Users/bgfgo/Projetos_LSD/Aula07/Parte2/BinUDCntEnRst8Tb.vhd|
+!i113 1
+Z22 o-work work
+R13
+Astimulus
+R14
+R2
+R3
+R4
+DEx4 work 16 binudcntenrst8tb 0 22 ejB05Q9Q7LDJ^ZY5^dzSL1
+l16
+L9
+VQd0oZ1i6c5YJ1jbh=L>UA2
+!s100 [;7[VCLG^_L6RmgKjCC561
+R7
+32
+R18
+!i10b 1
+R19
+R20
+R21
+!i113 1
+R22
+R13

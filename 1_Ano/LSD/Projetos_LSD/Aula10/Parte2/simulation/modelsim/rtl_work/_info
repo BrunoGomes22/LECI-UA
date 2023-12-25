@@ -1,0 +1,92 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/bgfgo/Projetos_LSD/Aula10/Parte2/simulation/modelsim
+Eram_1p_16_8
+Z1 w1654770783
+Z2 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R0
+Z5 8C:/Users/bgfgo/Projetos_LSD/Aula10/Parte2/RAM_1P_16_8.vhd
+Z6 FC:/Users/bgfgo/Projetos_LSD/Aula10/Parte2/RAM_1P_16_8.vhd
+l0
+L5
+VNP:V0^WzV=o6?MG9ifQk90
+!s100 5?lJiM14SI=B^EAC2NGi;0
+Z7 OV;C;10.5b;63
+31
+Z8 !s110 1654770885
+!i10b 1
+Z9 !s108 1654770885.000000
+Z10 !s90 -reportprogress|300|-93|-work|work|C:/Users/bgfgo/Projetos_LSD/Aula10/Parte2/RAM_1P_16_8.vhd|
+Z11 !s107 C:/Users/bgfgo/Projetos_LSD/Aula10/Parte2/RAM_1P_16_8.vhd|
+!i113 1
+Z12 o-93 -work work
+Z13 tExplicit 1 CvgOpt 0
+Abehavioral
+R2
+R3
+R4
+Z14 DEx4 work 11 ram_1p_16_8 0 22 NP:V0^WzV=o6?MG9ifQk90
+l21
+L13
+VT]:9LKY039f=_nh2I]3^32
+!s100 NE_oNGCAYo1TP1OVBl]TQ0
+R7
+31
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Eram_1p_16_8_tb
+Z15 w1654725652
+R3
+R4
+R0
+Z16 8C:/Users/bgfgo/Projetos_LSD/Aula10/Parte2/RAM_1P_16_8_Tb.vhd
+Z17 FC:/Users/bgfgo/Projetos_LSD/Aula10/Parte2/RAM_1P_16_8_Tb.vhd
+l0
+L4
+Vj;ddBeFcjIcem>:oRG>k22
+!s100 KXo<if84nGnj`D8loLL8U0
+R7
+32
+Z18 !s110 1654770908
+!i10b 1
+Z19 !s108 1654770908.000000
+Z20 !s90 -reportprogress|300|-work|work|C:/Users/bgfgo/Projetos_LSD/Aula10/Parte2/RAM_1P_16_8_Tb.vhd|
+Z21 !s107 C:/Users/bgfgo/Projetos_LSD/Aula10/Parte2/RAM_1P_16_8_Tb.vhd|
+!i113 1
+Z22 o-work work
+R13
+Astimulus
+R2
+R14
+R3
+R4
+DEx4 work 14 ram_1p_16_8_tb 0 22 j;ddBeFcjIcem>:oRG>k22
+l13
+L7
+V2nh_3;Dn1ObelNJQ<V04V2
+!s100 K9C=Q66UX4dMMM?kY0VdJ1
+R7
+32
+R18
+!i10b 1
+R19
+R20
+R21
+!i113 1
+R22
+R13

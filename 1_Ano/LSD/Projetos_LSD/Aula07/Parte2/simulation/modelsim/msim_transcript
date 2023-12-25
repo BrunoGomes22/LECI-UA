@@ -1,0 +1,71 @@
+# Reading C:/intelFPGA_lite/17.1/modelsim_ase/tcl/vsim/pref.tcl
+# do BinUDCntEnRst4_run_msim_rtl_vhdl.do
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Model Technology ModelSim - Intel FPGA Edition vmap 10.5b Lib Mapping Utility 2016.10 Oct  5 2016
+# vmap work rtl_work 
+# Copying C:/intelFPGA_lite/17.1/modelsim_ase/win32aloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# 
+# vcom -93 -work work {C:/Users/bgfgo/Projetos_LSD/Aula07/Parte2/BinUDCntEnRst4.vhd}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 11:22:11 on May 05,2022
+# vcom -reportprogress 300 -93 -work work C:/Users/bgfgo/Projetos_LSD/Aula07/Parte2/BinUDCntEnRst4.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity BinUDCntEnRst4
+# -- Compiling architecture Behavioral of BinUDCntEnRst4
+# End time: 11:22:11 on May 05,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+vcom -reportprogress 300 -work work C:/Users/bgfgo/Projetos_LSD/Aula07/Parte2/BinUDCntEnRst8Tb.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 11:26:46 on May 05,2022
+# vcom -reportprogress 300 -work work C:/Users/bgfgo/Projetos_LSD/Aula07/Parte2/BinUDCntEnRst8Tb.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity BinUDCntEnRst8Tb
+# -- Compiling architecture Stimulus of BinUDCntEnRst8Tb
+# -- Loading entity BinUDCntEnRst4
+# End time: 11:26:46 on May 05,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vsim work.binudcntenrst8tb
+# vsim work.binudcntenrst8tb 
+# Start time: 11:27:55 on May 05,2022
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.binudcntenrst8tb(stimulus)
+# Loading work.binudcntenrst4(behavioral)
+add wave -position end  sim:/binudcntenrst8tb/s_reset
+add wave -position end  sim:/binudcntenrst8tb/s_clk
+add wave -position end  sim:/binudcntenrst8tb/s_enable
+add wave -position end  sim:/binudcntenrst8tb/s_upDown_n
+add wave -position end  sim:/binudcntenrst8tb/s_cntOut
+vsim work.binudcntenrst8tb(stimulus)
+# End time: 11:29:17 on May 05,2022, Elapsed time: 0:01:22
+# Errors: 0, Warnings: 0
+# vsim work.binudcntenrst8tb(stimulus) 
+# Start time: 11:29:17 on May 05,2022
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.binudcntenrst8tb(stimulus)
+# Loading work.binudcntenrst4(behavioral)
+add wave -position end  sim:/binudcntenrst8tb/s_reset
+add wave -position end  sim:/binudcntenrst8tb/s_clk
+add wave -position end  sim:/binudcntenrst8tb/s_enable
+add wave -position end  sim:/binudcntenrst8tb/s_upDown_n
+add wave -position end  sim:/binudcntenrst8tb/s_cntOut
+run
+# End time: 11:49:05 on May 05,2022, Elapsed time: 0:19:48
+# Errors: 0, Warnings: 0

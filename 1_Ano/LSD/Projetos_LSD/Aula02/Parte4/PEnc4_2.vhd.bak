@@ -1,0 +1,25 @@
+library IEEE;
+use IEEE.std_logic_1164.all;
+
+entity PEnc4_2 is
+	port( a : in std_logic_vector(3 downto 0);
+			b : out std_logic_vector(1 downto 0));
+end PEnc4_2;
+
+architecture Behavioral of PEnc4_2 is
+	begin
+		process(a)
+		begin
+			if("1000") then
+				b <= "00";
+			elsif("0100") then
+				b <= "01";
+			elsif("0010") then
+				b <= "10";
+			elsif("0001") then
+				b <= "11";
+			else
+				b <= "XX";
+			end if;
+		end process;
+end Behavioral;

@@ -1,0 +1,92 @@
+|implementation
+LEDG[0] <= ShiftRegister6:inst1.dataOut[0]
+LEDG[1] <= ShiftRegister6:inst1.dataOut[1]
+LEDG[2] <= ShiftRegister6:inst1.dataOut[2]
+LEDG[3] <= ShiftRegister6:inst1.dataOut[3]
+LEDG[4] <= ShiftRegister6:inst1.dataOut[4]
+LEDG[5] <= ShiftRegister6:inst1.dataOut[5]
+CLOCK_50 => ShiftRegister6:inst1.clk
+CLOCK_50 => PulseGenerator:inst.clk
+KEY[0] => ShiftRegister6:inst1.reset
+
+
+|implementation|ShiftRegister6:inst1
+clk => s_shiftReg[0].CLK
+clk => s_shiftReg[1].CLK
+clk => s_shiftReg[2].CLK
+clk => s_shiftReg[3].CLK
+clk => s_shiftReg[4].CLK
+clk => s_shiftReg[5].CLK
+sin => s_shiftReg.DATAA
+reset => s_shiftReg.OUTPUTSELECT
+reset => s_shiftReg.OUTPUTSELECT
+reset => s_shiftReg.OUTPUTSELECT
+reset => s_shiftReg.OUTPUTSELECT
+reset => s_shiftReg.OUTPUTSELECT
+reset => s_shiftReg.OUTPUTSELECT
+dataOut[0] <= s_shiftReg[0].DB_MAX_OUTPUT_PORT_TYPE
+dataOut[1] <= s_shiftReg[1].DB_MAX_OUTPUT_PORT_TYPE
+dataOut[2] <= s_shiftReg[2].DB_MAX_OUTPUT_PORT_TYPE
+dataOut[3] <= s_shiftReg[3].DB_MAX_OUTPUT_PORT_TYPE
+dataOut[4] <= s_shiftReg[4].DB_MAX_OUTPUT_PORT_TYPE
+dataOut[5] <= s_shiftReg[5].DB_MAX_OUTPUT_PORT_TYPE
+
+
+|implementation|PulseGenerator:inst
+clk => s_cnt[0].CLK
+clk => s_cnt[1].CLK
+clk => s_cnt[2].CLK
+clk => s_cnt[3].CLK
+clk => s_cnt[4].CLK
+clk => s_cnt[5].CLK
+clk => s_cnt[6].CLK
+clk => s_cnt[7].CLK
+clk => s_cnt[8].CLK
+clk => s_cnt[9].CLK
+clk => s_cnt[10].CLK
+clk => s_cnt[11].CLK
+clk => s_cnt[12].CLK
+clk => s_cnt[13].CLK
+clk => s_cnt[14].CLK
+clk => s_cnt[15].CLK
+clk => s_cnt[16].CLK
+clk => s_cnt[17].CLK
+clk => s_cnt[18].CLK
+clk => s_cnt[19].CLK
+clk => s_cnt[20].CLK
+clk => s_cnt[21].CLK
+clk => s_cnt[22].CLK
+clk => s_cnt[23].CLK
+clk => s_cnt[24].CLK
+clk => s_cnt[25].CLK
+clk => pulse~reg0.CLK
+reset => s_cnt.OUTPUTSELECT
+reset => s_cnt.OUTPUTSELECT
+reset => s_cnt.OUTPUTSELECT
+reset => s_cnt.OUTPUTSELECT
+reset => s_cnt.OUTPUTSELECT
+reset => s_cnt.OUTPUTSELECT
+reset => s_cnt.OUTPUTSELECT
+reset => s_cnt.OUTPUTSELECT
+reset => s_cnt.OUTPUTSELECT
+reset => s_cnt.OUTPUTSELECT
+reset => s_cnt.OUTPUTSELECT
+reset => s_cnt.OUTPUTSELECT
+reset => s_cnt.OUTPUTSELECT
+reset => s_cnt.OUTPUTSELECT
+reset => s_cnt.OUTPUTSELECT
+reset => s_cnt.OUTPUTSELECT
+reset => s_cnt.OUTPUTSELECT
+reset => s_cnt.OUTPUTSELECT
+reset => s_cnt.OUTPUTSELECT
+reset => s_cnt.OUTPUTSELECT
+reset => s_cnt.OUTPUTSELECT
+reset => s_cnt.OUTPUTSELECT
+reset => s_cnt.OUTPUTSELECT
+reset => s_cnt.OUTPUTSELECT
+reset => s_cnt.OUTPUTSELECT
+reset => s_cnt.OUTPUTSELECT
+reset => pulse.OUTPUTSELECT
+pulse <= pulse~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+

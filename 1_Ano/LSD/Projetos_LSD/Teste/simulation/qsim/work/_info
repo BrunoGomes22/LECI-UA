@@ -1,0 +1,96 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/bgfgo/Projetos_LSD/Teste/simulation/qsim
+Earithmeticunit
+Z1 w1655941270
+Z2 DPx4 ieee 16 vital_primitives 0 22 G>kiXP8Q9dRClKfK1Zn7j1
+Z3 DPx10 cycloneive 20 cycloneive_atom_pack 0 22 N5CzKW88F^ShIK@<7Vek12
+Z4 DPx4 ieee 12 vital_timing 0 22 J>EBealN09f8GzldA[z2>3
+Z5 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z6 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z7 DPx10 cycloneive 21 cycloneive_components 0 22 K8IbX`K5[Y1gJUKg2X_071
+R0
+Z8 8ArithmeticUnit.vho
+Z9 FArithmeticUnit.vho
+l0
+L34
+V7O^gbB28oo[N2BNDKWBfW0
+!s100 >zMfO36HbDT`0::z7bmH63
+Z10 OV;C;10.5b;63
+32
+Z11 !s110 1655941273
+!i10b 1
+Z12 !s108 1655941273.000000
+Z13 !s90 -work|work|ArithmeticUnit.vho|
+Z14 !s107 ArithmeticUnit.vho|
+!i113 1
+Z15 o-work work
+Z16 tExplicit 1 CvgOpt 0
+Astructure
+R2
+R3
+R4
+R5
+R6
+R7
+DEx4 work 14 arithmeticunit 0 22 7O^gbB28oo[N2BNDKWBfW0
+l118
+L43
+VThd5Jeh;z`7]9:UXc;T@m2
+!s100 DJ^0eiS>YBonCSbXdn41f3
+R10
+32
+R11
+!i10b 1
+R12
+R13
+R14
+!i113 1
+R15
+R16
+Earithmeticunit_vhd_vec_tst
+Z17 w1655941269
+R5
+R6
+R0
+Z18 8ArithTest.vwf.vht
+Z19 FArithTest.vwf.vht
+l0
+L31
+VeM:fdj?0T<38la5S=kO0F1
+!s100 O<NPZ;DKj>BK07_4XeV2F2
+R10
+32
+R11
+!i10b 1
+R12
+Z20 !s90 -work|work|ArithTest.vwf.vht|
+Z21 !s107 ArithTest.vwf.vht|
+!i113 1
+R15
+R16
+Aarithmeticunit_arch
+R5
+R6
+Z22 DEx4 work 26 arithmeticunit_vhd_vec_tst 0 22 eM:fdj?0T<38la5S=kO0F1
+l48
+L33
+V5n3;XLOCfgZAl4A1S2YmQ2
+!s100 U=DB7>]Slcn@ej0zgBLE]1
+R10
+32
+R11
+!i10b 1
+R12
+R20
+R21
+!i113 1
+R15
+R16

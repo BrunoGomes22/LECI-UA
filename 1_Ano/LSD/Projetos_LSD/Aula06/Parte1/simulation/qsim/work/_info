@@ -1,0 +1,100 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/bgfgo/Projetos_LSD/Aula06/Parte1/simulation/qsim
+Eshiftregister4
+Z1 w1650533434
+Z2 DPx10 cycloneive 20 cycloneive_atom_pack 0 22 N5CzKW88F^ShIK@<7Vek12
+Z3 DPx10 cycloneive 21 cycloneive_components 0 22 K8IbX`K5[Y1gJUKg2X_071
+Z4 DPx4 ieee 16 vital_primitives 0 22 G>kiXP8Q9dRClKfK1Zn7j1
+Z5 DPx6 altera 11 dffeas_pack 0 22 ?bDUB9Db2N8iCCALNL;CT3
+Z6 DPx4 ieee 12 vital_timing 0 22 J>EBealN09f8GzldA[z2>3
+Z7 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z8 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z9 DPx6 altera 28 altera_primitives_components 0 22 c]VUMXSEi8Z`KM1bem<:B3
+R0
+Z10 8ShiftRegister_Demo.vho
+Z11 FShiftRegister_Demo.vho
+l0
+L36
+V_Sf4I^9`k6k]PN;AHb>@`3
+!s100 i:W`O`YUQcf=gBL>Sm3dk3
+Z12 OV;C;10.5b;63
+32
+Z13 !s110 1650533438
+!i10b 1
+Z14 !s108 1650533437.000000
+Z15 !s90 -work|work|ShiftRegister_Demo.vho|
+Z16 !s107 ShiftRegister_Demo.vho|
+!i113 1
+Z17 o-work work
+Z18 tExplicit 1 CvgOpt 0
+Astructure
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R9
+DEx4 work 14 shiftregister4 0 22 _Sf4I^9`k6k]PN;AHb>@`3
+l65
+L44
+V`H]>e;E]2jL][0fVi[C9O1
+!s100 bMagbA@<:;jz;6;7YYFlD0
+R12
+32
+R13
+!i10b 1
+R14
+R15
+R16
+!i113 1
+R17
+R18
+Eshiftregister4_vhd_vec_tst
+Z19 w1650533433
+R7
+R8
+R0
+Z20 8ShiftRegister4.vwf.vht
+Z21 FShiftRegister4.vwf.vht
+l0
+L31
+VhG2CZiT<AnBRafnd]iIRd2
+!s100 AbL2e[:DJOYLbKI=g<IG[2
+R12
+32
+R13
+!i10b 1
+Z22 !s108 1650533438.000000
+Z23 !s90 -work|work|ShiftRegister4.vwf.vht|
+Z24 !s107 ShiftRegister4.vwf.vht|
+!i113 1
+R17
+R18
+Ashiftregister4_arch
+R7
+R8
+DEx4 work 26 shiftregister4_vhd_vec_tst 0 22 hG2CZiT<AnBRafnd]iIRd2
+l46
+L33
+VIj`LGa1EeGMg9GDTB9UAC3
+!s100 kTVaL^UoZ;K=KgL;iI7Y;3
+R12
+32
+R13
+!i10b 1
+R22
+R23
+R24
+!i113 1
+R17
+R18

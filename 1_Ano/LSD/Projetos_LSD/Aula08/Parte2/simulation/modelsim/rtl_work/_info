@@ -1,0 +1,89 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/bgfgo/Projetos_LSD/Aula08/Parte2/simulation/modelsim
+Edrinksfsm
+Z1 w1654023642
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R0
+Z4 8C:/Users/bgfgo/Projetos_LSD/Aula08/Parte2/DrinksFSM.vhd
+Z5 FC:/Users/bgfgo/Projetos_LSD/Aula08/Parte2/DrinksFSM.vhd
+l0
+L4
+Vb6G7Sc;V@0;PLim_[TBME0
+!s100 e?Km6I=iRWCj^k?OIC]Eh2
+Z6 OV;C;10.5b;63
+31
+Z7 !s110 1654025846
+!i10b 1
+Z8 !s108 1654025846.000000
+Z9 !s90 -reportprogress|300|-93|-work|work|C:/Users/bgfgo/Projetos_LSD/Aula08/Parte2/DrinksFSM.vhd|
+Z10 !s107 C:/Users/bgfgo/Projetos_LSD/Aula08/Parte2/DrinksFSM.vhd|
+!i113 1
+Z11 o-93 -work work
+Z12 tExplicit 1 CvgOpt 0
+Abehavioral
+R2
+R3
+Z13 DEx4 work 9 drinksfsm 0 22 b6G7Sc;V@0;PLim_[TBME0
+l18
+L13
+Vd36;gTZaVHBM2ZS>4Od@H2
+!s100 _d25SiM135WDNoG[F`8?k1
+R6
+31
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Edrinksfsmtb
+Z14 w1654025606
+R2
+R3
+R0
+Z15 8C:/Users/bgfgo/Projetos_LSD/Aula08/Parte2/DrinksFSMTb.vhd
+Z16 FC:/Users/bgfgo/Projetos_LSD/Aula08/Parte2/DrinksFSMTb.vhd
+l0
+L4
+VESH?04g:AO8MA2:B6jA0?1
+!s100 9=1_o?n^b81`=P^?U>ooZ0
+R6
+32
+Z17 !s110 1654025889
+!i10b 1
+Z18 !s108 1654025889.000000
+Z19 !s90 -reportprogress|300|-work|work|C:/Users/bgfgo/Projetos_LSD/Aula08/Parte2/DrinksFSMTb.vhd|
+Z20 !s107 C:/Users/bgfgo/Projetos_LSD/Aula08/Parte2/DrinksFSMTb.vhd|
+!i113 1
+Z21 o-work work
+R12
+Astimulus
+R13
+R2
+R3
+DEx4 work 11 drinksfsmtb 0 22 ESH?04g:AO8MA2:B6jA0?1
+l9
+L7
+VC<>F0hOVNe>bT^5o08KGQ0
+!s100 3YnPN^n9zjkK23K<GS5;g3
+R6
+32
+R17
+!i10b 1
+R18
+R19
+R20
+!i113 1
+R21
+R12

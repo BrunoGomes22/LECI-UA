@@ -1,0 +1,32 @@
+library IEEE;
+use IEEE.STD_LOGIC_1164.all;
+use IEEE.NUMERIC_STD.all;
+
+entity RAM_1P_16_8 is
+	port (clk : in std_logic;
+			writeEnable : in std_logic;
+			writeData : in std_logic_vector(7 downto 0);
+			address : in std_logic_vector(3 downto 0);
+			readData : out std_logic_vector(7 downto 0));
+end RAM_1P_16_8;
+
+architecture Behavioral of RAM_1P_16_8 is
+	subtype TDataWord is std_logic_vector(7 downto 0); --tamanho da palavra
+	type TMemory is array (0 to 15) of TDataWord; -- slots para "armazenar" palavras
+	signal s_memory : TMemory;
+	--constant c_memory : TMemory:=("00000000", "00000001", "00000010", "00000011",
+											--"00000100", "00000101", "00000110", "00000111",
+											--"00001000", "00001001", "00001010", "00001011",
+											--"00001100", "00001101", "00001110", "00001111");										
+begin
+	process(clk)
+	begin
+		if(rising_edge(clk)) then
+			if(writeEnable = '1') then
+				s_memory(to_integer(unsigned(address))) <= writeData;
+			end if;
+		end if;
+	end process;
+				
+	readData <= s_memory(to_integer(unsigned(address)));
+end Behavioral;

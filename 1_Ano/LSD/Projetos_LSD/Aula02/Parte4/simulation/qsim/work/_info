@@ -1,0 +1,96 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/bgfgo/Projetos_LSD/Aula02/Parte4/simulation/qsim
+Epenc4_2
+Z1 w1648490087
+Z2 DPx4 ieee 16 vital_primitives 0 22 G>kiXP8Q9dRClKfK1Zn7j1
+Z3 DPx10 cycloneive 20 cycloneive_atom_pack 0 22 N5CzKW88F^ShIK@<7Vek12
+Z4 DPx4 ieee 12 vital_timing 0 22 J>EBealN09f8GzldA[z2>3
+Z5 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z6 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z7 DPx10 cycloneive 21 cycloneive_components 0 22 K8IbX`K5[Y1gJUKg2X_071
+R0
+Z8 8PEnc4_2Demo.vho
+Z9 FPEnc4_2Demo.vho
+l0
+L34
+VXOI;PPXdPK;O6g1V1jcil3
+!s100 ]kg38Y09QbKmH?lQZlRE`3
+Z10 OV;C;10.5b;63
+32
+Z11 !s110 1648490088
+!i10b 1
+Z12 !s108 1648490088.000000
+Z13 !s90 -work|work|PEnc4_2Demo.vho|
+Z14 !s107 PEnc4_2Demo.vho|
+!i113 1
+Z15 o-work work
+Z16 tExplicit 1 CvgOpt 0
+Astructure
+R2
+R3
+R4
+R5
+R6
+R7
+DEx4 work 7 penc4_2 0 22 XOI;PPXdPK;O6g1V1jcil3
+l65
+L41
+V`RG73kLmlo1^CWh87lh[:1
+!s100 L46?Po4NjdA`PAcj]2==S0
+R10
+32
+R11
+!i10b 1
+R12
+R13
+R14
+!i113 1
+R15
+R16
+Epenc4_2_vhd_vec_tst
+Z17 w1648490085
+R5
+R6
+R0
+Z18 8PEnc4_2.vwf.vht
+Z19 FPEnc4_2.vwf.vht
+l0
+L31
+VZ?hMeb8JEEa46RWe]VaMV1
+!s100 DW_eLDFlf5^4B6aIG2QRm2
+R10
+32
+R11
+!i10b 1
+R12
+Z20 !s90 -work|work|PEnc4_2.vwf.vht|
+Z21 !s107 PEnc4_2.vwf.vht|
+!i113 1
+R15
+R16
+Apenc4_2_arch
+R5
+R6
+Z22 DEx4 work 19 penc4_2_vhd_vec_tst 0 22 Z?hMeb8JEEa46RWe]VaMV1
+l44
+L33
+VDF4H;h39m>J7C8Nd>8MQm1
+!s100 mZ7S[@hnGco[09gJf[QDQ2
+R10
+32
+R11
+!i10b 1
+R12
+R20
+R21
+!i113 1
+R15
+R16

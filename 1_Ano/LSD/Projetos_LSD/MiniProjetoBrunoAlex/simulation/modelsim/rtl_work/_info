@@ -1,0 +1,130 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/bgfgo/Projetos_LSD/MiniProjetoBrunoAlex/simulation/modelsim
+Epulsegenerator
+Z1 w1652952599
+Z2 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R0
+Z5 8C:/Users/bgfgo/Projetos_LSD/MiniProjetoBrunoAlex/PulseGenerator.vhd
+Z6 FC:/Users/bgfgo/Projetos_LSD/MiniProjetoBrunoAlex/PulseGenerator.vhd
+l0
+L5
+V:Ah;dS2XVRh_Wm@K_aVPO1
+!s100 2^0OfjP60Vk@zb2e@N1Q^3
+Z7 OV;C;10.5b;63
+31
+Z8 !s110 1653553205
+!i10b 1
+Z9 !s108 1653553205.000000
+Z10 !s90 -reportprogress|300|-93|-work|work|C:/Users/bgfgo/Projetos_LSD/MiniProjetoBrunoAlex/PulseGenerator.vhd|
+Z11 !s107 C:/Users/bgfgo/Projetos_LSD/MiniProjetoBrunoAlex/PulseGenerator.vhd|
+!i113 1
+Z12 o-93 -work work
+Z13 tExplicit 1 CvgOpt 0
+Abehavioral
+R2
+R3
+R4
+DEx4 work 14 pulsegenerator 0 22 :Ah;dS2XVRh_Wm@K_aVPO1
+l15
+L13
+V5n@eX:RZV[c_d[3XBI@[X3
+!s100 R`lP_VREa5;YEB3mGd4>i0
+R7
+31
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Eshiftregister6
+Z14 w1652957856
+R3
+R4
+R0
+Z15 8C:/Users/bgfgo/Projetos_LSD/MiniProjetoBrunoAlex/ShiftRegister6.vhd
+Z16 FC:/Users/bgfgo/Projetos_LSD/MiniProjetoBrunoAlex/ShiftRegister6.vhd
+l0
+L4
+VgJinJdMLG[_GE4OW3Y8?n0
+!s100 G@43>EL>[_0TJ[dn`?MPh3
+R7
+31
+R8
+!i10b 1
+R9
+Z17 !s90 -reportprogress|300|-93|-work|work|C:/Users/bgfgo/Projetos_LSD/MiniProjetoBrunoAlex/ShiftRegister6.vhd|
+Z18 !s107 C:/Users/bgfgo/Projetos_LSD/MiniProjetoBrunoAlex/ShiftRegister6.vhd|
+!i113 1
+R12
+R13
+Abehavioral
+R3
+R4
+Z19 DEx4 work 14 shiftregister6 0 22 gJinJdMLG[_GE4OW3Y8?n0
+l15
+L12
+V[VK]^:17XLIF:EV_:S3>R3
+!s100 PWlfEh>75l74E<T8G^KPW0
+R7
+31
+R8
+!i10b 1
+R9
+R17
+R18
+!i113 1
+R12
+R13
+Eshiftregister6_tb
+Z20 w1652954980
+R3
+R4
+R0
+Z21 8C:/Users/bgfgo/Projetos_LSD/MiniProjetoBrunoAlex/ShiftRegister6_Tb.vhd
+Z22 FC:/Users/bgfgo/Projetos_LSD/MiniProjetoBrunoAlex/ShiftRegister6_Tb.vhd
+l0
+L4
+VJ`?FQ`;DfNU=FSmV2N4U>3
+!s100 3NeS1;1^:_PM?;m`fVIki3
+R7
+32
+Z23 !s110 1653553298
+!i10b 1
+Z24 !s108 1653553298.000000
+Z25 !s90 -reportprogress|300|-work|work|C:/Users/bgfgo/Projetos_LSD/MiniProjetoBrunoAlex/ShiftRegister6_Tb.vhd|
+Z26 !s107 C:/Users/bgfgo/Projetos_LSD/MiniProjetoBrunoAlex/ShiftRegister6_Tb.vhd|
+!i113 1
+Z27 o-work work
+R13
+Astimulus
+R19
+R3
+R4
+DEx4 work 17 shiftregister6_tb 0 22 J`?FQ`;DfNU=FSmV2N4U>3
+l17
+L7
+VB6][Laaak`GTzNiaKVY<F3
+!s100 >RhmP8iZJzY0;Y[JZOYd_1
+R7
+32
+R23
+!i10b 1
+R24
+R25
+R26
+!i113 1
+R27
+R13

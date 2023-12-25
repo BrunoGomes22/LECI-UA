@@ -1,0 +1,107 @@
+|ROM_Demo
+CLOCK_50 => clkdividern:FreqDivider.clkIn
+KEY[0] => counterupdown4:Counter.reset
+LEDR[0] <= rom_16_8:ROM.dataOut[0]
+LEDR[1] <= rom_16_8:ROM.dataOut[1]
+LEDR[2] <= rom_16_8:ROM.dataOut[2]
+LEDR[3] <= rom_16_8:ROM.dataOut[3]
+LEDR[4] <= rom_16_8:ROM.dataOut[4]
+LEDR[5] <= rom_16_8:ROM.dataOut[5]
+LEDR[6] <= rom_16_8:ROM.dataOut[6]
+LEDR[7] <= rom_16_8:ROM.dataOut[7]
+LEDG[0] <= comb.DB_MAX_OUTPUT_PORT_TYPE
+LEDG[1] <= LEDG[1].DB_MAX_OUTPUT_PORT_TYPE
+LEDG[2] <= LEDG[2].DB_MAX_OUTPUT_PORT_TYPE
+LEDG[3] <= LEDG[3].DB_MAX_OUTPUT_PORT_TYPE
+LEDG[4] <= LEDG[4].DB_MAX_OUTPUT_PORT_TYPE
+LEDG[5] <= LEDG[5].DB_MAX_OUTPUT_PORT_TYPE
+LEDG[6] <= LEDG[6].DB_MAX_OUTPUT_PORT_TYPE
+LEDG[7] <= LEDG[7].DB_MAX_OUTPUT_PORT_TYPE
+LEDG[8] <= LEDG[8].DB_MAX_OUTPUT_PORT_TYPE
+
+
+|ROM_Demo|ClkDividerN:FreqDivider
+clkIn => s_divCounter[0].CLK
+clkIn => s_divCounter[1].CLK
+clkIn => s_divCounter[2].CLK
+clkIn => s_divCounter[3].CLK
+clkIn => s_divCounter[4].CLK
+clkIn => s_divCounter[5].CLK
+clkIn => s_divCounter[6].CLK
+clkIn => s_divCounter[7].CLK
+clkIn => s_divCounter[8].CLK
+clkIn => s_divCounter[9].CLK
+clkIn => s_divCounter[10].CLK
+clkIn => s_divCounter[11].CLK
+clkIn => s_divCounter[12].CLK
+clkIn => s_divCounter[13].CLK
+clkIn => s_divCounter[14].CLK
+clkIn => s_divCounter[15].CLK
+clkIn => s_divCounter[16].CLK
+clkIn => s_divCounter[17].CLK
+clkIn => s_divCounter[18].CLK
+clkIn => s_divCounter[19].CLK
+clkIn => s_divCounter[20].CLK
+clkIn => s_divCounter[21].CLK
+clkIn => s_divCounter[22].CLK
+clkIn => s_divCounter[23].CLK
+clkIn => s_divCounter[24].CLK
+clkIn => s_divCounter[25].CLK
+clkIn => s_divCounter[26].CLK
+clkIn => s_divCounter[27].CLK
+clkIn => s_divCounter[28].CLK
+clkIn => s_divCounter[29].CLK
+clkIn => s_divCounter[30].CLK
+clkIn => clkOut~reg0.CLK
+clkOut <= clkOut~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|ROM_Demo|CounterUpDown4:Counter
+clk => s_count[0].CLK
+clk => s_count[1].CLK
+clk => s_count[2].CLK
+clk => s_count[3].CLK
+upDown => s_count.OUTPUTSELECT
+upDown => s_count.OUTPUTSELECT
+upDown => s_count.OUTPUTSELECT
+upDown => s_count.OUTPUTSELECT
+reset => s_count.OUTPUTSELECT
+reset => s_count.OUTPUTSELECT
+reset => s_count.OUTPUTSELECT
+reset => s_count.OUTPUTSELECT
+count[0] <= s_count[0].DB_MAX_OUTPUT_PORT_TYPE
+count[1] <= s_count[1].DB_MAX_OUTPUT_PORT_TYPE
+count[2] <= s_count[2].DB_MAX_OUTPUT_PORT_TYPE
+count[3] <= s_count[3].DB_MAX_OUTPUT_PORT_TYPE
+
+
+|ROM_Demo|ROM_16_8:ROM
+address[0] => Mux0.IN19
+address[0] => Mux2.IN19
+address[0] => Mux3.IN19
+address[0] => dataOut[0].DATAIN
+address[1] => Mux0.IN18
+address[1] => Mux1.IN10
+address[1] => Mux2.IN18
+address[1] => Mux3.IN18
+address[1] => dataOut[1].DATAIN
+address[2] => Mux0.IN17
+address[2] => Mux1.IN9
+address[2] => Mux2.IN17
+address[2] => Mux3.IN17
+address[2] => dataOut[2].DATAIN
+address[3] => Mux0.IN16
+address[3] => Mux1.IN8
+address[3] => Mux2.IN16
+address[3] => Mux3.IN16
+address[3] => dataOut[3].DATAIN
+dataOut[0] <= address[0].DB_MAX_OUTPUT_PORT_TYPE
+dataOut[1] <= address[1].DB_MAX_OUTPUT_PORT_TYPE
+dataOut[2] <= address[2].DB_MAX_OUTPUT_PORT_TYPE
+dataOut[3] <= address[3].DB_MAX_OUTPUT_PORT_TYPE
+dataOut[4] <= Mux3.DB_MAX_OUTPUT_PORT_TYPE
+dataOut[5] <= Mux2.DB_MAX_OUTPUT_PORT_TYPE
+dataOut[6] <= Mux1.DB_MAX_OUTPUT_PORT_TYPE
+dataOut[7] <= Mux0.DB_MAX_OUTPUT_PORT_TYPE
+
+

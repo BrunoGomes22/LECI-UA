@@ -1,0 +1,62 @@
+library IEEE;
+use IEEE.STD_LOGIC_1164.all;
+
+entity Register8 is
+	port (clk : in std_logic;
+			dataIn : in std_logic_vector(7 downto 0);
+			dataOut : out std_logic_vector(7 downto 0);
+			wrEn : in std_logic);
+end Register8;
+
+architecture Behavioral of Register8 is
+begin 
+
+r0 : entity work.FlipFlopD(Behavioral)
+			port map(clk => clk;
+						d => dataIn(0),
+						q => dataOut(0),
+						En => wrEn);
+						
+r1 : entity work.FlipFlopD(Behavioral)
+			port map(clk => clk;
+						d => dataIn(1),
+						q => dataIn(1),
+						En => wrEn);
+						
+r2 : entity work.FlipFlopD(Behavioral)
+			port map(clk => clk;
+						d => dataIn(2),
+						q => dataIn(2),
+						En => wrEn);
+						
+r3 : entity work.FlipFlopD(Behavioral)
+			port map(clk => clk;
+						d => dataIn(3),
+						q => dataIn(3),
+						En => wrEn);
+						
+r4 : entity work.FlipFlopD(Behavioral)
+			port map(clk => clk;
+						d => dataIn(4),
+						q => dataIn(4),
+						En => wrEn);
+						
+						r5 : entity work.FlipFlopD(Behavioral)
+			port map(clk => clk;
+						d => dataIn(5),
+						q => dataIn(5),
+						En => wrEn);
+						
+r6 : entity work.FlipFlopD(Behavioral)
+			port map(clk => clk;
+						d => dataIn(6),
+						q => dataIn(6),
+						En => wrEn);
+						
+r7 : entity work.FlipFlopD(Behavioral)
+			port map(clk => clk;
+						d => dataIn(7),
+						q => dataIn(7),
+						En => wrEn);
+	
+end Behavioral;
