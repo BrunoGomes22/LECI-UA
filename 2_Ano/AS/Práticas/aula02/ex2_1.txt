@@ -1,0 +1,8 @@
+Cenário: Online shopping
+
+Inicialmente temos um cliente num certo website que pode ser um cliente já registado (com conta criada no website) ou pode ser um cliente que ainda não se registou no website.
+	
+	1ª situação (cliente registado): Neste caso o cliente tem acesso a duas ações, este pode "ver itens" no site ou pode realizar uma compra, no entanto, segundo o diagrama vemos que 		a ação de realizar uma compra está dependente de ter visto algum item e a realização do checkout. Por sua vez, para o checkout ser feito, tem de haver um serviço de autenticação e 	um provedor de identidade. Os métodos de pagamento disponíveis são o PayPal e cartão de crédito;
+
+	2ª situação (cliente não registado):  Neste caso o cliente pode ver itens no site ou pode-se registar no mesmo. Para o cliente conseguir registar-se tem de existir um serviço de 	autenticação.
+
