@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>título</title>
+		<script> 
+			function soma(x,y){
+				return x+y;
+			}
+			
+			var resultado1 = soma(3,4);
+			console.log(resultado1);
+			
+			function multiplicação(x,y){
+				return x*y;
+			}
+			
+			var resultado2 = multiplicação(6,2);
+			console.log(resultado2);
+			
+			function divisão(x,y){
+				return x/y;
+			}
+			
+			var resultado3 = divisão(12,6);
+			console.log(resultado3);
+			
+			function subtração(x,y){
+				return x-y;
+			}
+			
+			var resultado4 = subtração(9,8);
+			console.log(resultado4);
+		</script>
+		
+	</head>
+	
+	<body>
+	
+		<input id="op1" value="2"/>
+		<span id="op-view">+</span>
+		<input id="op2" value="3"/>
+		<input id="res" value=""/><br\>
+		
+		<select onchange="operation(this)">
+			<option value="+">Soma</option>
+			<option value="-">Subtração</option>
+			<option value="*">Multiplicação</option>
+			<option value="/">Divisão</option>
+		</select>
+		
+		<button id="btn" onclick="calcular()" onmouseover="mover('btn')">Calcular</button>
+	<script type="text/javascript" src="guiao10.js" ></script>
+	</body>
+</html>

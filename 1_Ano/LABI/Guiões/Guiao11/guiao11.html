@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="pt">
+	<head>
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>Guiao11</title>
+		<!-- Bootstrap minified CSS -->
+		<link rel="stylesheet"
+		href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+		<!-- Optional theme -->
+		<link rel="stylesheet"
+		href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css">
+		<!-- jQuery library -->
+		<script 
+		src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+		<!-- Bootstrap JavaScript -->
+		<script
+		src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+		<script type="text/javascript" src="http://code.highcharts.com/highcharts.js"></script>
+		<!-- LeafLet J -->
+		<link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.2/dist/leaflet.css">
+		<script src="https://unpkg.com/leaflet@1.0.2/dist/leaflet.js"></script>
+
+	</head>
+
+	<body>
+		<div class="container">
+			<nav class="navbar navbar-default">
+				<div class="navbar-header">
+					<a class="navbar-brand" href ="#">LABI</a>
+				</div>
+				
+				<div class="navbar-collapse collapes">
+					<ul class="nav navbar-nav">
+						<li class="active"><a href ="#topicoA">TópicoA</a></li>
+						<li><a href="#topicoB">TópicoB</a></li>
+						<li class="dropdown">
+							<a href="#" class="dropdown-toggle" data-toggle="dropdown">
+								TópicoC<b class="caret"></b></a>
+							<ul class="dropdown-menu">
+								<li><a href="#opcao1">Opção1</a></li>
+								<li class="divider"></li>
+								<li><a href="#">Opção2</a></li>
+							</ul>
+						</li>
+					</ul>
+					<ul class="nav navbar-nav navbar-right">
+						<li class="active"><a href="#">Default</a></li>
+					</ul>
+				</div>
+			</nav>
+			<h2 id="topicoA">Este é o Tópico A</h2>
+			<div id="oMeuPopup" class="modal fade">
+				<div class="modal-dialog">
+					<div class="modal-content">
+						<div class="modal-header">
+							<button type="button" class="close"
+							data-dismiss="modal" aria-hidden="true">
+								&times;
+							</button>
+							<h4 class="modal-title">Título4</h4>
+						</div>
+						<div class="modal-body">
+							<p>Conteúdo</p>
+						</div>
+						<div class="modal-footer">
+							<button type="button" class="btn btn-default" data-dismiss="modal">Fechar</button>
+						</div>
+					</div>
+				</div>
+			</div>
+			<button class="btn btn-primary" data-toggle="modal" data-target="#oMeuPopup">
+				Lançar popup
+			</button>
+			<h2 id="topicoB">Este é o Tópico B</h2>
+				<div id="grafico-linhas" style="width:400px;height:300px;">
+					<script type="text/javascript" src="funcoes.js"></script>
+					<button class="btn btn-primary" onclick="desenhaGrafico()">
+						Grafico de linhas
+					</button>
+				</div>
+			<h2 id="opcao1">Este é o Tópico C</h2>
+			<span id="coordenadas"></span>
+				<div id="oMeuMapa" style="width:500px;height:400px" >				
+					<script type="text/javascript" src="map.js"></script>
+				</div>
+			<h2 id="opcao2">Este é o Tópico D</h2>
+				<div id="disqus_thread"></div>
+<script>
+   
+    var disqus_config = function () {
+        this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+        this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+    };
+    
+    (function() {  // DON'T EDIT BELOW THIS LINE
+        var d = document, s = d.createElement('script');
+        
+        s.src = 'https://jamesgosling.disqus.com/embed.js';
+        
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+			(Conteúdo da página)
+		</div>
+	</body>
+</html>
