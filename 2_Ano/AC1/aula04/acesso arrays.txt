@@ -1,0 +1,12 @@
+quando é array de chars é + 1
+quando é array de ints é + 4
+
+acesso arrays:
+
+	- indexado: 
+		-variável contagem "i" é incrementada de 1 em 1
+		- o endereço é calculado somando o endereço base + i x (tamanho do tipo)
+
+	- ponteiro:
+		-ler o endereço inicial (1º elemento do array)
+		-acedem a elementos subsequentes do array somando o tamanho do tipo

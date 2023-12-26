@@ -1,0 +1,9 @@
+X1 ocupa 6 posições de memória (temos de contar com o '/n') quando é asciiZ
+
+o label X2 corresponde ao endereço 0x10010008 (por causa do .align 2)
+
+o array só pode ter 5 elementos no máximo (se o X2 for o endereço inicial de um arr de inteiros)
+
+ 0x10010008 + 4 + 4 + 4   endereço deste elemento -> X2[3]
+
+ 0X10010000 até X3 : 0x1001001C
