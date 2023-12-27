@@ -1,0 +1,9 @@
+eHealth Corp
+Appointment results
+
+Appointment ID: 4
+Doctor: Ken Mccoy
+Patient: bg34567
+Date: 2022-01-01
+Time: 12:12
+Result: Treated
