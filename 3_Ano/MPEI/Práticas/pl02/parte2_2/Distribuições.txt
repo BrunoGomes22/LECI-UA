@@ -1,0 +1,8 @@
+Distribuição de Bernoulli:
+Quando Usar: A distribuição de Bernoulli é usada quando há dois resultados possíveis (sucesso ou fracasso) em um único experimento de Bernoulli. Exemplos incluem lançar uma moeda (cara ou coroa) ou o sucesso ou fracasso de um teste.
+
+Distribuição Binomial:
+Quando Usar: A distribuição binomial é usada quando há uma série de experimentos de Bernoulli independentes, cada um com a mesma probabilidade de sucesso. Exemplos incluem contar o número de caras ao lançar uma moeda várias vezes ou contar o número de acertos em uma série de testes.
+
+Distribuição de Poisson:
+Quando Usar: A distribuição de Poisson é usada para modelar a contagem de eventos raros em um intervalo fixo de tempo ou espaço. Por exemplo, o número de chamadas recebidas em uma central telefônica em uma hora pode ser modelado usando a distribuição de Poisson.

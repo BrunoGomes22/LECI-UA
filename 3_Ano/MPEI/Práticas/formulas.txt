@@ -1,0 +1,15 @@
+% m -> tamanho do filtro
+% n -> numero palavras
+% p -> probabilidade de falso positivo
+m = -(n * log(p)) / (log(2)^2); %formula para saber tamanho ideal do filtro usando probabilidades de falsos positivos
+m = ceil(m)
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%formula para determinar numero ideal de k (numero de funcoes de dispersao)
+k = round((m/n) * log(2));
+m is the size of the Bloom filter
+n is the number of items to be added to the Bloom filter
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

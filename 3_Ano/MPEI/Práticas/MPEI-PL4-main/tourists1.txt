@@ -1,0 +1,2000 @@
+1;Ema;Mendes Neves;Filmes;Viagens;Ténis;Andebol;Fotografia
+2;Martinha;Guerreiro Moreira;Andebol;Ténis;Gastronomia;Fotografia;Redes Sociais
+3;Kelvin;Pereira;Fórmula 1;História;Política;Viagens;Andebol
+4;Maria;Henriques Leite;Basquetebol;Viagens;Música;História;Programação
+5;Kayla;Miranda;História;Andebol;Leitura;Fórmula 1;Pintura
+6;Rebeca;Batista Loureiro;Viagens;Filmes;Fotografia;Fórmula 1;Escrita
+7;Suéli;Silva Neto;Redes Sociais;Escrita;Leitura;Fotografia;Andebol
+8;Aura;Miranda Simões;Basquetebol;História;Ténis;Jogos;Programação
+9;Mohamed;Campos;Redes Sociais;Leitura;Jogos;Programação;Viagens
+10;Flávio;Correia Sá;Política;Redes Sociais;Gastronomia;Filmes;Futebol
+11;Simara;Leal Morais;Redes Sociais;Basquetebol;Futebol;Fórmula 1;Gastronomia
+12;Denilson;Gonçalves Cunha;Andebol;Filmes;Viagens;Pintura;Leitura
+13;Álvaro;Figueiredo;Basquetebol;Futebol;Andebol;Jogos;Escrita
+14;Valentina;Ferreira;Viagens;Fórmula 1;Escrita;Pintura;Leitura
+15;Benjamim;Mota Ramos;Viagens;Escrita;Fotografia;Andebol;Gastronomia
+16;Mateus;Henriques;Futebol;Leitura;Jogos;Política;Escrita
+17;Lucas;Nogueira Campos;Futebol;Fotografia;Leitura;Música;Programação
+18;Natacha;Figueiredo Miranda;Música;Futebol;Leitura;Pintura;Gastronomia
+19;Mohammad;Rodrigues Cruz;Pintura;Futebol;Leitura;Fotografia;Basquetebol
+20;Luna;Rodrigues Cruz;Música;Política;Basquetebol;Filmes;Redes Sociais
+21;Benjamin;Antunes Lopes;Leitura;Fotografia;Futebol;Gastronomia;História
+22;Elias;Machado Neves;Basquetebol;História;Fotografia;Futebol;Programação
+23;Kenzo;Sá;Pintura;Política;Futebol;Fórmula 1;Basquetebol
+24;Noah;Magalhães;Jogos;Pintura;Viagens;Música;Fotografia
+25;Miranda;Mota Ramos;Fórmula 1;Futebol;História;Basquetebol;Ténis
+26;Nina;Raposo;Escrita;Viagens;Leitura;Ténis;Basquetebol
+27;Renata;Vicente Nogueira;Fotografia;Futebol;Escrita;Gastronomia;Fórmula 1
+28;Eunice;Assunção Pinho;Programação;Andebol;Fotografia;Redes Sociais;Filmes
+29;Sarah;Silva;Andebol;Ténis;Música;Futebol;Redes Sociais
+30;Misael;Pinho;Filmes;Política;Ténis;Programação;Escrita
+31;Israel;Raposo;Basquetebol;Gastronomia;Escrita;Filmes;História
+32;Ellen;Henriques Castro;Gastronomia;Viagens;Fotografia;Música;Pintura
+33;Simara;Gomes Carneiro;Leitura;Filmes;Basquetebol;Futebol;Política
+34;Angélica;Ribeiro;Futebol;Fotografia;Escrita;Redes Sociais;Fórmula 1
+35;Maia;Mendes Neves;Música;Redes Sociais;Filmes;Andebol;Gastronomia
+36;Misael;Ribeiro Tavares;Jogos;Futebol;Filmes;História;Pintura
+37;Denzel;Monteiro;Pintura;Basquetebol;História;Filmes;Fotografia
+38;Lívia;Brito Magalhães;Escrita;Ténis;Futebol;Filmes;Viagens
+39;Alonso;Melo Domingues;Leitura;Futebol;Política;Fotografia;História
+40;Miranda;Monteiro Fernandes;Gastronomia;Futebol;Andebol;Filmes;Programação
+41;Oriana;Abreu Figueiredo;Programação;Fotografia;Música;Andebol;Fórmula 1
+42;Luzia;Faria;Fotografia;História;Viagens;Jogos;Gastronomia
+43;Camila;Ramos;Jogos;Futebol;Escrita;Programação;Filmes
+44;Eliane;Assunção;Leitura;Futebol;Pintura;Viagens;Jogos
+45;Natacha;Pinho Abreu;Viagens;Filmes;Pintura;Fórmula 1;Leitura
+46;Camila;Teixeira Guerreiro;Programação;Jogos;Viagens;Fórmula 1;Basquetebol
+47;Vítor;Teixeira Magalhães;Programação;Andebol;Fórmula 1;Escrita;Viagens
+48;Alana;Fernandes Raposo;Leitura;Basquetebol;Fotografia;Futebol;Programação
+49;Maira;Esteves Mendes;Viagens;Basquetebol;História;Escrita;Música
+50;Daniel;Neto Faria;Futebol;Música;Gastronomia;Jogos;Viagens
+51;Natanael;Paiva Valente;Ténis;Redes Sociais;Pintura;Fórmula 1;Futebol
+52;Mohammad;Pinho Teixeira;Jogos;Redes Sociais;Fotografia;Política;Futebol
+53;Milena;Leal Leal;Fotografia;Filmes;Programação;História;Viagens
+54;Noemi;Machado Assunção;Gastronomia;Filmes;Fórmula 1;Basquetebol;Política
+55;Lídia;Matos Sá;Escrita;Política;Gastronomia;Música;Redes Sociais
+56;Angélica;Neto Nogueira;Jogos;Basquetebol;Filmes;Programação;Pintura
+57;Kyara;Batista Amorim;Redes Sociais;Música;Fórmula 1;Política;Futebol
+58;Matias;Valente Garcia;Programação;Viagens;Escrita;Futebol;Gastronomia
+59;Graça;Garcia Fernandes;Redes Sociais;Pintura;História;Política;Escrita
+60;Edgar;Martins Oliveira;Política;Ténis;Pintura;Filmes;Gastronomia
+61;Thiago;Mota Valente;Futebol;Leitura;Música;Fotografia;Viagens
+62;Noemi;Machado Neves;Leitura;Futebol;História;Jogos;Basquetebol
+63;Martim;Ferreira;Ténis;Fotografia;Fórmula 1;Programação;Filmes
+64;Beatriz;Amorim Amaral;Leitura;Andebol;Gastronomia;Viagens;Jogos
+65;Moisés;Maia Nogueira;Filmes;Música;Escrita;Leitura;Fotografia
+66;Liz;Campos Carvalho;Fotografia;Filmes;Escrita;Política;História
+67;Luis;Teixeira Mota;Viagens;Jogos;Política;Redes Sociais;Futebol
+68;Mafalda;Leite Matos;Música;Leitura;História;Gastronomia;Ténis
+69;Alberto;Maia Nogueira;Política;Leitura;Fotografia;Futebol;Programação
+70;Valéria;Rocha Rocha;Jogos;Fotografia;Futebol;Redes Sociais;Fórmula 1
+71;Félix;Torres Gomes;Leitura;Viagens;Fórmula 1;Pintura;Basquetebol
+72;Nádia;Faria Domingues;História;Viagens;Futebol;Ténis;Pintura
+73;Elsa;Castro Araújo;Filmes;Programação;Futebol;História;Fotografia
+74;Matilde;Tavares Rocha;Fotografia;Música;Futebol;Viagens;Programação
+75;Igor;Moura Fonseca;Pintura;Gastronomia;Fotografia;Fórmula 1;Escrita
+76;Lívia;Anjos;Andebol;História;Gastronomia;Fotografia;Jogos
+77;Samira;Melo Brito;Fotografia;História;Fórmula 1;Ténis;Pintura
+78;Samuel;Gonçalves Cunha;Viagens;Fotografia;Jogos;Andebol;Gastronomia
+79;Maia;Moreira;Política;Filmes;Futebol;Música;Fórmula 1
+80;James;Alves Santos;Pintura;Gastronomia;Filmes;Basquetebol;Fórmula 1
+81;Kelly;Machado Neves;Viagens;Redes Sociais;Futebol;Gastronomia;Escrita
+82;Alana;Morais;Escrita;Viagens;Programação;Política;História
+83;Sebastian;Miranda;Música;Gastronomia;Leitura;Fotografia;Andebol
+84;Esmeralda;Pires Reis;Pintura;Basquetebol;Redes Sociais;Andebol;Música
+85;Clarinha;Santos Henriques;Jogos;Andebol;Pintura;Programação;Escrita
+86;Luciana;Matias Moura;História;Ténis;Leitura;Jogos;Política
+87;Estêvão;Campos Pinto;Basquetebol;Fórmula 1;Música;Futebol;Escrita
+88;Ulisses;Amorim Abreu;Viagens;Gastronomia;Filmes;Fórmula 1;Política
+89;Simara;Abreu Figueiredo;Programação;Fotografia;Viagens;Redes Sociais;Fórmula 1
+90;Eduarda;Leal Amaral;Basquetebol;Fotografia;Pintura;Ténis;Filmes
+91;Ângelo;Silva;Basquetebol;Redes Sociais;Filmes;História;Andebol
+92;Milena;Pires;Andebol;Viagens;Filmes;Jogos;Política
+93;Viviane;Gonçalves Santos;Ténis;Escrita;Andebol;Pintura;História
+94;Teresa;Matos Rocha;Leitura;Jogos;Ténis;História;Pintura
+95;Elias;Cunha Valente;Redes Sociais;Fotografia;Fórmula 1;Leitura;Escrita
+96;Joel;Silva Neto;Filmes;Escrita;Programação;Jogos;História
+97;Orlando;Valente Barros;Viagens;Jogos;Ténis;Redes Sociais;Gastronomia
+98;Anna;Esteves Raposo;Leitura;Fórmula 1;Escrita;Andebol;Ténis
+99;Nataniel;Moura Fonseca;Futebol;Redes Sociais;Jogos;Gastronomia;Fotografia
+100;Pedro;Henriques Amaral;História;Programação;Política;Fotografia;Futebol
+101;Cláudia;Lourenço Cruz;Pintura;Programação;Música;Viagens;Redes Sociais
+102;Ângela;Silva Silva;Jogos;Basquetebol;Gastronomia;Leitura;Pintura
+103;Adriano;Silva;Programação;Fórmula 1;Filmes;Viagens;Jogos
+104;Vera;Almeida Garcia;Escrita;História;Viagens;Música;Jogos
+105;Larissa;Leite Matos;Filmes;Basquetebol;Leitura;Pintura;História
+106;Mikael;Branco Ferreira;Jogos;Fórmula 1;História;Programação;Fotografia
+107;Alberto;Torres;Ténis;Futebol;Música;Fotografia;Fórmula 1
+108;Márcia;Pires Henriques;Programação;Pintura;Política;Jogos;Fórmula 1
+109;Eliana;Fernandes Leite;Jogos;Redes Sociais;Leitura;Ténis;Filmes
+110;Daria;Paiva Valente;Andebol;Futebol;Leitura;Política;Gastronomia
+111;Adrian;Tavares Rocha;Jogos;Viagens;Ténis;Fórmula 1;Redes Sociais
+112;Daria;Marques Nascimento;Futebol;Fotografia;Ténis;Música;Programação
+113;Ary;Maia Branco;Basquetebol;Filmes;Fotografia;Andebol;Fórmula 1
+114;Tatiana;Nogueira Antunes;Gastronomia;Fórmula 1;Fotografia;Ténis;Música
+115;Joaquim;Pires Henriques;Escrita;Fórmula 1;Fotografia;Redes Sociais;Basquetebol
+116;Dennis;Abreu Martins;Escrita;Jogos;Viagens;Gastronomia;Futebol
+117;Ezequiel;Figueiredo;Viagens;Programação;Fórmula 1;Futebol;Política
+118;Adriel;Gaspar Magalhães;Fotografia;Ténis;Música;Futebol;Gastronomia
+119;Maia;Cunha;Música;Escrita;Andebol;Fotografia;Gastronomia
+120;Lúcia;Neto;História;Viagens;Leitura;Jogos;Fotografia
+121;Vítor;Paiva;Programação;Filmes;Gastronomia;Viagens;Música
+122;Adelaide;Miranda Maia;Basquetebol;Jogos;Escrita;Andebol;Filmes
+123;Mohamed;Esteves Morais;Fotografia;Programação;Redes Sociais;Andebol;História
+124;Valéria;Martins;Escrita;Andebol;Pintura;Gastronomia;Basquetebol
+125;Amanda;Gonçalves Cunha;Escrita;Andebol;História;Ténis;Programação
+126;Isabela;Fernandes Leite;Leitura;Redes Sociais;Política;Programação;Andebol
+127;Marcelo;Pinheiro Lopes;Andebol;Escrita;História;Música;Basquetebol
+128;Alana;Henriques Abreu;Música;História;Viagens;Futebol;Escrita
+129;Daria;Pinho Teixeira;Andebol;Filmes;História;Jogos;Leitura
+130;Aaron;Gonçalves;Andebol;Jogos;Gastronomia;Leitura;Futebol
+131;Aléxia;Teixeira Mota;Escrita;Fotografia;Pintura;Fórmula 1;Jogos
+132;Yasmin;Loureiro Barbosa;Basquetebol;Pintura;Música;Viagens;Filmes
+133;Benjamin;Cunha Valente;Programação;Futebol;Fotografia;Política;Gastronomia
+134;Enrique;Mendes;Leitura;Futebol;História;Escrita;Basquetebol
+135;Aléxis;Teixeira;Escrita;Pintura;Política;Andebol;Basquetebol
+136;Aura;Vieira Borges;Programação;Política;Basquetebol;Andebol;História
+137;Estrela;Leite Loureiro;Andebol;Programação;Redes Sociais;Pintura;Filmes
+138;Gil;Campos Pinto;Jogos;Política;Andebol;Basquetebol;História
+139;Romeu;Santos Mota;Ténis;Jogos;Fotografia;Filmes;Fórmula 1
+140;Vítor;Miranda Vaz;Basquetebol;Andebol;Futebol;Leitura;Escrita
+141;Cristina;Neto Nascimento;Viagens;Pintura;Fórmula 1;Música;Futebol
+142;Concha;Gaspar Pinheiro;Fórmula 1;Filmes;Redes Sociais;Futebol;Escrita
+143;Amália;Torres Gomes;Música;Redes Sociais;Fotografia;Viagens;Programação
+144;Laís;Castro Torres;Jogos;Música;Gastronomia;Basquetebol;Fotografia
+145;Kayla;Batista;Leitura;Política;História;Pintura;Viagens
+146;Telma;Mota Ramos;Pintura;Leitura;Gastronomia;Basquetebol;Música
+147;Isaac;Costa;Andebol;Programação;Gastronomia;Ténis;Fotografia
+148;Lília;Amaral;Futebol;Ténis;Redes Sociais;Música;Leitura
+149;Elena;Borges Moura;Fórmula 1;Futebol;Redes Sociais;Jogos;Gastronomia
+150;Deise;Anjos Pereira;Gastronomia;Fórmula 1;Programação;Viagens;Escrita
+151;Mário;Matos;Futebol;Gastronomia;Ténis;Viagens;Filmes
+152;Martinho;Ribeiro;Filmes;Andebol;Política;Viagens;Fórmula 1
+153;Tiago;Pacheco;Programação;Fórmula 1;Gastronomia;Filmes;Redes Sociais
+154;Mohamed;Esteves Morais;Filmes;Jogos;Música;Viagens;Gastronomia
+155;Jair;Coelho Pinto;Andebol;Basquetebol;Fotografia;Gastronomia;Política
+156;Álvaro;Monteiro Amaral;Filmes;Futebol;História;Andebol;Fotografia
+157;Manel;Henriques Leite;História;Leitura;Fórmula 1;Ténis;Gastronomia
+158;Pérola;Oliveira Silva;Leitura;Viagens;Filmes;Fórmula 1;Fotografia
+159;Denilson;Leite;Gastronomia;Basquetebol;Ténis;Redes Sociais;Escrita
+160;Luisa;Campos Valente;Ténis;Música;Pintura;Redes Sociais;Leitura
+161;Ema;Mota Anjos;Jogos;Andebol;Fotografia;Filmes;Escrita
+162;Aisha;Gaspar;Gastronomia;Jogos;Viagens;História;Ténis
+163;Luzia;Pinto Pinto;Escrita;Futebol;Política;Pintura;História
+164;Alonso;Gaspar;Gastronomia;História;Jogos;Pintura;Viagens
+165;Maurício;Teixeira;Jogos;História;Escrita;Viagens;Programação
+166;Martim;Matos Sá;Ténis;Jogos;Política;Programação;Basquetebol
+167;Tobias;Matos Rocha;Andebol;Fórmula 1;Futebol;Ténis;Jogos
+168;Alex;Ramos Maia;Programação;Viagens;Ténis;Redes Sociais;Andebol
+169;Dayane;Magalhães;Filmes;Andebol;Fotografia;Jogos;Ténis
+170;Joel;Ribeiro Tavares;Andebol;História;Gastronomia;Política;Pintura
+171;Pedro;Abreu Figueiredo;Escrita;Andebol;Fotografia;Jogos;Fórmula 1
+172;Luana;Martins;Andebol;Pintura;Gastronomia;Filmes;Redes Sociais
+173;Briana;Cardoso Pinto;Fórmula 1;Futebol;Leitura;Fotografia;Filmes
+174;César;Gaspar Pinheiro;Filmes;Andebol;Jogos;Programação;Ténis
+175;Tamara;Garcia Fernandes;Jogos;Leitura;Ténis;História;Escrita
+176;Kevin;Alves;Política;Música;Pintura;Programação;Redes Sociais
+177;Lucca;Alves Nascimento;Futebol;Gastronomia;Música;Leitura;Programação
+178;Leo;Reis;Política;Basquetebol;Gastronomia;História;Escrita
+179;Alissa;Ferreira Amorim;Fórmula 1;Andebol;História;Basquetebol;Escrita
+180;Catarina;Reis;Pintura;Fórmula 1;Escrita;Andebol;Jogos
+181;Clara;Araújo Neves;Viagens;História;Política;Ténis;Andebol
+182;Nicolau;Paiva;Pintura;Basquetebol;Fotografia;Futebol;Música
+183;Priscila;Reis Cunha;Jogos;Política;Programação;Redes Sociais;Andebol
+184;Jacinta;Marques Silva;Pintura;Redes Sociais;Andebol;Leitura;Escrita
+185;Alice;Anjos Pereira;Ténis;Leitura;Viagens;Jogos;Redes Sociais
+186;Matilde;Loureiro;História;Política;Pintura;Gastronomia;Andebol
+187;Flávio;Assunção;Escrita;Futebol;Jogos;Filmes;Redes Sociais
+188;Olivia;Gomes Lopes;História;Fórmula 1;Andebol;Pintura;Redes Sociais
+189;Júlio;Esteves;Escrita;História;Ténis;Fotografia;Música
+190;Vicente;Cruz Rodrigues;Música;Ténis;Viagens;Pintura;Filmes
+191;Mikael;Mota Ramos;Política;Gastronomia;Basquetebol;Jogos;Fórmula 1
+192;Leonardo;Santos;Política;História;Leitura;Escrita;Música
+193;Liara;Freitas Campos;Basquetebol;Viagens;Gastronomia;Leitura;Ténis
+194;Bruno;Amorim Rocha;Fórmula 1;Filmes;Pintura;Escrita;Programação
+195;Caetana;Azevedo;Basquetebol;Jogos;Música;Política;Fotografia
+196;Nathan;Fonseca;Fórmula 1;Música;Redes Sociais;Viagens;História
+197;Aisha;Lourenço Cruz;Programação;Pintura;História;Leitura;Basquetebol
+198;Teresa;Gomes;Basquetebol;Andebol;História;Fotografia;Política
+199;Valéria;Carneiro Cardoso;Basquetebol;Política;Andebol;Redes Sociais;Futebol
+200;Artur;Campos Valente;Escrita;Futebol;Ténis;Basquetebol;Gastronomia
+201;Estêvão;Alves Santos;Fórmula 1;Viagens;Escrita;Pintura;História
+202;Carol;Garcia;Viagens;Leitura;Fórmula 1;Jogos;Filmes
+203;Omar;Paiva Gaspar;Jogos;Futebol;Gastronomia;Ténis;Escrita
+204;Guilherme;Lima;Escrita;Leitura;Pintura;Filmes;Música
+205;Clarinha;Leal Amaral;Programação;Política;Leitura;Escrita;Viagens
+206;Lúcia;Sousa Magalhães;Fotografia;Filmes;Jogos;Leitura;Fórmula 1
+207;Wilson;Mendes Neves;Fotografia;Programação;Fórmula 1;Política;Andebol
+208;Kayla;Amorim Amaral;Andebol;Leitura;Gastronomia;Redes Sociais;Pintura
+209;Kevin;Sá Torres;Ténis;Escrita;Andebol;Música;Redes Sociais
+210;Cecília;Lopes Rodrigues;Fórmula 1;Filmes;Ténis;Fotografia;Andebol
+211;Pilar;Fernandes;Programação;Futebol;Redes Sociais;Política;Pintura
+212;Ester;Fonseca Brito;Escrita;Programação;Jogos;Política;Andebol
+213;Vitor;Pereira Melo;Fotografia;Política;Ténis;Futebol;Programação
+214;Adam;Figueiredo;Redes Sociais;Leitura;Política;Jogos;Viagens
+215;Gerson;Sousa Fonseca;Fotografia;Ténis;Fórmula 1;Pintura;História
+216;Israel;Pinho Nogueira;Filmes;Jogos;Gastronomia;Andebol;Futebol
+217;Leonor;Henriques;Pintura;Gastronomia;Música;Andebol;Escrita
+218;Aura;Machado Mendes;Andebol;Viagens;Escrita;Leitura;Pintura
+219;Matias;Araújo Andrade;Programação;Gastronomia;Fotografia;Basquetebol;Viagens
+220;Amélia;Lourenço;Andebol;Música;Leitura;Escrita;Pintura
+221;Melina;Azevedo Vieira;Futebol;Redes Sociais;Fotografia;História;Leitura
+222;Ísis;Miranda Simões;Filmes;Jogos;Viagens;Programação;Fórmula 1
+223;Constança;Esteves Mendes;Leitura;Viagens;Música;Andebol;Programação
+224;Alonso;Matias;Andebol;Fórmula 1;Ténis;Leitura;Futebol
+225;Maria;Esteves Mendes;Ténis;Música;Viagens;Escrita;Jogos
+226;Filipe;Monteiro Amaral;Fotografia;Fórmula 1;Filmes;Jogos;Escrita
+227;Oceana;Paiva Valente;Andebol;Leitura;Basquetebol;Gastronomia;Fórmula 1
+228;Taís;Esteves Mendes;Andebol;Gastronomia;Música;Viagens;Basquetebol
+229;Tatiana;Machado Pinto;Basquetebol;Viagens;Leitura;Música;História
+230;Matias;Silva Neto;Leitura;Futebol;Redes Sociais;Política;Andebol
+231;Anabela;Coelho Pinto;Futebol;Fórmula 1;Política;Programação;Jogos
+232;Paulo;Machado;Fotografia;Redes Sociais;Jogos;Política;Pintura
+233;Maira;Assunção Pinho;Música;Gastronomia;Ténis;Andebol;História
+234;Agostinho;Neto;Jogos;Viagens;Política;Futebol;Ténis
+235;Filipe;Lima Faria;Gastronomia;Leitura;Ténis;Escrita;História
+236;James;Loureiro Barbosa;Futebol;Música;Ténis;Basquetebol;Política
+237;Jorge;Silva Neto;Pintura;Ténis;Filmes;Escrita;Fotografia
+238;Raquel;Costa Branco;Ténis;Fotografia;Política;História;Jogos
+239;Kelvin;Santos Pinho;Filmes;Fórmula 1;Fotografia;História;Redes Sociais
+240;Igor;Abreu Figueiredo;Redes Sociais;Ténis;Filmes;Fotografia;Programação
+241;Raissa;Miranda Simões;Jogos;Andebol;Ténis;Viagens;Gastronomia
+242;Melanie;Costa Branco;Filmes;Andebol;Fórmula 1;Gastronomia;Ténis
+243;Bruna;Mota Anjos;História;Gastronomia;Fotografia;Filmes;Política
+244;Ulisses;Morais;História;Escrita;Programação;Futebol;Ténis
+245;Débora;Oliveira Nunes;Fórmula 1;História;Gastronomia;Política;Escrita
+246;Márcia;Gonçalves Pinto;Futebol;Escrita;Política;História;Basquetebol
+247;Valentim;Coelho;Andebol;Redes Sociais;Futebol;Escrita;Gastronomia
+248;Luana;Campos Paiva;Leitura;Gastronomia;Basquetebol;Música;Pintura
+249;Henrique;Maia Branco;Escrita;Redes Sociais;Música;Ténis;Futebol
+250;Maia;Anjos Costa;Futebol;Basquetebol;Música;História;Fórmula 1
+251;Jaime;Carneiro Nogueira;Leitura;Fotografia;Ténis;Andebol;Futebol
+252;Benedita;Freitas Campos;Programação;Leitura;Gastronomia;Política;Jogos
+253;Lucca;Antunes;Pintura;Leitura;Fórmula 1;Escrita;Ténis
+254;Naiara;Jesus Ribeiro;Gastronomia;Programação;Basquetebol;Fórmula 1;Música
+255;Adelina;Sá Oliveira;História;Gastronomia;Fórmula 1;Viagens;Programação
+256;Doriana;Ferreira Ferreira;Basquetebol;Música;Fórmula 1;Viagens;Pintura
+257;Santiago;Mota Ramos;Jogos;Música;Política;História;Gastronomia
+258;Sarah;Esteves Matos;Gastronomia;Andebol;Basquetebol;Filmes;Fotografia
+259;Martin;Campos Pinto;Leitura;Fotografia;Viagens;Gastronomia;Jogos
+260;Leonor;Castro Brito;Fotografia;Gastronomia;Fórmula 1;Programação;Andebol
+261;Enrique;Esteves Carneiro;Andebol;Ténis;Escrita;Gastronomia;Leitura
+262;Adriel;Fernandes Raposo;Andebol;Fórmula 1;Pintura;Política;Música
+263;Viviana;Brito Gaspar;Fórmula 1;Política;Ténis;Futebol;Filmes
+264;Eunice;Amaral Andrade;Futebol;Programação;Política;Escrita;Música
+265;Ryan;Neves Coelho;Andebol;Viagens;Programação;Política;Gastronomia
+266;Kevin;Neves Costa;Pintura;Viagens;Escrita;Andebol;Filmes
+267;Érica;Pires Henriques;Gastronomia;Leitura;Ténis;Pintura;História
+268;Dara;Mendes Neto;Redes Sociais;Viagens;Pintura;Política;Música
+269;Kelly;Santos Henriques;História;Política;Fórmula 1;Leitura;Programação
+270;Melanie;Borges Andrade;Redes Sociais;Programação;Ténis;Futebol;Música
+271;Paula;Pinto Gomes;Ténis;Redes Sociais;Gastronomia;Futebol;Viagens
+272;Oceana;Matias Correia;Política;Jogos;Andebol;Basquetebol;Pintura
+273;Isabela;Pinto Pinto;Futebol;Fórmula 1;Redes Sociais;História;Basquetebol
+274;Leandro;Torres Jesus;Pintura;Viagens;Jogos;Filmes;Escrita
+275;Camila;Carvalho Moreira;Escrita;Redes Sociais;Pintura;Viagens;Fórmula 1
+276;Mohammad;Garcia Morais;Jogos;Política;Pintura;Filmes;Ténis
+277;Agostinho;Moreira Neves;Programação;Filmes;Jogos;Pintura;Música
+278;Lisandro;Pinho Abreu;Pintura;Filmes;Viagens;Política;Basquetebol
+279;Mateus;Mendes Barros;Andebol;Gastronomia;Filmes;Ténis;História
+280;Irina;Raposo;Futebol;Andebol;Música;Leitura;Fórmula 1
+281;Sabrina;Vieira Pinto;Andebol;Fórmula 1;Escrita;Redes Sociais;Pintura
+282;Romeu;Baptista;Gastronomia;Viagens;Basquetebol;Pintura;Filmes
+283;Alexander;Abreu Martins;Música;Escrita;Pintura;História;Basquetebol
+284;Lívia;Matos Sá;Andebol;Programação;Fotografia;Basquetebol;Fórmula 1
+285;Isis;Pinto Pinto;Fórmula 1;Política;Ténis;Jogos;Fotografia
+286;Camila;Silva Silva;Fórmula 1;Ténis;Jogos;Política;Leitura
+287;Iara;Mota Anjos;Jogos;Fotografia;Basquetebol;Escrita;Futebol
+288;Leo;Freitas Campos;Programação;Futebol;Fórmula 1;Filmes;Andebol
+289;Constança;Neto Nogueira;Fórmula 1;Basquetebol;Escrita;Redes Sociais;Política
+290;Luan;Matias Anjos;Filmes;Programação;Jogos;Fotografia;Basquetebol
+291;Miguel;Pereira Rocha;Política;Fórmula 1;Jogos;Basquetebol;Música
+292;Amália;Almeida Moreira;Redes Sociais;Programação;Política;Pintura;Gastronomia
+293;Telma;Torres Neves;Basquetebol;Jogos;Filmes;Pintura;Viagens
+294;Débora;Amorim Melo;Pintura;Gastronomia;Fórmula 1;Basquetebol;História
+295;Mia;Teixeira Magalhães;Programação;Música;Leitura;Política;Fotografia
+296;Tomé;Batista Amorim;Filmes;Andebol;Pintura;Leitura;Escrita
+297;Fátima;Andrade Moreira;Viagens;Música;Filmes;Programação;História
+298;Yuri;Leite Lopes;Futebol;Pintura;Fórmula 1;Filmes;Leitura
+299;Adriano;Matos;História;Andebol;Redes Sociais;Gastronomia;Escrita
+300;Valentim;Carneiro Cardoso;Viagens;Programação;Andebol;Leitura;Fotografia
+301;Rute;Silva Silva;Música;Jogos;Política;Fórmula 1;Pintura
+302;Joaquim;Borges;Programação;Escrita;Andebol;História;Pintura
+303;Alana;Carneiro Mota;Ténis;Pintura;Redes Sociais;Música;Fórmula 1
+304;Francisco;Borges Moura;Futebol;Basquetebol;Música;Programação;Fotografia
+305;Frederica;Moura Pinto;Fórmula 1;Fotografia;Política;Ténis;Jogos
+306;Samara;Henriques Castro;Leitura;Basquetebol;Escrita;Jogos;Viagens
+307;Constança;Lopes Rodrigues;Música;Redes Sociais;Escrita;Gastronomia;Jogos
+308;Raul;Anjos Costa;Programação;Música;Política;Escrita;Fórmula 1
+309;Felipe;Antunes;Fórmula 1;Pintura;Ténis;Filmes;Gastronomia
+310;Alícia;Leite;Leitura;Gastronomia;Andebol;Pintura;Programação
+311;Carla;Moreira;Programação;História;Basquetebol;Filmes;Jogos
+312;Violeta;Pinto Pinto;Programação;Ténis;Filmes;Futebol;Andebol
+313;Mikael;Pinheiro;Basquetebol;Política;Futebol;Jogos;Pintura
+314;Bia;Figueiredo Gaspar;História;Filmes;Basquetebol;Andebol;Futebol
+315;Anabela;Machado Assunção;Basquetebol;Jogos;Pintura;Viagens;Escrita
+316;Kelvin;Marques;Fórmula 1;Redes Sociais;Música;História;Escrita
+317;Luciana;Jesus Ribeiro;Andebol;Futebol;Fórmula 1;Pintura;Filmes
+318;Adam;Barbosa Martins;Basquetebol;Escrita;Fórmula 1;Andebol;Leitura
+319;Moisés;Torres;Fórmula 1;Política;Ténis;Escrita;Pintura
+320;Júlio;Gaspar;Filmes;Andebol;Música;Política;Viagens
+321;Jónatas;Machado Pinto;Viagens;Jogos;Ténis;Filmes;Basquetebol
+322;Mafalda;Assunção Simões;Redes Sociais;História;Basquetebol;Fotografia;Pintura
+323;Amadeu;Moura Leal;Basquetebol;Fórmula 1;Gastronomia;Música;Leitura
+324;Francisco;Tavares;Viagens;Gastronomia;História;Pintura;Fórmula 1
+325;Olivia;Lima;Redes Sociais;Andebol;Programação;Música;Leitura
+326;Teresa;Leal Leal;Futebol;Fotografia;Política;Escrita;Gastronomia
+327;Viviane;Pinho Abreu;Pintura;Política;História;Filmes;Basquetebol
+328;Ellen;Assunção Pinho;História;Filmes;Programação;Basquetebol;Redes Sociais
+329;Raul;Campos Paiva;Escrita;Basquetebol;História;Andebol;Viagens
+330;Lavínia;Pinho Carvalho;Ténis;Escrita;Fotografia;História;Programação
+331;Álvaro;Henriques;Fórmula 1;Programação;Filmes;Pintura;Viagens
+332;Maia;Monteiro Amaral;Leitura;Música;Ténis;Fórmula 1;Política
+333;Stephanie;Macedo;Pintura;Basquetebol;Viagens;Filmes;Fotografia
+334;Maurício;Azevedo Carvalho;Basquetebol;Fotografia;Política;Jogos;Filmes
+335;Safira;Mendes;Gastronomia;Escrita;Fotografia;Futebol;Viagens
+336;Mário;Matos Pinto;Pintura;Redes Sociais;Fórmula 1;Programação;Viagens
+337;Mikael;Vieira Mendes;Leitura;Pintura;Música;Gastronomia;Política
+338;Érica;Amorim Costa;Redes Sociais;Ténis;Gastronomia;Andebol;Basquetebol
+339;Melanie;Baptista Santos;Escrita;Música;Redes Sociais;Filmes;Fotografia
+340;Daria;Tavares Rocha;Ténis;Música;Programação;Jogos;Basquetebol
+341;Fabiana;Jesus Ribeiro;Gastronomia;Política;Programação;Fórmula 1;Redes Sociais
+342;Ema;Gaspar Garcia;História;Pintura;Redes Sociais;Programação;Gastronomia
+343;Elena;Brito Magalhães;Política;Programação;Andebol;Fotografia;Gastronomia
+344;Alma;Leite Loureiro;Jogos;Ténis;Filmes;Redes Sociais;Fotografia
+345;Caetana;Miranda Maia;Filmes;Redes Sociais;Programação;Ténis;Pintura
+346;Amanda;Ferreira;Política;Leitura;Programação;Pintura;Jogos
+347;Yuri;Pacheco Rodrigues;Basquetebol;Leitura;Música;Andebol;Fórmula 1
+348;Mário;Amaral Morais;Pintura;Redes Sociais;Fotografia;Política;Filmes
+349;Davi;Maia Nogueira;História;Futebol;Viagens;Gastronomia;Música
+350;Angélica;Freitas Mendes;Programação;Gastronomia;Basquetebol;Escrita;Ténis
+351;Sebastian;Torres Gomes;Redes Sociais;Gastronomia;Programação;Futebol;Escrita
+352;Alissa;Ribeiro;Escrita;Música;Ténis;Pintura;Leitura
+353;Sara;Torres;História;Andebol;Jogos;Ténis;Pintura
+354;Áurea;Miranda;Leitura;Jogos;Gastronomia;Pintura;Basquetebol
+355;Aron;Torres Jesus;Política;Escrita;Programação;Andebol;Jogos
+356;Flávia;Sá Pereira;Filmes;Jogos;Escrita;Basquetebol;Pintura
+357;Kevin;Sousa Magalhães;Filmes;Gastronomia;Escrita;Ténis;Leitura
+358;Joyce;Andrade Moreira;Viagens;Ténis;Fórmula 1;Programação;Gastronomia
+359;Denise;Mota Ramos;Jogos;Redes Sociais;Música;Escrita;Fórmula 1
+360;Luis;Machado Mendes;Política;Fórmula 1;Filmes;Basquetebol;Gastronomia
+361;Simone;Pires Reis;Fotografia;Fórmula 1;Música;Ténis;Filmes
+362;Ashley;Pinto Gomes;Escrita;Gastronomia;Futebol;Programação;Filmes
+363;Maira;Amaral Melo;Fórmula 1;Redes Sociais;Escrita;Pintura;Leitura
+364;Joshua;Amorim Costa;Fotografia;Gastronomia;Andebol;Futebol;Jogos
+365;Luciana;Gaspar Magalhães;Basquetebol;História;Andebol;Futebol;Leitura
+366;Nataniel;Freitas;Ténis;Fotografia;Viagens;Redes Sociais;Andebol
+367;Nair;Batista Amorim;Viagens;Ténis;Fotografia;Jogos;Gastronomia
+368;Simão;Torres Jesus;Pintura;Jogos;Futebol;Viagens;Redes Sociais
+369;Jénifer;Cardoso Martins;Pintura;Ténis;Viagens;Leitura;Política
+370;Tiago;Amorim Melo;Ténis;Fotografia;Política;Fórmula 1;Redes Sociais
+371;Xavier;Andrade Nascimento;Pintura;Ténis;Leitura;Gastronomia;Fórmula 1
+372;Miguel;Carneiro;Fotografia;Programação;Ténis;Andebol;Jogos
+373;Sophia;Rodrigues;Jogos;Política;Gastronomia;Basquetebol;História
+374;Sandro;Martins Oliveira;Futebol;Programação;Basquetebol;Política;Fotografia
+375;Clara;Lima Faria;Gastronomia;Escrita;Fotografia;Programação;Jogos
+376;Flávio;Castro Abreu;Música;Redes Sociais;Fotografia;Jogos;História
+377;Penélope;Rodrigues Cruz;Jogos;História;Filmes;Fórmula 1;Basquetebol
+378;Viviana;Oliveira Nunes;Filmes;Redes Sociais;Gastronomia;Política;Programação
+379;Mohammad;Pacheco;Escrita;Fórmula 1;Ténis;História;Fotografia
+380;Lídia;Silva Neto;Basquetebol;Política;História;Música;Pintura
+381;Rayan;Leite Matos;Ténis;Andebol;Programação;Jogos;Filmes
+382;Bárbara;Miranda Vaz;Fórmula 1;Leitura;Ténis;Fotografia;Filmes
+383;Nádia;Silva;Jogos;Fórmula 1;Pintura;Política;Viagens
+384;Isaac;Sousa;História;Jogos;Fotografia;Viagens;Pintura
+385;Lisandra;Carvalho Nunes;Política;Gastronomia;Pintura;Ténis;Música
+386;Denis;Costa;Leitura;História;Filmes;Música;Jogos
+387;Violeta;Melo Brito;Andebol;Ténis;Leitura;Viagens;Escrita
+388;Lígia;Abreu Almeida;Jogos;Música;Ténis;Leitura;Gastronomia
+389;Dara;Andrade Moreira;Andebol;Basquetebol;Pintura;Música;Leitura
+390;Deise;Machado Assunção;Filmes;Fotografia;Escrita;Andebol;Música
+391;Diana;Abreu Figueiredo;Fotografia;Política;Viagens;Jogos;Futebol
+392;Vanessa;Miranda Vaz;Fórmula 1;História;Fotografia;Jogos;Basquetebol
+393;Daria;Assunção Mota;Filmes;Programação;Pintura;Redes Sociais;Leitura
+394;Cauã;Coelho;Basquetebol;Filmes;Programação;Ténis;Andebol
+395;Gaspar;Mota;Política;Pintura;Programação;Fotografia;Gastronomia
+396;Leonor;Esteves Mendes;Andebol;Gastronomia;Filmes;Redes Sociais;Jogos
+397;Concha;Castro;Ténis;Redes Sociais;História;Viagens;Fórmula 1
+398;Lia;Neves Lopes;Programação;Pintura;Redes Sociais;Jogos;Andebol
+399;Jénifer;Tavares;Jogos;Política;Gastronomia;História;Fórmula 1
+400;Amélia;Moreira;Andebol;Redes Sociais;Política;Basquetebol;Fórmula 1
+401;Alana;Tavares;Jogos;Pintura;Redes Sociais;Leitura;História
+402;Stephanie;Paiva Gaspar;Pintura;Andebol;Viagens;Basquetebol;Gastronomia
+403;Martinho;Sá Pereira;Música;Futebol;Pintura;Programação;Filmes
+404;Ana;Lima;Viagens;Escrita;História;Andebol;Fotografia
+405;Alexander;Gonçalves Santos;Pintura;Programação;Filmes;Viagens;Escrita
+406;Maura;Gomes Lopes;Política;Andebol;Escrita;História;Jogos
+407;Kelvin;Pereira;Filmes;Programação;Futebol;Leitura;Gastronomia
+408;André;Figueiredo Gaspar;Ténis;Andebol;Jogos;Filmes;Programação
+409;Micael;Maia;Política;Redes Sociais;Viagens;Gastronomia;Leitura
+410;Dário;Pinto Gomes;Viagens;Programação;Escrita;Gastronomia;Redes Sociais
+411;Eleonor;Leal Morais;Futebol;Escrita;História;Filmes;Basquetebol
+412;Adelaide;Henriques Castro;Jogos;Escrita;Redes Sociais;Leitura;Viagens
+413;Juliana;Mendes Leal;Ténis;Redes Sociais;Viagens;História;Música
+414;Leila;Morais Lourenço;Música;Viagens;Ténis;Programação;Pintura
+415;Ravi;Azevedo;Viagens;História;Futebol;Escrita;Fórmula 1
+416;Salvador;Sousa;Política;Escrita;Basquetebol;Pintura;História
+417;Luan;Lopes Rodrigues;Escrita;Música;Basquetebol;Programação;Jogos
+418;Cauã;Santos Pinho;Escrita;Ténis;Filmes;Programação;Música
+419;João;Amorim Macedo;Música;Leitura;Redes Sociais;Viagens;Gastronomia
+420;Eric;Maia Branco;Leitura;Viagens;Escrita;Programação;Fotografia
+421;Adriel;Leal Amaral;Pintura;Gastronomia;Política;Redes Sociais;Leitura
+422;Amadeu;Machado Mendes;Música;Basquetebol;Redes Sociais;Andebol;Viagens
+423;Diana;Cardoso;Fórmula 1;Pintura;Gastronomia;Futebol;História
+424;Clarisse;Sá;Ténis;Futebol;Filmes;Leitura;História
+425;Telma;Ferreira Antunes;Futebol;Andebol;Pintura;Programação;Fotografia
+426;Aurea;Barros;Fórmula 1;Música;História;Leitura;Gastronomia
+427;Mauro;Lima Esteves;Programação;Jogos;Futebol;Filmes;Gastronomia
+428;Mikael;Faria Marques;Basquetebol;Política;Filmes;Programação;Pintura
+429;Luciana;Esteves Mendes;Filmes;Ténis;Pintura;Fórmula 1;Fotografia
+430;Ianis;Neves Figueiredo;Basquetebol;Redes Sociais;Andebol;Jogos;Ténis
+431;Melissa;Mota Macedo;Escrita;Jogos;Andebol;História;Filmes
+432;Valéria;Ferreira;Filmes;Viagens;Fórmula 1;Ténis;Futebol
+433;Luciana;Nogueira Campos;Redes Sociais;Leitura;História;Gastronomia;Fórmula 1
+434;Diana;Figueiredo Miranda;Leitura;Filmes;Redes Sociais;Programação;Viagens
+435;Andrei;Domingues Cunha;Programação;Ténis;Escrita;Política;Andebol
+436;Carminho;Lopes Rodrigues;Escrita;Ténis;Viagens;Fórmula 1;Redes Sociais
+437;Theo;Nogueira Loureiro;História;Andebol;Música;Basquetebol;Viagens
+438;Yohanna;Henriques Sousa;Ténis;Leitura;Pintura;História;Gastronomia
+439;Sebastian;Melo;Basquetebol;Música;Gastronomia;Fórmula 1;História
+440;Alexandre;Machado;Pintura;Basquetebol;Futebol;Redes Sociais;Viagens
+441;Rogério;Gomes Neto;Gastronomia;Fórmula 1;Pintura;Viagens;Futebol
+442;Joaquim;Magalhães Nogueira;Fórmula 1;Gastronomia;Jogos;Futebol;Política
+443;Dânia;Henriques Matias;Basquetebol;Pintura;História;Ténis;Escrita
+444;Matheus;Reis Cunha;Escrita;Política;Programação;Leitura;Redes Sociais
+445;Marcus;Castro;Pintura;Programação;História;Andebol;Fórmula 1
+446;Ema;Cruz;Redes Sociais;Gastronomia;Política;Programação;Andebol
+447;Israel;Nogueira Loureiro;Política;Gastronomia;Ténis;Música;Escrita
+448;Natanael;Gonçalves;Filmes;Gastronomia;Política;Viagens;Jogos
+449;Antónia;Pires Lourenço;Andebol;Filmes;Música;Ténis;Fórmula 1
+450;Michele;Pereira Rocha;Fotografia;Escrita;Basquetebol;Andebol;Pintura
+451;Angélica;Oliveira Silva;Gastronomia;Basquetebol;Jogos;História;Ténis
+452;Isabella;Anjos Costa;Jogos;Leitura;Basquetebol;Ténis;Música
+453;Rayan;Andrade Batista;Andebol;Pintura;Viagens;Política;Futebol
+454;Daria;Fonseca Cunha;Escrita;Jogos;Redes Sociais;Leitura;Política
+455;Pilar;Henriques Azevedo;Futebol;Jogos;Ténis;Escrita;História
+456;Antónia;Ferreira Antunes;Música;Jogos;Programação;Escrita;Andebol
+457;Jonas;Matos;Andebol;Futebol;Ténis;Redes Sociais;Escrita
+458;Caetana;Garcia Moura;Fotografia;Redes Sociais;Fórmula 1;Ténis;Programação
+459;Lígia;Pereira Rocha;Andebol;Viagens;Pintura;Política;Jogos
+460;Wesley;Brito;Viagens;Ténis;Andebol;Programação;Fotografia
+461;Miguel;Moreira Ribeiro;Política;Futebol;Ténis;Pintura;Redes Sociais
+462;Vicente;Cunha;Fórmula 1;Escrita;Leitura;Pintura;Gastronomia
+463;Adrien;Maia Nogueira;Escrita;Filmes;História;Andebol;Futebol
+464;Hélder;Gaspar Pinheiro;Leitura;Política;Gastronomia;Jogos;Pintura
+465;Eva;Vieira Borges;Futebol;Pintura;Gastronomia;Programação;Música
+466;Joana;Antunes Lopes;Pintura;Jogos;Ténis;Política;Música
+467;Joel;Torres;Ténis;Programação;Redes Sociais;Jogos;Fotografia
+468;Dário;Loureiro Freitas;Política;Basquetebol;Música;Fotografia;Escrita
+469;Bia;Baptista Santos;Música;Escrita;Ténis;Andebol;Gastronomia
+470;Thiago;Miranda Vaz;Andebol;Viagens;Música;Escrita;Fórmula 1
+471;Lisandro;Leal;Programação;Escrita;Fórmula 1;Gastronomia;Música
+472;Anna;Esteves Carneiro;Jogos;Viagens;Política;Basquetebol;Filmes
+473;Renata;Henriques Matias;Basquetebol;Leitura;Filmes;Redes Sociais;Fórmula 1
+474;Alonso;Brito Campos;Escrita;Programação;Redes Sociais;Fórmula 1;História
+475;Bárbara;Machado Mendes;Escrita;Ténis;Redes Sociais;Futebol;Jogos
+476;Eric;Batista Loureiro;Viagens;Basquetebol;Gastronomia;Escrita;Redes Sociais
+477;Tatiana;Neves Lopes;Programação;Andebol;Pintura;Leitura;Fórmula 1
+478;Thomas;Abreu;Filmes;Gastronomia;Futebol;Pintura;Ténis
+479;Fabrício;Ferreira;Ténis;Fórmula 1;Política;Escrita;Andebol
+480;Estêvão;Marques Silva;Gastronomia;Política;Escrita;Basquetebol;Programação
+481;Rafaella;Araújo;Fotografia;Redes Sociais;Música;Fórmula 1;Gastronomia
+482;Josiane;Matias;Programação;Viagens;Jogos;Futebol;Pintura
+483;Ester;Loureiro Freitas;Andebol;Basquetebol;Filmes;Viagens;Futebol
+484;Anaís;Campos;Ténis;Pintura;Futebol;Programação;História
+485;Chloé;Vieira;Jogos;Filmes;Fórmula 1;Escrita;Redes Sociais
+486;Marta;Fernandes Raposo;Viagens;Jogos;Gastronomia;Andebol;Música
+487;Kyara;Silva;Jogos;Futebol;Escrita;Filmes;Ténis
+488;Leonardo;Neto;Basquetebol;Gastronomia;Futebol;Pintura;Leitura
+489;Jorge;Silva Matos;Leitura;Fórmula 1;Futebol;Escrita;Viagens
+490;Sara;Sá;Fotografia;Política;Basquetebol;História;Andebol
+491;Noemi;Neto Nascimento;Basquetebol;Redes Sociais;Andebol;Política;Viagens
+492;Fabrício;Neto Nogueira;Música;Redes Sociais;Filmes;Viagens;Gastronomia
+493;Amélia;Esteves Raposo;Fórmula 1;Viagens;Futebol;Programação;Filmes
+494;Hélder;Cunha;Jogos;Escrita;Política;Leitura;Filmes
+495;Álvaro;Mota Anjos;Gastronomia;Viagens;Fotografia;Leitura;Basquetebol
+496;Adrian;Rocha Vieira;Redes Sociais;Ténis;Leitura;Andebol;Futebol
+497;Ellen;Magalhães;Ténis;Escrita;Gastronomia;Futebol;História
+498;Paulo;Henriques Azevedo;Jogos;Fotografia;Política;Viagens;Música
+499;Liara;Nunes;Redes Sociais;Fórmula 1;Filmes;Fotografia;História
+500;Dora;Neves Figueiredo;Fotografia;Jogos;Leitura;Redes Sociais;Gastronomia
+501;Vasco;Batista;Andebol;Gastronomia;Ténis;Filmes;Programação
+502;Graça;Moreira Neves;Viagens;Andebol;Leitura;Programação;Fórmula 1
+503;Samuel;Mendes Leal;Leitura;Pintura;Gastronomia;Andebol;História
+504;Teresa;Sá Rocha;Gastronomia;Futebol;Andebol;Redes Sociais;História
+505;Flávia;Costa;Futebol;Escrita;Política;Redes Sociais;Gastronomia
+506;Robert;Ferreira Ferreira;História;Futebol;Fotografia;Política;Gastronomia
+507;Vicente;Araújo Cunha;Pintura;Política;Fotografia;Filmes;Programação
+508;Israel;Pinto Gomes;Jogos;História;Andebol;Programação;Viagens
+509;Naísa;Mendes;Viagens;História;Basquetebol;Música;Fotografia
+510;Rosarinho;Loureiro;Viagens;Fórmula 1;Programação;Filmes;Jogos
+511;Telma;Campos Pinto;Pintura;Andebol;Programação;Viagens;Fórmula 1
+512;Leo;Leite;Ténis;História;Viagens;Leitura;Música
+513;Matheus;Melo Fernandes;Fotografia;Filmes;Leitura;Ténis;História
+514;Lília;Pacheco Rodrigues;Basquetebol;Política;Filmes;Jogos;Andebol
+515;Ulisses;Almeida Moreira;Fotografia;Fórmula 1;Política;Escrita;Andebol
+516;Diego;Vieira;Viagens;Jogos;Andebol;Leitura;Fotografia
+517;Tatiana;Amorim Costa;Fórmula 1;Basquetebol;Fotografia;Jogos;Gastronomia
+518;Eliane;Jesus Ribeiro;Futebol;Basquetebol;Programação;Jogos;Música
+519;Kelly;Macedo Cruz;Fórmula 1;Política;Filmes;Música;Gastronomia
+520;Rodrigo;Gomes Carneiro;Ténis;Escrita;Gastronomia;História;Viagens
+521;Brian;Magalhães;Música;História;Fotografia;Viagens;Programação
+522;Abigail;Rodrigues;Pintura;Fotografia;História;Andebol;Fórmula 1
+523;Laís;Batista Loureiro;Viagens;Ténis;Futebol;Política;Leitura
+524;Enzo;Pinho Cunha;Jogos;Viagens;Programação;Leitura;História
+525;Kenzo;Silva Neto;Fotografia;Basquetebol;Gastronomia;Fórmula 1;Escrita
+526;Sebastian;Campos Paiva;Andebol;Escrita;Redes Sociais;Viagens;Futebol
+527;Matheus;Campos;Jogos;Escrita;Leitura;Pintura;Ténis
+528;Felipe;Mota Ramos;Ténis;Música;Jogos;Filmes;Redes Sociais
+529;Rita;Matos Pinto;Viagens;Redes Sociais;Pintura;Fotografia;Jogos
+530;Liara;Araújo Andrade;Fórmula 1;Fotografia;Leitura;Redes Sociais;Gastronomia
+531;Luis;Rodrigues Rocha;Ténis;Futebol;Jogos;Pintura;Gastronomia
+532;Yuri;Carvalho Garcia;Redes Sociais;Política;Jogos;Escrita;Fórmula 1
+533;Giovani;Lima;Andebol;Fórmula 1;Viagens;Gastronomia;Pintura
+534;Rafael;Antunes Lopes;Música;Escrita;Redes Sociais;Basquetebol;Viagens
+535;Filipe;Moreira Neves;Fórmula 1;História;Redes Sociais;Leitura;Fotografia
+536;Valentina;Santos Fernandes;Política;Jogos;Leitura;Futebol;Fotografia
+537;Enzo;Pinho Castro;Fórmula 1;Fotografia;Política;Jogos;Música
+538;Helder;Gomes;Música;Gastronomia;Filmes;Basquetebol;Andebol
+539;Isac;Sá Moreira;Gastronomia;Redes Sociais;História;Leitura;Andebol
+540;Nicolas;Reis Cunha;Escrita;Redes Sociais;Futebol;Andebol;Fotografia
+541;Guiomar;Abreu Faria;Andebol;Redes Sociais;Jogos;Fórmula 1;História
+542;Fabrício;Matos Lourenço;Escrita;Música;Programação;Basquetebol;Fórmula 1
+543;Dalila;Castro Torres;Andebol;Futebol;Fotografia;Leitura;Escrita
+544;Caio;Almeida Garcia;Política;Andebol;Jogos;Leitura;Gastronomia
+545;Manuel;Domingues;Gastronomia;Futebol;Música;Basquetebol;Jogos
+546;Mateus;Melo Domingues;Programação;Política;Redes Sociais;História;Pintura
+547;Carlota;Brito Gaspar;Pintura;Filmes;Fórmula 1;História;Futebol
+548;Brenda;Gomes Neto;Filmes;Pintura;Ténis;Música;Leitura
+549;Carlota;Torres Jesus;Futebol;Pintura;Música;História;Gastronomia
+550;Leila;Teixeira Magalhães;Fotografia;Fórmula 1;Política;Escrita;Filmes
+551;Daria;Azevedo;Gastronomia;Fotografia;Pintura;História;Música
+552;Tiago;Torres Moura;Viagens;Programação;Leitura;Futebol;Gastronomia
+553;Alexandre;Leal Amaral;Política;Escrita;Viagens;Ténis;História
+554;Sabrina;Ferreira Amorim;Gastronomia;Jogos;Filmes;História;Fotografia
+555;Simone;Sousa;Gastronomia;Fotografia;Política;Escrita;Ténis
+556;Arthur;Brito Melo;Escrita;História;Andebol;Política;Gastronomia
+557;Eduarda;Domingues;Programação;Música;História;Gastronomia;Basquetebol
+558;Mohamed;Ferreira Amorim;Basquetebol;Fórmula 1;Pintura;Viagens;Andebol
+559;Félix;Araújo Cunha;Futebol;Viagens;Leitura;Escrita;Jogos
+560;Matilde;Santos Fernandes;Programação;Redes Sociais;Política;História;Jogos
+561;Gerson;Loureiro Barbosa;Fotografia;Filmes;Pintura;Música;Leitura
+562;Beatriz;Melo Fernandes;Redes Sociais;História;Basquetebol;Ténis;Viagens
+563;Lina;Marques;Ténis;Andebol;Gastronomia;Viagens;Música
+564;Marta;Domingues Cunha;Gastronomia;Pintura;Andebol;Programação;Escrita
+565;Irina;Freitas Baptista;Futebol;Fotografia;Leitura;Fórmula 1;Política
+566;Júnior;Vieira Pinto;Política;Jogos;Música;Gastronomia;Leitura
+567;Estrela;Guerreiro Sousa;Redes Sociais;Basquetebol;Leitura;Pintura;Música
+568;Lívia;Paiva Matias;Leitura;Fotografia;Pintura;Música;Basquetebol
+569;Benjamin;Leal;Futebol;Escrita;Gastronomia;Fórmula 1;Jogos
+570;Salvador;Cruz Nunes;Filmes;Política;História;Música;Escrita
+571;Elsa;Ribeiro;Filmes;Redes Sociais;Andebol;Jogos;Fórmula 1
+572;Rute;Azevedo;Fórmula 1;Andebol;Programação;Música;Gastronomia
+573;Isaac;Vicente;Basquetebol;História;Gastronomia;Andebol;Programação
+574;Lisandra;Nascimento Mendes;Pintura;Jogos;Gastronomia;Viagens;Ténis
+575;Lea;Matias Moura;Redes Sociais;Ténis;Jogos;História;Escrita
+576;Marco;Pinho Abreu;Fotografia;Viagens;Andebol;Música;Escrita
+577;Rodrigo;Cardoso Pereira;Andebol;Fotografia;Filmes;Jogos;Viagens
+578;Hélder;Torres Anjos;Viagens;Gastronomia;Ténis;Basquetebol;Música
+579;Olívia;Abreu Martins;Gastronomia;História;Fórmula 1;Fotografia;Basquetebol
+580;Tatiana;Rodrigues;Política;Andebol;História;Programação;Música
+581;Adelaide;Abreu Faria;Leitura;Andebol;Viagens;Escrita;Redes Sociais
+582;Petra;Gomes Neto;Escrita;Ténis;Fotografia;Jogos;Filmes
+583;Benjamin;Martins Amorim;Leitura;História;Escrita;Música;Redes Sociais
+584;Guiomar;Cardoso Pinto;Basquetebol;Viagens;Leitura;Filmes;Jogos
+585;Thomas;Raposo;Política;Futebol;Programação;Música;Basquetebol
+586;Natanael;Esteves Alves;Fotografia;Ténis;Jogos;Futebol;Fórmula 1
+587;Tiago;Leal Morais;Andebol;Gastronomia;Filmes;Fórmula 1;Ténis
+588;Brian;Amaral Melo;Música;Gastronomia;Basquetebol;Andebol;Fotografia
+589;Carminho;Araújo;História;Futebol;Leitura;Fotografia;Viagens
+590;Rayan;Leite Nascimento;História;Futebol;Política;Gastronomia;Ténis
+591;Micael;Miranda Maia;Música;Futebol;Redes Sociais;Andebol;Basquetebol
+592;Nicole;Amaral Andrade;Música;Programação;Pintura;Viagens;Andebol
+593;Jacinta;Neto;Jogos;Escrita;Gastronomia;Redes Sociais;Política
+594;Benedita;Azevedo Vieira;Ténis;Escrita;Música;Leitura;Programação
+595;Benedita;Carneiro Nogueira;Ténis;Escrita;História;Gastronomia;Filmes
+596;Ariele;Teixeira Mota;Viagens;Basquetebol;Leitura;Música;Redes Sociais
+597;Rafaella;Miranda Vieira;Andebol;Fórmula 1;Ténis;Futebol;Basquetebol
+598;Riana;Nascimento;Filmes;Basquetebol;Andebol;Fotografia;Programação
+599;Antónia;Cardoso Pinto;Viagens;Música;Andebol;Filmes;Futebol
+600;Zoé;Esteves Morais;Fórmula 1;Gastronomia;Futebol;História;Leitura
+601;Misael;Matos Rocha;Jogos;Programação;Futebol;Fórmula 1;Viagens
+602;Aurea;Valente Pinheiro;Pintura;Fotografia;História;Jogos;Redes Sociais
+603;Misael;Pacheco Rodrigues;Jogos;Futebol;Redes Sociais;Pintura;Gastronomia
+604;Lígia;Cardoso Pereira;Ténis;História;Política;Basquetebol;Futebol
+605;Juliana;Gomes Carneiro;Política;Viagens;Ténis;Fotografia;Fórmula 1
+606;Luís;Figueiredo Miranda;Basquetebol;Filmes;Redes Sociais;Pintura;Programação
+607;Rayan;Anjos Pereira;Ténis;História;Escrita;Música;Redes Sociais
+608;Matilde;Raposo;Ténis;Gastronomia;Política;Filmes;Fotografia
+609;Alonso;Sá Rocha;Política;Música;Basquetebol;Redes Sociais;Filmes
+610;Ângela;Henriques Leite;Pintura;Futebol;História;Fotografia;Ténis
+611;Ângelo;Monteiro Fernandes;Filmes;Programação;Música;Futebol;Escrita
+612;Carlos;Sousa Magalhães;História;Pintura;Andebol;Programação;Redes Sociais
+613;Anaís;Miranda Vaz;Política;Fotografia;História;Filmes;Jogos
+614;Ícaro;Moura Pinto;Gastronomia;Viagens;Política;Redes Sociais;Leitura
+615;Nataniel;Carvalho;Leitura;Música;História;Redes Sociais;Programação
+616;Leo;Mendes;Redes Sociais;Filmes;Basquetebol;Futebol;Leitura
+617;Samanta;Matos;Leitura;Filmes;Gastronomia;Basquetebol;Ténis
+618;Jason;Gomes Neto;Música;Futebol;Escrita;História;Política
+619;Denise;Moreira Ribeiro;Futebol;Gastronomia;Jogos;Política;Escrita
+620;Lívia;Oliveira;Andebol;Viagens;Política;Futebol;Ténis
+621;Simão;Pires Sá;Pintura;Política;Música;Gastronomia;Basquetebol
+622;Luzia;Coelho;Programação;Redes Sociais;Basquetebol;Fórmula 1;Música
+623;Jénifer;Pacheco Rodrigues;Pintura;Basquetebol;Jogos;Leitura;Andebol
+624;Kayla;Gaspar Carneiro;História;Fotografia;Jogos;Programação;Fórmula 1
+625;Andreia;Henriques Matias;Futebol;História;Escrita;Leitura;Basquetebol
+626;Noemi;Faria Marques;Fórmula 1;Música;Filmes;Programação;Pintura
+627;Alonso;Faria Domingues;Leitura;Basquetebol;Redes Sociais;Ténis;História
+628;Danilo;Martins Oliveira;Filmes;Futebol;Fórmula 1;Programação;Fotografia
+629;Anna;Vieira Pinto;História;Futebol;Política;Viagens;Gastronomia
+630;Anna;Moreira Neves;História;Fotografia;Gastronomia;Andebol;Ténis
+631;Lorenzo;Morais;Escrita;Política;Música;Filmes;Jogos
+632;Eduarda;Baptista;Fotografia;Futebol;Basquetebol;Redes Sociais;Programação
+633;Flávio;Cardoso Pereira;Futebol;Fotografia;Leitura;Política;Jogos
+634;Diego;Sousa Magalhães;Filmes;Basquetebol;Música;Fórmula 1;Política
+635;Olívia;Machado;História;Escrita;Filmes;Basquetebol;Música
+636;Clarisse;Oliveira Silva;Gastronomia;Ténis;Fórmula 1;Jogos;Viagens
+637;Joyce;Magalhães;Escrita;Programação;Fórmula 1;Filmes;Redes Sociais
+638;Luca;Pinto Silva;Futebol;Jogos;Redes Sociais;Basquetebol;Ténis
+639;Mariana;Almeida;Jogos;Ténis;Programação;Leitura;Filmes
+640;Luan;Paiva Gaspar;Filmes;Música;Andebol;Futebol;Leitura
+641;Eduarda;Campos Pinto;Andebol;Gastronomia;Redes Sociais;Política;História
+642;Aléxia;Moreira Neves;Futebol;Fórmula 1;Redes Sociais;Fotografia;Viagens
+643;Augusto;Henriques Matias;Ténis;Filmes;Escrita;Jogos;Viagens
+644;Filipe;Campos Paiva;Fotografia;Futebol;Fórmula 1;Jogos;Redes Sociais
+645;Joyce;Cunha Valente;Filmes;Viagens;Andebol;Programação;Pintura
+646;Valentim;Teixeira Mota;Fotografia;Viagens;Basquetebol;Leitura;Andebol
+647;Cláudia;Tavares Teixeira;Redes Sociais;Fórmula 1;Jogos;História;Futebol
+648;Lucca;Batista;Ténis;Viagens;Gastronomia;Música;Fórmula 1
+649;Maura;Gaspar Pinheiro;Viagens;Redes Sociais;Filmes;Leitura;Futebol
+650;Marisa;Matias Correia;Pintura;Escrita;Política;Basquetebol;Música
+651;Rosa;Campos Valente;Gastronomia;Fotografia;Filmes;Futebol;Política
+652;Adelina;Cardoso;Jogos;Redes Sociais;História;Basquetebol;Pintura
+653;Lya;Pinho Castro;Escrita;Programação;Gastronomia;Música;Redes Sociais
+654;Henrique;Carvalho Cruz;Escrita;Fórmula 1;Leitura;Gastronomia;Redes Sociais
+655;Edgar;Matos Lourenço;Política;Programação;Jogos;Fotografia;História
+656;Manuel;Lopes Rodrigues;Gastronomia;História;Redes Sociais;Ténis;Política
+657;Kevin;Antunes;Leitura;Música;Fórmula 1;Gastronomia;Futebol
+658;Aléxis;Vaz;Fotografia;Escrita;Ténis;Leitura;Programação
+659;Alma;Castro Araújo;Redes Sociais;Escrita;Fotografia;Viagens;Filmes
+660;Ícaro;Pinheiro Lopes;Redes Sociais;Música;História;Fórmula 1;Programação
+661;Robert;Paiva Matias;Jogos;Música;Redes Sociais;Ténis;Programação
+662;Abel;Lopes Rodrigues;Escrita;Leitura;Gastronomia;História;Andebol
+663;Kenzo;Monteiro Fernandes;Basquetebol;Escrita;Andebol;Música;Fotografia
+664;Marcelo;Freitas Baptista;História;Viagens;Fotografia;Futebol;Fórmula 1
+665;Carol;Fernandes Raposo;História;Política;Filmes;Gastronomia;Andebol
+666;Kelly;Pinho Cunha;Jogos;Leitura;Política;Programação;Futebol
+667;Xavier;Correia;Pintura;Leitura;Ténis;Escrita;Basquetebol
+668;Márcia;Araújo Andrade;Viagens;Futebol;Pintura;Jogos;Música
+669;Ângela;Morais;Fotografia;Filmes;Jogos;Música;Viagens
+670;Arthur;Costa Branco;História;Jogos;Futebol;Ténis;Escrita
+671;Cloe;Lima Faria;Ténis;Jogos;Andebol;Futebol;Escrita
+672;Anna;Leite Matos;Programação;Filmes;Gastronomia;Música;Escrita
+673;Nicolas;Vieira Borges;Redes Sociais;Política;Escrita;Futebol;História
+674;Muhammad;Batista Amorim;Viagens;Ténis;Programação;História;Jogos
+675;Priscila;Machado Assunção;Viagens;Fotografia;Música;Gastronomia;Política
+676;Francisco;Sousa Magalhães;Jogos;Gastronomia;Programação;Fotografia;Fórmula 1
+677;Luís;Vaz;Leitura;Ténis;Escrita;Andebol;Basquetebol
+678;Rosarinho;Moreira;Gastronomia;Viagens;Fotografia;Programação;Andebol
+679;Mayra;Maia Nogueira;Música;Futebol;Programação;Redes Sociais;Leitura
+680;Flávio;Magalhães Nogueira;Música;Redes Sociais;História;Fórmula 1;Pintura
+681;Kevin;Magalhães Guerreiro;Andebol;Fórmula 1;Basquetebol;Política;História
+682;Alma;Sá;Jogos;Fórmula 1;Basquetebol;Andebol;Filmes
+683;Raissa;Sá Pereira;Jogos;Filmes;Redes Sociais;Música;Gastronomia
+684;Filipe;Magalhães;Andebol;Música;Escrita;Gastronomia;Viagens
+685;Carla;Gomes Valente;Música;Escrita;História;Gastronomia;Viagens
+686;Giovani;Nogueira Baptista;Fórmula 1;Música;Redes Sociais;Viagens;Leitura
+687;Ivan;Raposo;Gastronomia;Futebol;Basquetebol;Leitura;Ténis
+688;Aline;Torres Neves;Fórmula 1;Escrita;Ténis;Programação;Basquetebol
+689;Levi;Pires Lourenço;Redes Sociais;Política;Música;História;Ténis
+690;Daria;Sá Oliveira;Música;Gastronomia;Filmes;Andebol;Redes Sociais
+691;Carlota;Lima Pires;Música;Fotografia;Jogos;Andebol;Política
+692;Misael;Valente Barros;Filmes;Basquetebol;Gastronomia;Pintura;Jogos
+693;Rayssa;Paiva;Pintura;Viagens;Fórmula 1;Música;Escrita
+694;Alexandro;Magalhães Nogueira;Fotografia;Pintura;Leitura;Filmes;Basquetebol
+695;Ema;Freitas Baptista;Música;Política;Leitura;Filmes;Andebol
+696;Débora;Gaspar Carneiro;Filmes;Gastronomia;Redes Sociais;Ténis;Escrita
+697;Valentim;Nogueira Antunes;Filmes;Pintura;Fórmula 1;Ténis;Andebol
+698;Safira;Mendes Neto;Programação;Política;Futebol;Música;Filmes
+699;Ianis;Leite Matos;Leitura;Viagens;Programação;Escrita;Pintura
+700;Concha;Andrade Nascimento;Futebol;Basquetebol;Ténis;Escrita;Andebol
+701;Clara;Valente Garcia;Basquetebol;Pintura;Ténis;Leitura;Política
+702;Vítor;Mota Anjos;Leitura;Jogos;Fotografia;História;Música
+703;Eduardo;Cunha Valente;Andebol;Redes Sociais;Viagens;Futebol;Fórmula 1
+704;Petra;Vicente;Fórmula 1;História;Música;Pintura;Futebol
+705;Manel;Barros Almeida;Futebol;Filmes;Pintura;Redes Sociais;Jogos
+706;Miranda;Paiva Gaspar;Música;Filmes;História;Fotografia;Andebol
+707;Josué;Torres Anjos;História;Escrita;Música;Jogos;Política
+708;Jonathan;Cardoso Martins;Redes Sociais;Jogos;Futebol;Programação;Fórmula 1
+709;Tobias;Nogueira Antunes;Pintura;Jogos;História;Fórmula 1;Gastronomia
+710;Nataniel;Amorim Melo;Programação;Redes Sociais;Viagens;Pintura;Música
+711;Lisandra;Gaspar Carneiro;Filmes;Pintura;Ténis;Leitura;Andebol
+712;Wilson;Mendes Neto;Viagens;História;Redes Sociais;Fotografia;Música
+713;Aléxia;Andrade Batista;Viagens;Programação;Política;Filmes;Escrita
+714;Ângela;Macedo Cruz;Jogos;Programação;Ténis;Pintura;Gastronomia
+715;Natacha;Assunção Mota;Programação;Filmes;Música;Escrita;Fotografia
+716;Adrian;Pinto Gomes;Escrita;Redes Sociais;Música;Jogos;Filmes
+717;Cloe;Barros Almeida;Música;Política;Jogos;História;Fórmula 1
+718;Caetana;Paiva Gaspar;História;Viagens;Filmes;Gastronomia;Jogos
+719;Lea;Silva;Fotografia;Gastronomia;Jogos;Filmes;Basquetebol
+720;Joabe;Machado Neves;Música;Programação;Filmes;Fórmula 1;Escrita
+721;Damien;Leite Lopes;Escrita;Programação;Viagens;Leitura;Ténis
+722;Muhammad;Gonçalves Pinto;Pintura;Programação;Fotografia;Futebol;Política
+723;Agostinho;Lima Mota;Futebol;Programação;Ténis;Viagens;Gastronomia
+724;Lília;Nogueira Lima;Ténis;Basquetebol;Pintura;Música;Fotografia
+725;Stephanie;Maia Branco;Leitura;Música;Escrita;Futebol;Jogos
+726;Thaís;Rocha Cunha;Escrita;Leitura;Basquetebol;Andebol;Pintura
+727;Josué;Teixeira Mota;Fotografia;Programação;Música;Viagens;Futebol
+728;Brian;Fernandes;Basquetebol;História;Gastronomia;Jogos;Futebol
+729;Mariana;Gomes Lopes;Fórmula 1;Viagens;Gastronomia;Basquetebol;Filmes
+730;Amanda;Fernandes Raposo;Jogos;Leitura;Gastronomia;Fotografia;Política
+731;Rogério;Azevedo Carvalho;Pintura;Jogos;Filmes;Viagens;Escrita
+732;Bárbara;Soares;Basquetebol;Andebol;Redes Sociais;Escrita;Viagens
+733;Mayra;Branco Ferreira;História;Basquetebol;Filmes;Programação;Escrita
+734;Renata;Simões;Basquetebol;Futebol;Andebol;História;Ténis
+735;Naíma;Almeida;Leitura;Viagens;Música;Escrita;Política
+736;Xavier;Faria Borges;Futebol;Basquetebol;Viagens;Escrita;Redes Sociais
+737;Samuel;Pereira Melo;Pintura;Programação;Política;Escrita;Leitura
+738;Arthur;Castro Abreu;Andebol;Jogos;Filmes;Política;Redes Sociais
+739;Tânia;Vieira Pinto;Fotografia;Futebol;Gastronomia;História;Programação
+740;Gael;Correia Sá;Política;Fórmula 1;Programação;Filmes;Redes Sociais
+741;Clarinha;Leal Morais;História;Ténis;Jogos;Leitura;Futebol
+742;Liana;Melo Brito;Escrita;História;Pintura;Música;Viagens
+743;Joel;Leite Matos;Fórmula 1;Escrita;Basquetebol;História;Futebol
+744;Aléxia;Jesus;Programação;Basquetebol;Redes Sociais;Filmes;Fotografia
+745;Filipe;Sá Oliveira;História;Basquetebol;Leitura;Política;Fórmula 1
+746;Isaac;Lima Esteves;Jogos;História;Pintura;Redes Sociais;Leitura
+747;Eliana;Castro Abreu;Fórmula 1;História;Andebol;Filmes;Escrita
+748;Mayra;Fernandes Leite;Gastronomia;Música;Redes Sociais;Leitura;Basquetebol
+749;Dânia;Carneiro Mota;Ténis;Filmes;Viagens;Escrita;Leitura
+750;Augusto;Pinheiro Lopes;História;Viagens;Escrita;Redes Sociais;Basquetebol
+751;Petra;Morais;Filmes;Futebol;Ténis;Fórmula 1;Pintura
+752;Liara;Azevedo Vieira;Ténis;Fórmula 1;Programação;Música;Fotografia
+753;Marcus;Gaspar;Política;Filmes;Fotografia;Futebol;Viagens
+754;Hélder;Mota Anjos;Jogos;Pintura;Escrita;Basquetebol;Política
+755;Leonardo;Sousa Fonseca;Jogos;Viagens;Ténis;Futebol;Leitura
+756;Eduardo;Pires Sá;Pintura;Ténis;Programação;História;Leitura
+757;Lucas;Lima Esteves;Basquetebol;Fórmula 1;Música;Política;Pintura
+758;Michele;Almeida Garcia;Basquetebol;Redes Sociais;Pintura;Andebol;Escrita
+759;Marcus;Vieira Pinto;Gastronomia;Ténis;Leitura;Filmes;Jogos
+760;Maia;Matias Anjos;Basquetebol;Filmes;Andebol;História;Programação
+761;Dora;Sá Moreira;Música;Redes Sociais;Fórmula 1;Basquetebol;Fotografia
+762;Diego;Torres Jesus;Futebol;Pintura;Fórmula 1;Jogos;Redes Sociais
+763;Valentim;Ferreira;Redes Sociais;Ténis;Jogos;Escrita;Leitura
+764;Jaime;Leal Leal;Viagens;Redes Sociais;Escrita;Gastronomia;Programação
+765;Mauro;Esteves;Viagens;Política;Fotografia;Gastronomia;Futebol
+766;José;Pires Lourenço;Filmes;Redes Sociais;Política;Basquetebol;Música
+767;Lisandro;Silva Neto;Futebol;Fórmula 1;Andebol;História;Pintura
+768;Rogério;Leite Matos;Viagens;Basquetebol;Jogos;Redes Sociais;História
+769;Marcelo;Silva Neto;Pintura;Futebol;Fórmula 1;Jogos;Política
+770;Eliane;Nascimento Neto;Política;Viagens;Escrita;Programação;História
+771;Luis;Borges Moura;Fotografia;Andebol;Leitura;Fórmula 1;Filmes
+772;Mohamed;Borges Andrade;Pintura;Ténis;Escrita;Política;Fotografia
+773;Irene;Matias Moura;Gastronomia;Viagens;História;Fotografia;Política
+774;David;Matias;Futebol;Filmes;Leitura;Redes Sociais;Música
+775;Maurício;Soares;Pintura;Fotografia;Filmes;Música;Andebol
+776;Ryan;Miranda Vieira;Basquetebol;Música;Pintura;Gastronomia;Filmes
+777;Matteo;Amorim Abreu;Pintura;Fórmula 1;Futebol;Ténis;Música
+778;Márcia;Esteves Carneiro;Fórmula 1;Jogos;Política;Futebol;Redes Sociais
+779;Cloe;Maia Nogueira;Escrita;Basquetebol;Fotografia;Filmes;Redes Sociais
+780;Erica;Neto Mendes;Programação;Jogos;Fotografia;Ténis;Escrita
+781;Matias;Abreu;Andebol;Leitura;Jogos;Programação;Futebol
+782;Aurora;Lourenço Azevedo;Pintura;História;Gastronomia;Fotografia;Futebol
+783;Isabella;Melo;Programação;Música;Futebol;Fotografia;Gastronomia
+784;Henrique;Branco;Jogos;Música;Ténis;Andebol;Filmes
+785;Filipe;Monteiro Amaral;Basquetebol;Programação;Pintura;Escrita;Política
+786;Lais;Martins Amorim;Gastronomia;Futebol;História;Redes Sociais;Política
+787;Joaquim;Freitas Mendes;Redes Sociais;Andebol;Leitura;História;Programação
+788;Pilar;Borges Moura;Música;Escrita;Leitura;Basquetebol;Andebol
+789;Jénifer;Maia Nogueira;Fotografia;Escrita;Futebol;Andebol;Fórmula 1
+790;Ellen;Costa Branco;Política;Leitura;Andebol;Filmes;História
+791;Oceana;Campos Pinto;Fórmula 1;Gastronomia;Jogos;Redes Sociais;Fotografia
+792;Roberto;Gaspar Garcia;Leitura;Programação;Escrita;Pintura;Viagens
+793;Olivia;Torres;Redes Sociais;Política;Basquetebol;Leitura;História
+794;Tiago;Henriques Sousa;Música;Filmes;Viagens;Fotografia;Redes Sociais
+795;Taís;Fernandes Teixeira;Escrita;Programação;Ténis;Fotografia;Andebol
+796;Nathan;Melo Brito;Gastronomia;Fotografia;Ténis;Escrita;Política
+797;Adriel;Gaspar Pinheiro;Política;Escrita;História;Filmes;Futebol
+798;Diogo;Tavares;História;Leitura;Redes Sociais;Música;Futebol
+799;Taíssa;Anjos Costa;Basquetebol;Pintura;Ténis;Programação;Fotografia
+800;Rosarinho;Pinheiro Lopes;Música;Viagens;Ténis;Andebol;Escrita
+801;Vitor;Melo Brito;Pintura;Escrita;História;Basquetebol;Gastronomia
+802;Kayla;Oliveira;Futebol;Política;Leitura;Pintura;Fotografia
+803;Micael;Machado Pinto;História;Gastronomia;Basquetebol;Programação;Viagens
+804;Guilherme;Gomes Lopes;Fórmula 1;História;Fotografia;Política;Jogos
+805;Emma;Anjos Costa;Gastronomia;História;Viagens;Política;Fórmula 1
+806;Angélica;Valente Barros;Fotografia;Escrita;Viagens;Programação;Ténis
+807;Gaspar;Leite;Viagens;Escrita;Futebol;Gastronomia;Redes Sociais
+808;Tiago;Fernandes Teixeira;História;Basquetebol;Ténis;Redes Sociais;Leitura
+809;Nicolas;Paiva Valente;Fotografia;Gastronomia;Ténis;Pintura;Escrita
+810;Denis;Cunha Cunha;Filmes;Música;Leitura;Programação;Futebol
+811;India;Matias Moura;Filmes;Futebol;Gastronomia;Andebol;Fórmula 1
+812;Rayan;Brito Melo;Basquetebol;Futebol;História;Política;Pintura
+813;Raúl;Reis Cunha;Fórmula 1;Fotografia;Programação;Filmes;Futebol
+814;Liz;Cunha Valente;Andebol;Fotografia;Música;Viagens;Gastronomia
+815;Luis;Gomes;Política;Fotografia;Programação;Gastronomia;Leitura
+816;Lucas;Domingues Maia;Política;Música;Pintura;Filmes;Leitura
+817;Salvador;Neto Faria;Basquetebol;História;Redes Sociais;Música;Filmes
+818;Milena;Matos Rocha;Programação;Ténis;História;Andebol;Política
+819;Mohamed;Melo Domingues;Ténis;Fórmula 1;Viagens;Pintura;Redes Sociais
+820;Jonathan;Vicente Marques;Programação;Leitura;Viagens;Redes Sociais;Política
+821;Luzia;Amorim Melo;Viagens;Basquetebol;Música;Programação;Pintura
+822;Brian;Henriques Sousa;Gastronomia;Leitura;História;Pintura;Música
+823;Yuri;Gaspar Carneiro;Ténis;Jogos;Futebol;Viagens;Fotografia
+824;Dário;Faria Borges;Escrita;Fotografia;Gastronomia;Jogos;Viagens
+825;Eunice;Vicente;Música;Fórmula 1;Viagens;Gastronomia;Jogos
+826;Fatumata;Nogueira Lima;Futebol;Ténis;Andebol;Programação;História
+827;Alma;Loureiro Freitas;Ténis;Fórmula 1;Viagens;Fotografia;Gastronomia
+828;Leonardo;Moura Pinto;Escrita;Jogos;Música;Ténis;História
+829;Alana;Gomes Valente;Escrita;Leitura;Basquetebol;Fotografia;Programação
+830;Fabiana;Mendes Neves;Redes Sociais;Política;Viagens;Fotografia;Basquetebol
+831;Carminho;Batista;Escrita;História;Fórmula 1;Viagens;Gastronomia
+832;Carminho;Domingues;Fórmula 1;História;Filmes;Música;Redes Sociais
+833;Tamára;Batista;Fórmula 1;Ténis;Jogos;Leitura;Viagens
+834;Ezequiel;Vieira Campos;Leitura;Basquetebol;Gastronomia;Fórmula 1;Ténis
+835;Tobias;Castro Abreu;Leitura;Música;História;Escrita;Jogos
+836;Tobias;Araújo Cunha;Política;Fotografia;Pintura;Basquetebol;Música
+837;Sandro;Pires;Ténis;Escrita;Fotografia;Redes Sociais;Política
+838;Patrícia;Barbosa Martins;Fotografia;Jogos;Ténis;Fórmula 1;Andebol
+839;Denilson;Matias Correia;Política;Fórmula 1;História;Jogos;Ténis
+840;Laís;Carneiro Mota;Andebol;Filmes;Jogos;Basquetebol;Ténis
+841;Vera;Simões;Escrita;Pintura;Andebol;Redes Sociais;Futebol
+842;Michele;Torres Jesus;História;Viagens;Política;Leitura;Fórmula 1
+843;Estela;Garcia Morais;Fórmula 1;Redes Sociais;Jogos;Gastronomia;Viagens
+844;Dara;Santos Fernandes;Basquetebol;Redes Sociais;Fórmula 1;Andebol;Ténis
+845;Elsa;Freitas Mendes;Música;Pintura;Filmes;Jogos;Leitura
+846;Leonor;Nascimento Jesus;Ténis;Escrita;História;Música;Fotografia
+847;Nathan;Cunha Valente;Fórmula 1;Pintura;Redes Sociais;Basquetebol;Leitura
+848;Yuri;Oliveira Nunes;Música;Escrita;Jogos;Gastronomia;Fotografia
+849;Simão;Matias Anjos;Gastronomia;Pintura;Ténis;Escrita;Futebol
+850;Amélia;Vieira Silva;Fotografia;Fórmula 1;Jogos;Ténis;Escrita
+851;Jesus;Mota Ramos;Jogos;História;Música;Viagens;Fotografia
+852;Dennis;Almeida Moreira;Andebol;Gastronomia;Música;Fotografia;Redes Sociais
+853;Telma;Matias;Basquetebol;Música;Gastronomia;Escrita;Política
+854;Leila;Henriques Azevedo;Música;Fórmula 1;Andebol;Programação;Escrita
+855;Eunice;Miranda Neves;História;Basquetebol;Escrita;Redes Sociais;Viagens
+856;Ulisses;Anjos Pereira;Filmes;Ténis;Política;Viagens;História
+857;Luciana;Pacheco;Gastronomia;Fórmula 1;Pintura;Futebol;Andebol
+858;Mara;Pinho Cunha;Filmes;Fórmula 1;Redes Sociais;Jogos;História
+859;Liz;Fernandes;Música;Viagens;Jogos;Fórmula 1;Filmes
+860;Isa;Ribeiro Tavares;Música;Redes Sociais;História;Jogos;Pintura
+861;Adrien;Ferreira Ferreira;Gastronomia;Leitura;Programação;Redes Sociais;Filmes
+862;Nicolas;Brito Gaspar;História;Fórmula 1;Fotografia;Futebol;Programação
+863;Sérgio;Gonçalves Pinto;Jogos;Pintura;Ténis;Fotografia;Música
+864;Melanie;Figueiredo;Viagens;Jogos;Escrita;Política;Programação
+865;Artur;Assunção Pinho;Jogos;Andebol;Política;Basquetebol;Futebol
+866;Flávia;Santos Fernandes;Leitura;Viagens;Programação;Política;Ténis
+867;Jacinta;Faria Borges;Música;Gastronomia;Redes Sociais;Filmes;Leitura
+868;Viviane;Sá Moreira;Música;Futebol;Jogos;Viagens;Escrita
+869;Maia;Moreira;Pintura;Redes Sociais;Música;Jogos;Fórmula 1
+870;Paulo;Nascimento Pinho;Futebol;Política;Ténis;Pintura;História
+871;Rayan;Costa Branco;Redes Sociais;Música;Leitura;Filmes;Fórmula 1
+872;Sebastian;Nogueira Campos;Pintura;Futebol;Jogos;Música;Andebol
+873;João;Sá Torres;Filmes;Gastronomia;Fórmula 1;Pintura;Programação
+874;Rogério;Torres Gomes;Pintura;Fórmula 1;Jogos;Programação;Andebol
+875;Noa;Machado Assunção;Escrita;Gastronomia;Futebol;Filmes;Leitura
+876;Damien;Gomes;Música;Redes Sociais;História;Andebol;Fotografia
+877;Irene;Moura Leal;Viagens;Jogos;Fotografia;Programação;Basquetebol
+878;Marina;Gaspar Carneiro;Jogos;Futebol;História;Redes Sociais;Fotografia
+879;Irís;Matos Rocha;Filmes;Futebol;Basquetebol;Programação;Fotografia
+880;Aline;Gaspar Pinheiro;Escrita;Filmes;Jogos;Programação;Viagens
+881;Wesley;Carvalho;Música;Andebol;Escrita;Leitura;Ténis
+882;Teresa;Santos;Política;Futebol;Pintura;Escrita;Música
+883;Oriana;Rodrigues Cruz;Leitura;Fórmula 1;Futebol;Política;Viagens
+884;Joel;Moura;Futebol;Basquetebol;Fórmula 1;Escrita;Pintura
+885;Iara;Antunes Lopes;Pintura;Música;Andebol;Basquetebol;Gastronomia
+886;Andreia;Garcia Moura;Programação;Escrita;Ténis;Fórmula 1;Futebol
+887;Thomas;Pacheco;Basquetebol;Andebol;Ténis;Gastronomia;Fórmula 1
+888;Ezequiel;Pires Henriques;Política;Redes Sociais;Programação;Viagens;Filmes
+889;Natacha;Sá Rocha;Gastronomia;Jogos;Pintura;Política;História
+890;Joana;Nogueira Loureiro;Gastronomia;Jogos;Filmes;Programação;Fotografia
+891;Levi;Paiva Valente;Filmes;História;Escrita;Leitura;Jogos
+892;Bruno;Ferreira Antunes;Futebol;Fotografia;Redes Sociais;Leitura;Basquetebol
+893;Irís;Esteves Alves;Filmes;Política;Viagens;Programação;Escrita
+894;Mayra;Esteves Morais;Gastronomia;Jogos;Ténis;História;Pintura
+895;Irís;Faria Domingues;Andebol;Gastronomia;Fórmula 1;Viagens;Leitura
+896;José;Torres Anjos;Andebol;Viagens;Música;Pintura;Filmes
+897;Aaron;Nunes;História;Gastronomia;Leitura;Fórmula 1;Fotografia
+898;Kelvin;Torres Jesus;Jogos;Fotografia;História;Basquetebol;Fórmula 1
+899;Patrick;Vieira;Música;Filmes;História;Pintura;Leitura
+900;Pilar;Tavares Teixeira;Programação;Música;Jogos;Ténis;Fórmula 1
+901;Manuela;Azevedo Vieira;Política;Música;Fórmula 1;Andebol;Filmes
+902;Adrian;Matias Anjos;Andebol;Fórmula 1;Fotografia;Gastronomia;Política
+903;Ester;Neves Figueiredo;Escrita;Pintura;Jogos;Basquetebol;Ténis
+904;Jesus;Matias Esteves;Redes Sociais;Jogos;Política;História;Ténis
+905;Salomé;Melo Fernandes;Pintura;Política;Gastronomia;Fotografia;Ténis
+906;Simara;Batista Amorim;Pintura;Ténis;Programação;Gastronomia;Redes Sociais
+907;Carla;Fernandes Leite;Escrita;Leitura;Política;Jogos;Gastronomia
+908;Elsa;Marques;Política;Redes Sociais;Jogos;Futebol;Pintura
+909;Olivia;Amorim Macedo;Fórmula 1;Basquetebol;Fotografia;Filmes;Viagens
+910;Luísa;Carvalho Garcia;Música;Filmes;Escrita;Política;Viagens
+911;Jacinta;Neto Nogueira;Música;Escrita;Fotografia;Jogos;Basquetebol
+912;Marina;Ramos;Programação;Andebol;Ténis;Gastronomia;Fotografia
+913;Helder;Pinheiro;Fórmula 1;Redes Sociais;Programação;Filmes;Gastronomia
+914;Lúcia;Maia Branco;Fórmula 1;Ténis;Jogos;Pintura;Leitura
+915;Oriana;Marques Freitas;Viagens;Gastronomia;Fotografia;Programação;Música
+916;Valentino;Sá Pereira;Futebol;Pintura;Basquetebol;Andebol;Jogos
+917;Valentim;Borges Moura;Gastronomia;Jogos;Música;Fotografia;Leitura
+918;Viviana;Amaral Andrade;Viagens;Música;Gastronomia;Basquetebol;Ténis
+919;Sara;Nogueira Loureiro;Viagens;Política;Fotografia;Futebol;Redes Sociais
+920;Renato;Lima Faria;Futebol;Pintura;Ténis;Andebol;Política
+921;Vitor;Carvalho Nunes;Futebol;Leitura;Filmes;Basquetebol;Escrita
+922;Aysha;Vicente Marques;Redes Sociais;Jogos;Política;Filmes;Programação
+923;Alana;Melo Domingues;Programação;Filmes;Fórmula 1;Pintura;Viagens
+924;Nádia;Batista Amorim;Pintura;Política;Música;Gastronomia;Basquetebol
+925;Érica;Vieira Mendes;Escrita;Fórmula 1;Viagens;Andebol;Música
+926;Diogo;Leite Matos;Jogos;Filmes;Futebol;Fórmula 1;Andebol
+927;Doriana;Lima Mota;Política;Fotografia;Filmes;Escrita;Leitura
+928;Helder;Freitas;Gastronomia;Fotografia;Futebol;Pintura;Música
+929;Vera;Nascimento Pinho;Escrita;Basquetebol;Jogos;Filmes;Fotografia
+930;Patrick;Nascimento;Leitura;Escrita;Fotografia;Fórmula 1;Basquetebol
+931;Cloé;Freitas Baptista;História;Leitura;Redes Sociais;Gastronomia;Andebol
+932;Ivan;Neves;Fotografia;Escrita;Jogos;Leitura;Futebol
+933;Luca;Almeida;Viagens;Filmes;Música;Gastronomia;Política
+934;Júnior;Morais Lourenço;Política;Filmes;Ténis;Basquetebol;Jogos
+935;Nádia;Neves Coelho;Pintura;Política;Ténis;Fórmula 1;Gastronomia
+936;Melissa;Oliveira Nunes;Fórmula 1;Política;Escrita;Ténis;Redes Sociais
+937;Melanie;Valente Barros;Viagens;Fotografia;Leitura;Andebol;Redes Sociais
+938;Ângelo;Morais Lourenço;Redes Sociais;Viagens;Ténis;Leitura;Futebol
+939;Ary;Vicente;Futebol;Redes Sociais;Gastronomia;Programação;História
+940;Alexander;Neto Nogueira;Escrita;Ténis;Fórmula 1;Programação;Basquetebol
+941;Rodrigo;Vieira;Escrita;Fotografia;Música;Gastronomia;História
+942;Nataniel;Abreu Martins;Redes Sociais;Escrita;Gastronomia;Basquetebol;História
+943;Martin;Gaspar Garcia;Viagens;Filmes;Leitura;Política;História
+944;Adrian;Abreu Figueiredo;Música;Viagens;Política;Basquetebol;Ténis
+945;Ariele;Cruz Rodrigues;Fórmula 1;Programação;Viagens;Andebol;Leitura
+946;Rafaela;Ferreira Moura;Pintura;Redes Sociais;Música;Viagens;Programação
+947;Samara;Pinho;Música;Escrita;Jogos;Viagens;Pintura
+948;Xavier;Tavares;Escrita;Jogos;Fórmula 1;Fotografia;Música
+949;Ryan;Torres;Filmes;Fotografia;Futebol;Música;Fórmula 1
+950;Fabrício;Leite Matos;Viagens;Futebol;Jogos;Ténis;Programação
+951;Adriel;Leal Leal;Filmes;Basquetebol;História;Andebol;Programação
+952;Luisa;Machado Neves;Música;Programação;Fotografia;Política;Basquetebol
+953;Milena;Almeida Garcia;Viagens;História;Andebol;Gastronomia;Jogos
+954;Estela;Sousa Fonseca;Leitura;Viagens;História;Redes Sociais;Fotografia
+955;Jussara;Fonseca Brito;Leitura;Redes Sociais;Viagens;Escrita;Fórmula 1
+956;Jussara;Esteves Alves;Filmes;Ténis;Redes Sociais;Programação;Gastronomia
+957;Salvador;Pereira Abreu;Programação;Música;Fotografia;Leitura;Filmes
+958;Alma;Machado Neves;Viagens;Escrita;Futebol;Redes Sociais;Andebol
+959;Micael;Nascimento;Leitura;Fórmula 1;Ténis;Gastronomia;Andebol
+960;Larissa;Henriques Sousa;Futebol;Fotografia;Programação;Jogos;Redes Sociais
+961;Esther;Nascimento Jesus;Política;Música;Gastronomia;Futebol;Viagens
+962;César;Tavares Teixeira;Andebol;História;Gastronomia;Fórmula 1;Filmes
+963;Mara;Torres Anjos;Andebol;Leitura;Gastronomia;Política;Redes Sociais
+964;Joana;Henriques Castro;Pintura;Futebol;Ténis;Andebol;Jogos
+965;Ravi;Sá Rocha;Basquetebol;Leitura;Gastronomia;Futebol;Música
+966;Emília;Leal;Basquetebol;Ténis;Política;Filmes;Escrita
+967;Mónica;Araújo Cunha;Pintura;História;Música;Ténis;Redes Sociais
+968;Martinho;Marques Silva;Política;Escrita;Jogos;Fotografia;Basquetebol
+969;Dayane;Garcia Fernandes;Redes Sociais;Música;Fórmula 1;Basquetebol;Gastronomia
+970;Noah;Barros Cruz;Música;Fotografia;Andebol;Basquetebol;Pintura
+971;Ícaro;Leal Morais;Pintura;Ténis;Música;Fotografia;Andebol
+972;Martinho;Fonseca Araújo;Fotografia;Basquetebol;Andebol;Redes Sociais;Programação
+973;Tiago;Tavares Teixeira;Pintura;Filmes;Ténis;Escrita;Gastronomia
+974;Ashley;Marques;Ténis;Basquetebol;Fórmula 1;Fotografia;Música
+975;Renata;Gaspar;Filmes;Leitura;Música;Política;Jogos
+976;Ivan;Miranda Vaz;Fotografia;Futebol;Política;Basquetebol;Jogos
+977;Xavier;Nogueira Baptista;Viagens;Fotografia;Escrita;Redes Sociais;Filmes
+978;Benjamim;Fernandes Teixeira;Futebol;Política;Redes Sociais;Viagens;Música
+979;Clara;Lourenço Azevedo;Basquetebol;Leitura;Música;Viagens;Futebol
+980;Rita;Guerreiro;Redes Sociais;Música;Filmes;Fotografia;Andebol
+981;Eunice;Macedo Cruz;Basquetebol;Programação;Viagens;Pintura;Filmes
+982;Alonso;Castro Brito;Viagens;Andebol;Ténis;Fotografia;Programação
+983;Irina;Anjos Costa;Leitura;Filmes;Futebol;Fórmula 1;Redes Sociais
+984;Anaís;Vieira Mendes;Redes Sociais;Filmes;Fórmula 1;Futebol;Andebol
+985;Salomé;Pires Lourenço;Escrita;Viagens;Leitura;Basquetebol;Fórmula 1
+986;Jonatã;Valente;Filmes;História;Política;Viagens;Jogos
+987;Bia;Leal Leal;Política;Redes Sociais;Leitura;Jogos;Fotografia
+988;Maira;Mota Ramos;Viagens;Pintura;Música;Andebol;Programação
+989;Wesley;Domingues Maia;Redes Sociais;Viagens;Basquetebol;Leitura;Gastronomia
+990;Valentino;Anjos Costa;Pintura;Viagens;Ténis;Jogos;Andebol
+991;Mariana;Castro Brito;Fórmula 1;Escrita;Basquetebol;Programação;Gastronomia
+992;Samira;Domingues Cunha;Basquetebol;Andebol;Música;Escrita;Redes Sociais
+993;Sabrina;Baptista Simões;Redes Sociais;Fórmula 1;Ténis;Viagens;Jogos
+994;Fatumata;Rodrigues Cruz;Andebol;Música;Futebol;Política;Ténis
+995;Milena;Araújo Andrade;Filmes;Política;Música;Futebol;Escrita
+996;Omar;Rocha Rocha;Política;Gastronomia;Leitura;Fotografia;Viagens
+997;Cecília;Carneiro Mota;Pintura;Fotografia;Jogos;Andebol;Gastronomia
+998;Caio;Amorim;Música;Política;Escrita;Leitura;Pintura
+999;Davi;Freitas Campos;Fotografia;Futebol;História;Gastronomia;Música
+1000;Isac;Abreu Faria;Viagens;Gastronomia;Redes Sociais;Filmes;Futebol
+1001;Cloé;Pinto Macedo;Gastronomia;Música;Política;Futebol;Viagens
+1002;Nair;Henriques Leite;Gastronomia;Música;Redes Sociais;Fotografia;Futebol
+1003;Mafalda;Rocha Carneiro;Música;Viagens;Andebol;História;Fórmula 1
+1004;Lília;Azevedo Almeida;Leitura;Política;Futebol;Fórmula 1;Basquetebol
+1005;Filipe;Mendes Neto;Gastronomia;Fórmula 1;Andebol;Jogos;Música
+1006;Jacinta;Neves Coelho;Fórmula 1;Redes Sociais;Futebol;Viagens;Música
+1007;Igor;Sá Rocha;Andebol;Ténis;Basquetebol;Música;Futebol
+1008;Graça;Neto Faria;Redes Sociais;Música;Filmes;História;Ténis
+1009;Emanuel;Faria Borges;Música;Programação;Andebol;Política;Jogos
+1010;Graça;Sá Pereira;Pintura;Política;Programação;Redes Sociais;Gastronomia
+1011;Marcelo;Fernandes Raposo;Fotografia;Pintura;História;Música;Escrita
+1012;Débora;Gomes Carneiro;Jogos;Viagens;Fórmula 1;Basquetebol;Redes Sociais
+1013;Carminho;Vicente Nogueira;Pintura;Futebol;Jogos;Ténis;Leitura
+1014;Matilde;Magalhães Guerreiro;Política;Viagens;Gastronomia;História;Filmes
+1015;Kelvin;Esteves Mendes;Jogos;Escrita;Redes Sociais;Fotografia;Leitura
+1016;Lia;Lima Gaspar;Basquetebol;Leitura;Fotografia;Futebol;Jogos
+1017;Amália;Maia Nogueira;História;Música;Filmes;Jogos;Gastronomia
+1018;Joyce;Amaral Melo;Basquetebol;Programação;Pintura;Escrita;Política
+1019;Edson;Esteves Carneiro;Redes Sociais;Basquetebol;Gastronomia;Filmes;Futebol
+1020;Simone;Morais;Jogos;Pintura;Basquetebol;Andebol;Fórmula 1
+1021;Sarah;Loureiro;Fotografia;Andebol;História;Pintura;Música
+1022;Noah;Machado Neves;História;Viagens;Gastronomia;Ténis;Redes Sociais
+1023;William;Moura Leal;Pintura;Gastronomia;Filmes;Viagens;Música
+1024;David;Amorim Abreu;Ténis;Fotografia;Redes Sociais;Leitura;Andebol
+1025;Joyce;Andrade;Ténis;Política;Fotografia;Basquetebol;Programação
+1026;Nicole;Henriques Castro;História;Política;Escrita;Pintura;Fórmula 1
+1027;Abigail;Pinho Cunha;Futebol;Basquetebol;Jogos;Andebol;Pintura
+1028;Daniela;Henriques;Fórmula 1;Andebol;Escrita;Ténis;Política
+1029;Ângelo;Leal Amaral;Escrita;Fórmula 1;Leitura;Futebol;Pintura
+1030;Nathan;Pinho Nogueira;Basquetebol;Política;Redes Sociais;Viagens;Pintura
+1031;Paulo;Pires Lourenço;Música;Basquetebol;Redes Sociais;História;Ténis
+1032;Moisés;Vieira Borges;Leitura;Filmes;Fotografia;Música;Redes Sociais
+1033;Marisa;Rodrigues Cruz;Futebol;Gastronomia;História;Pintura;Basquetebol
+1034;Clara;Pinto;Jogos;Ténis;Gastronomia;Política;Futebol
+1035;Gaspar;Machado Neves;Viagens;Futebol;Basquetebol;Ténis;Música
+1036;Nicole;Valente Garcia;Viagens;Política;História;Programação;Leitura
+1037;Eliane;Leal;Fotografia;Filmes;Leitura;Andebol;Gastronomia
+1038;Victória;Borges;Jogos;Pintura;Música;Ténis;Gastronomia
+1039;Bruna;Macedo Cruz;Fotografia;Gastronomia;Leitura;Basquetebol;Ténis
+1040;Dora;Gomes Lopes;Ténis;Jogos;Fórmula 1;Música;Viagens
+1041;Filipa;Neves Coelho;Fórmula 1;Ténis;Música;Redes Sociais;História
+1042;Ícaro;Vieira;História;Leitura;Filmes;Escrita;Jogos
+1043;André;Fonseca Araújo;Música;Basquetebol;Programação;Redes Sociais;História
+1044;Nathan;Gaspar Magalhães;Redes Sociais;História;Ténis;Música;Gastronomia
+1045;Luis;Almeida Moreira;Gastronomia;Basquetebol;Andebol;História;Filmes
+1046;Joaquim;Gaspar Magalhães;Ténis;Basquetebol;Música;Leitura;Redes Sociais
+1047;Aaron;Nascimento Mendes;Jogos;Escrita;Filmes;Futebol;Basquetebol
+1048;Christian;Henriques Leite;Programação;Pintura;História;Música;Filmes
+1049;Filipe;Araújo Neves;Escrita;Gastronomia;Futebol;Jogos;Viagens
+1050;Jussara;Neves;História;Andebol;Política;Gastronomia;Fotografia
+1051;Gil;Abreu;Futebol;Jogos;Programação;Gastronomia;Basquetebol
+1052;Leonardo;Neto Faria;Gastronomia;Ténis;Leitura;Fórmula 1;Fotografia
+1053;Alexandre;Azevedo Vieira;Política;Pintura;Futebol;Andebol;História
+1054;Aisha;Morais;Programação;História;Pintura;Música;Viagens
+1055;Enzo;Tavares;História;Programação;Fotografia;Fórmula 1;Pintura
+1056;Samira;Gomes Lopes;Programação;Andebol;Escrita;Leitura;Viagens
+1057;Bryan;Rocha Vieira;Ténis;Jogos;Escrita;Andebol;História
+1058;Alberto;Pacheco Rodrigues;Leitura;Política;Escrita;Gastronomia;Ténis
+1059;Erick;Esteves Raposo;Ténis;Pintura;História;Filmes;Fórmula 1
+1060;Ângela;Magalhães Guerreiro;Música;Pintura;História;Filmes;Gastronomia
+1061;Liana;Freitas Campos;História;Andebol;Jogos;Viagens;Filmes
+1062;Brian;Pinto;Fotografia;Pintura;Música;Fórmula 1;História
+1063;Jennifer;Fernandes Teixeira;Jogos;Basquetebol;Futebol;Filmes;Andebol
+1064;Erica;Guerreiro Moreira;Música;Filmes;Escrita;Viagens;Leitura
+1065;Nídia;Gonçalves Cunha;Fotografia;Jogos;Música;Leitura;Política
+1066;Vicente;Lima Pires;Fotografia;Fórmula 1;Música;Basquetebol;Jogos
+1067;Mário;Abreu Figueiredo;Redes Sociais;Fórmula 1;Basquetebol;Filmes;Gastronomia
+1068;Aurora;Coelho Pinto;História;Futebol;Fórmula 1;Viagens;Música
+1069;Dalila;Moreira;Andebol;História;Música;Ténis;Jogos
+1070;Ária;Castro Campos;Escrita;Fórmula 1;Andebol;Fotografia;Futebol
+1071;Alexa;Valente Pires;Fórmula 1;História;Leitura;Basquetebol;Gastronomia
+1072;Dânia;Nogueira Antunes;Ténis;Jogos;Basquetebol;Gastronomia;História
+1073;Mohamed;Teixeira;Política;Leitura;Pintura;Futebol;Viagens
+1074;Thomas;Abreu Figueiredo;Jogos;Redes Sociais;Filmes;Escrita;Leitura
+1075;Nelson;Jesus Ribeiro;Basquetebol;Redes Sociais;Política;Filmes;Fotografia
+1076;Daniela;Matos;Ténis;Filmes;Política;Programação;Fórmula 1
+1077;Omar;Morais;Leitura;Programação;Escrita;Fotografia;Futebol
+1078;Raul;Magalhães;Gastronomia;Música;Leitura;Jogos;Futebol
+1079;Joshua;Lourenço Azevedo;Ténis;Escrita;Música;História;Redes Sociais
+1080;Alexandre;Sá Torres;Leitura;Viagens;Fórmula 1;Basquetebol;Gastronomia
+1081;Bruno;Ferreira Amorim;Gastronomia;Basquetebol;Andebol;Jogos;Filmes
+1082;Daria;Coelho;Redes Sociais;Leitura;Pintura;Futebol;Basquetebol
+1083;Ianis;Barbosa Martins;Escrita;Política;Música;Andebol;Redes Sociais
+1084;André;Carneiro;Basquetebol;Política;Gastronomia;Filmes;Fórmula 1
+1085;Estrela;Amaral Melo;Leitura;Gastronomia;Futebol;Viagens;Jogos
+1086;Yohanna;Araújo Andrade;Jogos;Filmes;Andebol;Futebol;Leitura
+1087;Diana;Abreu;Fórmula 1;Jogos;Gastronomia;Fotografia;Viagens
+1088;Henrique;Valente;Basquetebol;Redes Sociais;Andebol;Programação;Viagens
+1089;Alma;Pacheco;Música;Viagens;Filmes;Jogos;Gastronomia
+1090;Noé;Pires Sá;Fórmula 1;Gastronomia;Viagens;Jogos;História
+1091;Verónica;Paiva Gaspar;Música;Redes Sociais;Escrita;Pintura;Fórmula 1
+1092;Pedro;Loureiro;Política;Andebol;Programação;Pintura;Gastronomia
+1093;Lígia;Andrade Moreira;Fórmula 1;Basquetebol;Jogos;Viagens;Redes Sociais
+1094;Orlando;Gaspar Pinheiro;Ténis;Política;Basquetebol;Fórmula 1;Filmes
+1095;Rayssa;Carneiro;Gastronomia;Filmes;Leitura;Pintura;Jogos
+1096;Telma;Lima Esteves;Redes Sociais;Escrita;Fórmula 1;Gastronomia;Andebol
+1097;Ária;Nascimento Mendes;Leitura;Futebol;Fotografia;Política;Filmes
+1098;Ezequiel;Gaspar Carneiro;Escrita;Música;Programação;Jogos;Pintura
+1099;Jorge;Lopes Rodrigues;Leitura;Jogos;Fotografia;Pintura;Futebol
+1100;Aurora;Fonseca;Jogos;História;Escrita;Pintura;Futebol
+1101;Liara;Sá Rocha;Andebol;Redes Sociais;Política;Basquetebol;Jogos
+1102;Salvador;Pires Henriques;Fotografia;Pintura;Escrita;Ténis;Viagens
+1103;Maura;Teixeira Mota;Música;Leitura;Futebol;Andebol;Gastronomia
+1104;Jorge;Carvalho Cruz;Andebol;Filmes;Gastronomia;Futebol;Música
+1105;Natacha;Neves;Redes Sociais;Música;História;Escrita;Andebol
+1106;Amanda;Morais Lourenço;Escrita;Viagens;Programação;Fórmula 1;Política
+1107;Rafael;Guerreiro Gaspar;Viagens;Futebol;Leitura;Basquetebol;Fórmula 1
+1108;Briana;Macedo Cruz;Leitura;Gastronomia;Fórmula 1;Política;Filmes
+1109;Theo;Vaz;Viagens;Gastronomia;Fotografia;Programação;Futebol
+1110;Luisa;Jesus Melo;Filmes;Fórmula 1;Redes Sociais;Pintura;Fotografia
+1111;Joaquim;Paiva;Programação;Política;Música;Futebol;Basquetebol
+1112;Ian;Moura Leal;Música;Programação;Filmes;Futebol;Pintura
+1113;Samanta;Sá Rocha;Política;Jogos;Futebol;Basquetebol;Música
+1114;Adrien;Amorim Macedo;Programação;Andebol;Jogos;Basquetebol;Ténis
+1115;Olivia;Araújo;Andebol;Redes Sociais;Fórmula 1;Leitura;Filmes
+1116;Pérola;Amaral Baptista;Fórmula 1;Jogos;Basquetebol;Gastronomia;Viagens
+1117;Luana;Pinto Gomes;Filmes;Futebol;Gastronomia;Política;Viagens
+1118;Luana;Moreira Ribeiro;Ténis;Andebol;Gastronomia;Programação;Redes Sociais
+1119;Nádia;Matias;Viagens;Pintura;Fórmula 1;Gastronomia;História
+1120;Simara;Jesus;Filmes;Viagens;Futebol;Programação;Ténis
+1121;Nina;Miranda;Filmes;Pintura;Política;Fotografia;Música
+1122;Briana;Andrade Batista;Futebol;Filmes;Leitura;Redes Sociais;Escrita
+1123;Valentina;Matos Sá;Fórmula 1;História;Gastronomia;Ténis;Fotografia
+1124;Natanael;Mota Valente;Filmes;Ténis;Programação;Basquetebol;História
+1125;Jonathan;Sá Rocha;História;Basquetebol;Futebol;Fotografia;Andebol
+1126;Liz;Ramos Maia;Futebol;Fórmula 1;Andebol;Música;Redes Sociais
+1127;Melissa;Azevedo Almeida;Ténis;Política;Redes Sociais;Basquetebol;História
+1128;Luena;Soares;Política;Fotografia;Programação;Redes Sociais;Gastronomia
+1129;Joabe;Maia Nogueira;Redes Sociais;Música;Leitura;Andebol;Jogos
+1130;Luna;Pires Henriques;Ténis;Programação;Fotografia;Viagens;Leitura
+1131;Moisés;Monteiro;Filmes;Fotografia;Programação;História;Jogos
+1132;Romeu;Paiva Matias;Filmes;Política;História;Música;Gastronomia
+1133;Isabel;Machado Assunção;Filmes;Andebol;Programação;Pintura;Viagens
+1134;Edson;Cunha Campos;Gastronomia;Viagens;Basquetebol;Política;Andebol
+1135;Álvaro;Domingues Maia;Redes Sociais;Basquetebol;Andebol;Fotografia;História
+1136;Diana;Araújo Neves;Redes Sociais;Futebol;Escrita;Jogos;Música
+1137;Jorge;Tavares Teixeira;Andebol;Escrita;Política;Pintura;Música
+1138;Muhammad;Amorim Rocha;Basquetebol;Programação;Ténis;Música;Leitura
+1139;Mohammad;Amorim Abreu;Gastronomia;Programação;Jogos;Futebol;História
+1140;Jaime;Brito Melo;Leitura;História;Programação;Basquetebol;Futebol
+1141;Estrela;Henriques Abreu;Fórmula 1;Escrita;Andebol;Leitura;Viagens
+1142;Alice;Cunha Cunha;Andebol;História;Música;Filmes;Leitura
+1143;Dânia;Oliveira Nunes;Jogos;Música;Redes Sociais;Basquetebol;Escrita
+1144;Cristiana;Andrade Moreira;Redes Sociais;Gastronomia;Jogos;Escrita;Programação
+1145;Ariana;Amorim Costa;Escrita;Fotografia;Pintura;Leitura;Ténis
+1146;Filipe;Domingues Branco;Programação;Jogos;Pintura;Fotografia;Gastronomia
+1147;Jair;Leite;Pintura;Política;Programação;Fórmula 1;Gastronomia
+1148;Nicole;Henriques Leite;Política;Viagens;Redes Sociais;Futebol;Basquetebol
+1149;Angelina;Pereira Abreu;Ténis;Programação;Fórmula 1;Futebol;Música
+1150;Bia;Gaspar Brito;Redes Sociais;Programação;Andebol;Fórmula 1;Futebol
+1151;Liam;Pinho Carvalho;Programação;Futebol;Pintura;Jogos;Filmes
+1152;Nicole;Nogueira Campos;Música;Andebol;Leitura;Fórmula 1;Filmes
+1153;Estêvão;Assunção Mota;Programação;Fotografia;Gastronomia;Leitura;Escrita
+1154;Frederica;Silva;Andebol;Gastronomia;Fórmula 1;Filmes;Música
+1155;Filipa;Moura Fonseca;Futebol;Gastronomia;Programação;Fotografia;Andebol
+1156;Benedita;Vieira Mendes;Política;Programação;Ténis;Viagens;Gastronomia
+1157;Liara;Fernandes Raposo;Fórmula 1;Política;Pintura;Gastronomia;Ténis
+1158;Marta;Andrade;Pintura;Jogos;Filmes;Ténis;Viagens
+1159;Renato;Nogueira Campos;Viagens;Basquetebol;Jogos;Música;Escrita
+1160;Damien;Machado Mendes;Programação;Futebol;Leitura;Fotografia;Fórmula 1
+1161;Penélope;Neves Costa;Ténis;Jogos;Programação;Escrita;Filmes
+1162;Ulisses;Jesus Ribeiro;Pintura;Escrita;Andebol;Política;Música
+1163;Tamára;Fernandes Raposo;Jogos;Gastronomia;Fotografia;Pintura;Andebol
+1164;Sandra;Esteves;Pintura;Futebol;Fotografia;Filmes;Viagens
+1165;Luna;Melo Brito;História;Política;Andebol;Leitura;Fórmula 1
+1166;Antónia;Vieira Borges;Pintura;Redes Sociais;Filmes;Gastronomia;Fórmula 1
+1167;Taíssa;Neto;Basquetebol;Jogos;História;Leitura;Música
+1168;Adriana;Henriques Matias;Pintura;Redes Sociais;Filmes;História;Programação
+1169;Jonatã;Guerreiro Moreira;Política;Andebol;Jogos;Gastronomia;Ténis
+1170;Samanta;Gonçalves;Andebol;Redes Sociais;Política;Leitura;História
+1171;Márcio;Neves;Gastronomia;Filmes;Andebol;Redes Sociais;História
+1172;Marisa;Pacheco;Andebol;História;Política;Música;Filmes
+1173;Ary;Gomes Pires;Leitura;Redes Sociais;Fotografia;Música;Política
+1174;Maryam;Barbosa Martins;Fórmula 1;Escrita;Jogos;Música;Basquetebol
+1175;Liz;Pires;Leitura;Basquetebol;Política;Fórmula 1;Fotografia
+1176;Valentino;Paiva;Redes Sociais;História;Basquetebol;Futebol;Jogos
+1177;Tamára;Rocha Vieira;Escrita;Pintura;Música;Jogos;Andebol
+1178;Eduardo;Ramos Maia;Futebol;Gastronomia;Jogos;Música;História
+1179;Ibrahim;Castro;Leitura;Ténis;Filmes;Gastronomia;História
+1180;Edmundo;Costa;Filmes;Redes Sociais;Futebol;História;Basquetebol
+1181;Francisco;Brito Campos;Andebol;Basquetebol;Jogos;Viagens;Política
+1182;Esmeralda;Lourenço Azevedo;Ténis;Futebol;Jogos;Fórmula 1;Política
+1183;Sandra;Gaspar Pinheiro;Redes Sociais;Jogos;Leitura;Gastronomia;História
+1184;Fabrício;Torres Moura;Redes Sociais;Fotografia;Viagens;Jogos;Ténis
+1185;Liana;Teixeira Guerreiro;Política;Fórmula 1;Jogos;Música;História
+1186;Wesley;Neto Faria;Andebol;Ténis;Viagens;História;Pintura
+1187;Patrícia;Fernandes Teixeira;Jogos;Viagens;Fotografia;História;Basquetebol
+1188;Artur;Pereira Abreu;Escrita;Redes Sociais;Gastronomia;Ténis;Futebol
+1189;João;Mota Valente;Andebol;Fotografia;Pintura;Redes Sociais;Ténis
+1190;Alma;Andrade Moreira;Música;Escrita;Redes Sociais;Leitura;Fotografia
+1191;Samara;Oliveira Silva;Política;Andebol;Ténis;Leitura;Programação
+1192;Cecília;Azevedo Almeida;História;Política;Ténis;Leitura;Programação
+1193;Ivo;Pinto Silva;Andebol;Viagens;Música;Fotografia;Jogos
+1194;Vasco;Gomes Neto;Redes Sociais;Política;Gastronomia;História;Jogos
+1195;Deise;Ferreira Amorim;Ténis;Fórmula 1;Pintura;Leitura;Fotografia
+1196;Rafaela;Pereira Rocha;Redes Sociais;Política;Futebol;Pintura;Escrita
+1197;Ariana;Monteiro;História;Jogos;Fotografia;Filmes;Ténis
+1198;Beatriz;Tavares Teixeira;Programação;Escrita;Viagens;Andebol;Fotografia
+1199;Diego;Andrade;Gastronomia;Basquetebol;História;Fotografia;Política
+1200;Dara;Brito Magalhães;Música;Filmes;Leitura;Escrita;Gastronomia
+1201;Elsa;Azevedo Vieira;Pintura;Leitura;Andebol;História;Fórmula 1
+1202;Manuela;Melo Fernandes;Pintura;Andebol;Filmes;Leitura;Viagens
+1203;Leandro;Brito Campos;Viagens;Música;Programação;Leitura;Fórmula 1
+1204;Mara;Silva Matos;Gastronomia;Fotografia;Basquetebol;Ténis;História
+1205;Áurea;Brito Gaspar;Programação;Pintura;Filmes;Redes Sociais;História
+1206;Tiago;Assunção Pinho;Viagens;Basquetebol;Fórmula 1;Leitura;Andebol
+1207;Maurício;Ferreira Amorim;Andebol;Jogos;Programação;Gastronomia;Fotografia
+1208;Cauã;Torres Moura;Filmes;Fórmula 1;Música;História;Viagens
+1209;Marcus;Antunes Lopes;Escrita;Ténis;Fotografia;Viagens;História
+1210;Marcelo;Nascimento Pinho;Andebol;Ténis;Jogos;Escrita;Basquetebol
+1211;Laís;Mota Valente;Ténis;Gastronomia;Política;Redes Sociais;História
+1212;Yasmin;Esteves Mendes;Programação;Ténis;Leitura;Futebol;Fotografia
+1213;Fabrício;Melo Brito;Pintura;Programação;Gastronomia;História;Política
+1214;Ísis;Matos Garcia;Viagens;Política;Pintura;Ténis;Fórmula 1
+1215;Henrique;Amorim Rocha;Futebol;Fórmula 1;Fotografia;Andebol;Redes Sociais
+1216;Liz;Cunha Cunha;Política;Redes Sociais;Filmes;Fórmula 1;Fotografia
+1217;Vasco;Domingues Branco;Leitura;Viagens;Fotografia;História;Andebol
+1218;Sebastian;Nascimento;História;Política;Gastronomia;Basquetebol;Jogos
+1219;Kyara;Carneiro;Jogos;Escrita;Andebol;Fotografia;Pintura
+1220;Dennis;Machado Mendes;Filmes;Redes Sociais;História;Basquetebol;Programação
+1221;Kyara;Magalhães Guerreiro;Basquetebol;Música;Redes Sociais;Futebol;Leitura
+1222;Jair;Carvalho Garcia;Leitura;Futebol;Redes Sociais;História;Ténis
+1223;Lívia;Ferreira Antunes;Programação;Escrita;Jogos;História;Fotografia
+1224;Mohamed;Neves Coelho;Futebol;Programação;Fotografia;História;Filmes
+1225;Kendrick;Campos Valente;Programação;Fórmula 1;Música;História;Política
+1226;Adrian;Loureiro;Escrita;Filmes;Programação;Pintura;Basquetebol
+1227;Chloé;Leite Matos;Basquetebol;Fotografia;Programação;Gastronomia;Filmes
+1228;Tobias;Sousa;Basquetebol;Gastronomia;História;Leitura;Jogos
+1229;Célio;Neves Costa;Filmes;Escrita;Programação;Basquetebol;Viagens
+1230;Rayan;Correia;Futebol;Basquetebol;Música;Leitura;Gastronomia
+1231;Ísis;Miranda;Jogos;Política;Fotografia;Redes Sociais;Ténis
+1232;Ivo;Paiva;Basquetebol;História;Fotografia;Programação;Leitura
+1233;Miranda;Fonseca Brito;Fórmula 1;Programação;Gastronomia;Pintura;Escrita
+1234;Edmundo;Pacheco;Jogos;Redes Sociais;Ténis;Política;Leitura
+1235;Eleonor;Nascimento Pinho;Basquetebol;Pintura;Filmes;Jogos;História
+1236;Penélope;Gomes;Futebol;Pintura;Política;Viagens;Escrita
+1237;Patrick;Azevedo Carvalho;História;Futebol;Fotografia;Basquetebol;Filmes
+1238;Bia;Assunção Mota;Redes Sociais;Pintura;Jogos;Música;História
+1239;Leila;Gonçalves Pinto;Pintura;Ténis;Andebol;Redes Sociais;Programação
+1240;Carminho;Gonçalves Cunha;Andebol;Jogos;Escrita;Basquetebol;Viagens
+1241;Eduarda;Vieira Pinto;Política;Ténis;Leitura;Andebol;Redes Sociais
+1242;Mauro;Sousa Magalhães;Filmes;Gastronomia;Andebol;História;Pintura
+1243;Josiane;Esteves;Música;Filmes;Redes Sociais;Programação;Basquetebol
+1244;Luísa;Araújo Cunha;História;Redes Sociais;Escrita;Política;Leitura
+1245;James;Mendes;Escrita;Política;Futebol;Programação;Basquetebol
+1246;Amanda;Correia Sá;Ténis;Escrita;Filmes;Futebol;Fórmula 1
+1247;Lea;Campos Paiva;Gastronomia;Leitura;Fotografia;Futebol;Programação
+1248;Carol;Neto Nogueira;Fórmula 1;História;Redes Sociais;Filmes;Futebol
+1249;Elena;Magalhães Nogueira;Leitura;Viagens;Redes Sociais;Escrita;Andebol
+1250;Natanael;Pinheiro Lopes;Viagens;Gastronomia;Política;História;Escrita
+1251;Luena;Ramos;Viagens;História;Fórmula 1;Fotografia;Futebol
+1252;Enzo;Neves Lopes;Leitura;Andebol;Gastronomia;Pintura;Escrita
+1253;Benedita;Esteves;Filmes;Escrita;História;Andebol;Ténis
+1254;Liliana;Amaral Melo;Escrita;Política;Pintura;Fotografia;Ténis
+1255;Alícia;Carvalho;Escrita;Gastronomia;Política;Filmes;Leitura
+1256;César;Pinto Pinto;Música;Viagens;Gastronomia;Filmes;Escrita
+1257;Lorena;Guerreiro Sousa;Escrita;Basquetebol;Música;Política;Filmes
+1258;Martin;Simões;Leitura;Viagens;Andebol;Pintura;Futebol
+1259;Ashley;Lima Gaspar;Programação;Música;Filmes;Leitura;Fotografia
+1260;Alissa;Fernandes Leite;Redes Sociais;Gastronomia;Leitura;Basquetebol;Futebol
+1261;Julieta;Pinto Macedo;Ténis;Fotografia;Música;Filmes;Redes Sociais
+1262;Irene;Amorim Abreu;Viagens;Fotografia;História;Ténis;Basquetebol
+1263;Leonor;Domingues;Filmes;Redes Sociais;Andebol;Futebol;Programação
+1264;Matias;Mota Macedo;Programação;Fotografia;Futebol;Gastronomia;Filmes
+1265;Petra;Freitas Mendes;Escrita;Redes Sociais;Leitura;Fotografia;Jogos
+1266;Aurea;Oliveira Nunes;História;Música;Gastronomia;Filmes;Redes Sociais
+1267;Manel;Lourenço Cruz;Música;Fotografia;Pintura;Viagens;História
+1268;Lavínia;Mendes Neves;Fórmula 1;Fotografia;História;Filmes;Escrita
+1269;Cristina;Andrade Batista;Redes Sociais;Música;Viagens;Política;Gastronomia
+1270;Marco;Matias Correia;Gastronomia;Basquetebol;Filmes;Futebol;Música
+1271;Mayra;Ramos Maia;Gastronomia;Política;Fotografia;História;Ténis
+1272;Mónica;Ramos;Filmes;Andebol;Fórmula 1;Basquetebol;Ténis
+1273;Mohamed;Magalhães Nogueira;Leitura;Ténis;Redes Sociais;Pintura;Programação
+1274;Davi;Lima Esteves;Gastronomia;Viagens;Leitura;Pintura;Fórmula 1
+1275;Daria;Leite Lopes;Leitura;Pintura;Ténis;Gastronomia;Escrita
+1276;Marco;Torres;Viagens;História;Programação;Fórmula 1;Gastronomia
+1277;Eva;Campos Pinto;Gastronomia;Leitura;Jogos;Fotografia;Ténis
+1278;Sabrina;Moura Leal;Futebol;Jogos;Leitura;Política;Gastronomia
+1279;Filipe;Teixeira Magalhães;Programação;Filmes;Gastronomia;Ténis;Andebol
+1280;Clarisse;Pacheco Rodrigues;Ténis;Fotografia;Pintura;Leitura;Jogos
+1281;Ísis;Domingues;Fórmula 1;História;Ténis;Pintura;Programação
+1282;Adelaide;Henriques Amaral;Fórmula 1;Redes Sociais;Andebol;Fotografia;Música
+1283;Joyce;Gomes Valente;Basquetebol;Política;Viagens;Pintura;Ténis
+1284;Samara;Abreu Faria;Jogos;Basquetebol;História;Ténis;Viagens
+1285;Riana;Magalhães Guerreiro;Jogos;Leitura;Filmes;Música;Pintura
+1286;Sandro;Matias Anjos;Viagens;Jogos;Política;Fórmula 1;Ténis
+1287;Simão;Lima;Fórmula 1;Ténis;Política;Pintura;História
+1288;Miguel;Figueiredo;Política;História;Leitura;Andebol;Pintura
+1289;Tânia;Moura Pinto;Jogos;Ténis;Gastronomia;Redes Sociais;Fórmula 1
+1290;Telmo;Borges Macedo;Viagens;Gastronomia;Escrita;Jogos;História
+1291;Mercedes;Assunção Pinho;Ténis;Leitura;Música;Programação;Pintura
+1292;Irina;Batista;Ténis;Programação;História;Jogos;Fórmula 1
+1293;Valentina;Maia;Andebol;Fórmula 1;Leitura;Ténis;Basquetebol
+1294;Matias;Amorim Macedo;Futebol;Ténis;História;Programação;Música
+1295;Anabela;Lopes;Viagens;Ténis;Fórmula 1;Fotografia;Gastronomia
+1296;Taísa;Torres Moura;Programação;Pintura;Política;Leitura;Fórmula 1
+1297;Noemi;Ramos;Jogos;Escrita;Redes Sociais;Pintura;Ténis
+1298;Edson;Moura Pinto;Ténis;Gastronomia;Música;História;Futebol
+1299;Emília;Domingues;Política;Andebol;Futebol;Fotografia;Filmes
+1300;Hugo;Cardoso Martins;Gastronomia;Jogos;Escrita;Política;Andebol
+1301;Isa;Brito Gaspar;Escrita;Ténis;Andebol;Futebol;Fotografia
+1302;Josiane;Freitas Campos;Viagens;Futebol;Fotografia;Filmes;Música
+1303;Martin;Matias Moura;Ténis;Andebol;Fórmula 1;Programação;Jogos
+1304;Sandra;Barbosa;Ténis;Fotografia;Futebol;Pintura;Gastronomia
+1305;Angélica;Raposo;Escrita;Basquetebol;Música;Ténis;Leitura
+1306;Joana;Almeida Garcia;Escrita;Programação;Ténis;Leitura;Futebol
+1307;Estêvão;Moura;Pintura;Filmes;Música;Gastronomia;Futebol
+1308;Aléxis;Marques Nascimento;Ténis;Pintura;Futebol;Música;Programação
+1309;Valentino;Pinho Teixeira;Filmes;História;Ténis;Andebol;Fotografia
+1310;Ryan;Morais Lourenço;Pintura;Programação;Escrita;Ténis;Jogos
+1311;Nicolas;Ribeiro Tavares;Ténis;Pintura;Fórmula 1;Fotografia;Filmes
+1312;Alex;Leal Leal;Viagens;Leitura;Gastronomia;História;Política
+1313;Márcio;Faria Marques;Fotografia;Escrita;Jogos;Música;Fórmula 1
+1314;Lorena;Assunção;História;Política;Ténis;Redes Sociais;Fotografia
+1315;Patrick;Sousa Fonseca;Basquetebol;Redes Sociais;Leitura;Futebol;História
+1316;Lavínia;Moura Fonseca;Ténis;Fotografia;Programação;Andebol;Música
+1317;Eduardo;Lima Gaspar;Programação;Andebol;Jogos;História;Redes Sociais
+1318;Rita;Sá Rocha;Andebol;Política;Música;Filmes;Pintura
+1319;Liara;Pires;Escrita;Basquetebol;Futebol;Leitura;Música
+1320;Raphael;Figueiredo Miranda;Andebol;Jogos;Escrita;Basquetebol;Filmes
+1321;Rayanne;Pacheco;Filmes;Jogos;Escrita;Leitura;História
+1322;Elias;Esteves Matos;Jogos;História;Programação;Gastronomia;Ténis
+1323;Melissa;Barros Almeida;Filmes;Jogos;Ténis;Fotografia;Gastronomia
+1324;James;Amaral;Escrita;Futebol;Redes Sociais;Viagens;Fotografia
+1325;Adrien;Gaspar Carneiro;Fórmula 1;Escrita;Programação;Pintura;Jogos
+1326;Omar;Silva Matos;Política;Ténis;Jogos;Programação;Fórmula 1
+1327;Luis;Matias Correia;Viagens;Política;Filmes;Gastronomia;Andebol
+1328;Isabel;Esteves;Leitura;Basquetebol;Filmes;Fotografia;Jogos
+1329;Raphael;Faria Marques;Programação;Redes Sociais;Andebol;Fórmula 1;Pintura
+1330;Estrela;Gomes Lopes;Escrita;Política;Fotografia;Fórmula 1;Futebol
+1331;Lívia;Machado Neves;Jogos;Gastronomia;Pintura;Fotografia;Filmes
+1332;Catarina;Borges Andrade;Fórmula 1;Pintura;Viagens;Filmes;Gastronomia
+1333;Kevin;Barbosa;Música;Viagens;Escrita;Filmes;Leitura
+1334;Naiara;Pinho Cunha;Jogos;Pintura;Basquetebol;Andebol;História
+1335;Henrique;Abreu;Fórmula 1;Jogos;Escrita;Leitura;Filmes
+1336;Tobias;Moreira;Política;Fórmula 1;Escrita;Futebol;Redes Sociais
+1337;Samara;Amaral Baptista;História;Basquetebol;Jogos;Política;Escrita
+1338;Irene;Guerreiro Sousa;História;Escrita;Política;Programação;Fotografia
+1339;Liliana;Freitas Mendes;Leitura;Escrita;Basquetebol;Redes Sociais;História
+1340;Nicolas;Sá Moreira;Futebol;Fotografia;História;Filmes;Pintura
+1341;Samara;Marques Freitas;Programação;História;Viagens;Jogos;Redes Sociais
+1342;Aurora;Silva;Redes Sociais;Futebol;Ténis;Política;Escrita
+1343;Denise;Valente Pinheiro;Escrita;Fotografia;Futebol;Fórmula 1;Basquetebol
+1344;Noé;Moura Simões;Pintura;Música;Futebol;Filmes;Política
+1345;Safira;Sá Torres;Música;Fórmula 1;Fotografia;Jogos;Andebol
+1346;Matilde;Pires;Leitura;História;Música;Redes Sociais;Jogos
+1347;Matheus;Amorim Rocha;Política;Pintura;Fórmula 1;História;Fotografia
+1348;Brian;Pinto Macedo;Andebol;Política;Programação;Música;Viagens
+1349;Alana;Torres Moura;Música;Pintura;Filmes;Futebol;Ténis
+1350;Flávio;Ferreira Moura;Futebol;Política;Escrita;Fotografia;Fórmula 1
+1351;Roberto;Matos;Fotografia;Música;História;Fórmula 1;Programação
+1352;Jonathan;Matias;Filmes;Fotografia;História;Viagens;Pintura
+1353;Nádia;Castro Brito;Jogos;Leitura;Música;Programação;Ténis
+1354;Levi;Pires Henriques;Programação;Redes Sociais;Música;Filmes;Escrita
+1355;Maurício;Nogueira Campos;Ténis;Basquetebol;Escrita;Política;Programação
+1356;Fernando;Henriques Amaral;Política;Futebol;História;Programação;Fotografia
+1357;Juliano;Batista Amorim;Pintura;Escrita;Jogos;Basquetebol;Ténis
+1358;Penélope;Barros Almeida;Leitura;Andebol;Basquetebol;Filmes;Viagens
+1359;Noa;Carneiro Mota;Filmes;Música;Andebol;Fotografia;Redes Sociais
+1360;Diana;Sá Oliveira;Filmes;Escrita;Jogos;Viagens;Leitura
+1361;Marina;Matias Correia;Política;Jogos;Fórmula 1;Redes Sociais;Escrita
+1362;Vicente;Machado Assunção;Basquetebol;Gastronomia;Fórmula 1;Jogos;Andebol
+1363;Jair;Pereira Rocha;Fórmula 1;Redes Sociais;Pintura;Escrita;Programação
+1364;Henrique;Borges Rocha;Viagens;Filmes;Escrita;Basquetebol;Ténis
+1365;Patrícia;Pinheiro Lopes;Filmes;Leitura;Política;Viagens;Programação
+1366;Liam;Azevedo;Gastronomia;Leitura;Futebol;História;Escrita
+1367;Victória;Paiva Matias;Escrita;Fotografia;Programação;Redes Sociais;Ténis
+1368;Luzia;Cruz Nunes;Programação;Ténis;Escrita;Redes Sociais;Fotografia
+1369;Joaquim;Vieira Borges;Escrita;Redes Sociais;Viagens;Pintura;História
+1370;Eduarda;Antunes;Fórmula 1;Futebol;Ténis;Redes Sociais;Leitura
+1371;Dara;Guerreiro;Ténis;Política;Filmes;Redes Sociais;Música
+1372;Aline;Martins Amorim;Ténis;Leitura;Viagens;Fórmula 1;Escrita
+1373;Rute;Barros Almeida;Redes Sociais;Ténis;Política;Gastronomia;Jogos
+1374;Cláudia;Magalhães;Escrita;Gastronomia;Fotografia;Redes Sociais;Andebol
+1375;Adrian;Miranda Vaz;Filmes;Fórmula 1;Ténis;Pintura;Redes Sociais
+1376;Santiago;Ferreira Moura;Futebol;Programação;Jogos;Política;Pintura
+1377;Aura;Barros Almeida;Fórmula 1;Filmes;Fotografia;Leitura;Política
+1378;Soraia;Moura Leal;Futebol;Leitura;Jogos;Andebol;Fórmula 1
+1379;Aisha;Fonseca Araújo;Fotografia;Ténis;Filmes;Música;Andebol
+1380;Kelvin;Gaspar Pinheiro;Basquetebol;Escrita;Jogos;Leitura;Programação
+1381;Lisandra;Oliveira;Pintura;Escrita;Andebol;Fórmula 1;Viagens
+1382;Márcio;Araújo Cunha;Gastronomia;Política;Viagens;Escrita;Fórmula 1
+1383;Emma;Moura;Escrita;Leitura;Pintura;Basquetebol;Música
+1384;Graça;Santos Henriques;Basquetebol;História;Escrita;Pintura;Leitura
+1385;Mercedes;Pereira;Fórmula 1;Leitura;Política;Pintura;Música
+1386;Raquel;Martins Amorim;Leitura;Redes Sociais;Futebol;Fórmula 1;Gastronomia
+1387;Dayane;Macedo Cruz;Programação;Basquetebol;Viagens;Gastronomia;Leitura
+1388;Gerson;Sá Moreira;Leitura;Pintura;Basquetebol;Programação;Fotografia
+1389;Ulisses;Lourenço Azevedo;Filmes;Andebol;Escrita;Pintura;Leitura
+1390;Amália;Marques Silva;Filmes;Basquetebol;História;Pintura;Andebol
+1391;Enzo;Fonseca Araújo;Filmes;Política;Redes Sociais;Programação;Música
+1392;Dora;Torres Carneiro;Escrita;Leitura;Pintura;Política;Basquetebol
+1393;Davi;Melo Fernandes;História;Fotografia;Leitura;Música;Programação
+1394;Melina;Melo;Filmes;Programação;Política;Gastronomia;Futebol
+1395;Ellen;Nogueira;Música;Escrita;Leitura;História;Programação
+1396;Aline;Garcia Fernandes;Basquetebol;Redes Sociais;Ténis;Futebol;Leitura
+1397;Carminho;Garcia Fernandes;Gastronomia;Basquetebol;Jogos;Viagens;Política
+1398;Renato;Guerreiro Gaspar;Política;Música;Escrita;Gastronomia;Fotografia
+1399;Isac;Amaral Melo;Ténis;Programação;História;Política;Filmes
+1400;Nelson;Marques Freitas;Leitura;Andebol;Música;Filmes;Política
+1401;Nicolau;Rocha Carneiro;Gastronomia;Leitura;Fotografia;Redes Sociais;Fórmula 1
+1402;Thaís;Henriques;Fotografia;Basquetebol;Escrita;Gastronomia;Fórmula 1
+1403;Nicolas;Reis Cunha;Fórmula 1;Leitura;Ténis;Viagens;Fotografia
+1404;Lisandro;Vieira;Programação;Fotografia;Pintura;História;Filmes
+1405;Deise;Fonseca Cunha;Andebol;Basquetebol;Fotografia;Redes Sociais;Gastronomia
+1406;Enrique;Loureiro Freitas;Redes Sociais;Basquetebol;Leitura;Gastronomia;Viagens
+1407;Sabrina;Neves Lopes;Futebol;Leitura;Política;Filmes;Basquetebol
+1408;Pedro;Barros Cruz;Política;Futebol;Fotografia;Programação;Andebol
+1409;Josué;Cardoso;Escrita;Andebol;Fórmula 1;Basquetebol;Fotografia
+1410;Pilar;Pinho Carvalho;Ténis;Gastronomia;Leitura;Pintura;Basquetebol
+1411;Félix;Azevedo Carvalho;Escrita;Andebol;Basquetebol;Redes Sociais;Leitura
+1412;Nicolau;Vaz;Redes Sociais;Música;Futebol;Escrita;Jogos
+1413;Débora;Maia Branco;Fotografia;Futebol;Ténis;Redes Sociais;Política
+1414;João;Amorim;Pintura;Filmes;Escrita;Leitura;Redes Sociais
+1415;Sabrina;Lima Pires;Pintura;Redes Sociais;Escrita;Basquetebol;Viagens
+1416;Telmo;Raposo;Viagens;Fórmula 1;Basquetebol;Futebol;Gastronomia
+1417;Dylan;Figueiredo Miranda;Filmes;Leitura;Programação;Viagens;Futebol
+1418;Isis;Fonseca Campos;Leitura;Música;Política;Pintura;Redes Sociais
+1419;Valentim;Valente Barros;Viagens;Leitura;Futebol;Programação;Basquetebol
+1420;Emma;Andrade Nascimento;Ténis;Basquetebol;Andebol;Pintura;Filmes
+1421;Theo;Carvalho Garcia;Fórmula 1;Ténis;Viagens;Leitura;Programação
+1422;Luan;Gonçalves Santos;Andebol;Fotografia;Jogos;Gastronomia;Política
+1423;Paula;Borges Rocha;Andebol;Gastronomia;Pintura;Viagens;Ténis
+1424;Rafaella;Mota Anjos;Fórmula 1;Gastronomia;História;Futebol;Basquetebol
+1425;Samanta;Amorim;Futebol;Basquetebol;Política;História;Escrita
+1426;Oriana;Borges;Filmes;Pintura;História;Fotografia;Escrita
+1427;Camila;Borges Macedo;Pintura;Jogos;Filmes;Programação;Fórmula 1
+1428;Lorenzo;Pereira;Pintura;História;Fotografia;Redes Sociais;Música
+1429;Augusto;Figueiredo;Escrita;Viagens;História;Andebol;Programação
+1430;Joabe;Amorim Costa;Música;Ténis;Pintura;Basquetebol;Escrita
+1431;Natacha;Borges Macedo;Leitura;Filmes;Pintura;Andebol;Viagens
+1432;Viviana;Amorim Costa;Música;Fotografia;Gastronomia;História;Filmes
+1433;Daniela;Rodrigues Valente;Programação;Filmes;Fórmula 1;Pintura;Basquetebol
+1434;Gaspar;Amaral Morais;Filmes;Escrita;História;Fórmula 1;Redes Sociais
+1435;David;Pinho Castro;Futebol;Música;Política;Viagens;Fórmula 1
+1436;Valentino;Lopes Rodrigues;Jogos;Programação;Música;Escrita;Viagens
+1437;Joana;Sá Rocha;Fotografia;Ténis;Viagens;Leitura;Filmes
+1438;Erick;Carneiro;Fotografia;Ténis;Fórmula 1;Filmes;Viagens
+1439;Daniela;Torres Carneiro;Música;Fórmula 1;Leitura;Ténis;Filmes
+1440;Jacinta;Neto Nogueira;Jogos;Programação;Gastronomia;Leitura;Basquetebol
+1441;Levi;Branco Ferreira;Gastronomia;Viagens;História;Fórmula 1;Futebol
+1442;Manel;Machado Pinto;Música;Fotografia;Fórmula 1;História;Futebol
+1443;Damien;Lima Gaspar;Política;Filmes;História;Basquetebol;Ténis
+1444;Caio;Vieira;Andebol;Leitura;Pintura;História;Ténis
+1445;Pérola;Rodrigues Valente;Escrita;Andebol;Programação;Música;Política
+1446;Isis;Miranda Neves;Jogos;Pintura;Programação;Gastronomia;Fotografia
+1447;Adrien;Lima Gaspar;Basquetebol;Fotografia;Jogos;Filmes;Ténis
+1448;Nina;Pereira Rocha;História;Fotografia;Programação;Viagens;Fórmula 1
+1449;Lorenzo;Moreira Neves;Escrita;Fotografia;Redes Sociais;Gastronomia;Leitura
+1450;Fausto;Azevedo Almeida;Ténis;Redes Sociais;Fotografia;Futebol;Leitura
+1451;Alex;Amorim Macedo;Ténis;Fórmula 1;História;Gastronomia;Redes Sociais
+1452;Adriano;Domingues Branco;História;Pintura;Fórmula 1;Música;Futebol
+1453;Eduarda;Leite Matos;Jogos;Escrita;Fórmula 1;Ténis;Redes Sociais
+1454;Penélope;Amorim Amaral;Fotografia;Programação;Andebol;Futebol;Pintura
+1455;Kenzo;Antunes Lopes;Política;História;Programação;Filmes;Redes Sociais
+1456;Áurea;Pinho Neto;Escrita;História;Fotografia;Filmes;Fórmula 1
+1457;Gustavo;Valente Pires;Política;Música;Futebol;Filmes;Redes Sociais
+1458;Rayanne;Carvalho Cruz;Ténis;Música;Fórmula 1;Gastronomia;Pintura
+1459;Carol;Ferreira Moura;Redes Sociais;Leitura;Andebol;Política;Basquetebol
+1460;Marco;Andrade Henriques;Programação;Jogos;Redes Sociais;Gastronomia;Viagens
+1461;José;Cunha Campos;Fotografia;Andebol;Futebol;Jogos;Programação
+1462;Carolina;Andrade;Andebol;Programação;Escrita;Fotografia;Política
+1463;Estêvão;Gonçalves Cunha;Andebol;Leitura;Política;Futebol;Fórmula 1
+1464;Rafaela;Freitas Campos;Redes Sociais;Viagens;Futebol;História;Filmes
+1465;Marcus;Moura Leal;Jogos;Fórmula 1;História;Filmes;Futebol
+1466;Fátima;Fonseca Araújo;Futebol;Fotografia;Viagens;Fórmula 1;Pintura
+1467;Noé;Batista Loureiro;História;Escrita;Viagens;Pintura;Programação
+1468;Domingos;Sá Oliveira;Andebol;Gastronomia;Fotografia;Viagens;Fórmula 1
+1469;Josué;Lima Gaspar;Pintura;Fotografia;Programação;História;Leitura
+1470;Leo;Guerreiro Sousa;Jogos;Programação;Gastronomia;Política;Fotografia
+1471;Maurício;Correia Sá;Ténis;Leitura;Pintura;Futebol;Jogos
+1472;Valéria;Castro Campos;Ténis;Futebol;Filmes;Andebol;História
+1473;Bruno;Silva Silva;Ténis;Programação;Fotografia;Jogos;Gastronomia
+1474;Francisca;Miranda Simões;Viagens;Leitura;Política;Filmes;Escrita
+1475;Mia;Guerreiro;História;Filmes;Música;Pintura;Jogos
+1476;Bruno;Carvalho Garcia;Gastronomia;Jogos;Viagens;Andebol;Futebol
+1477;Raphael;Neto Nascimento;Leitura;História;Ténis;Redes Sociais;Filmes
+1478;Sabrina;Ferreira Moura;Andebol;Escrita;Política;Pintura;Basquetebol
+1479;Jason;Andrade Batista;Filmes;Programação;Escrita;Viagens;Basquetebol
+1480;Lina;Pinto Gomes;Leitura;Futebol;Fórmula 1;Basquetebol;Programação
+1481;Fátima;Matias Correia;Basquetebol;Redes Sociais;Futebol;Jogos;Fórmula 1
+1482;Márcia;Santos Pinho;Jogos;História;Fórmula 1;Política;Gastronomia
+1483;Luena;Fonseca Araújo;Música;Jogos;Escrita;Redes Sociais;História
+1484;Concha;Pinto Macedo;Fórmula 1;Escrita;Filmes;Política;Leitura
+1485;Frederica;Alves Santos;Ténis;História;Gastronomia;Viagens;Futebol
+1486;Amélia;Gomes Neto;Basquetebol;Música;Programação;Ténis;Escrita
+1487;Alexa;Leal Leal;Escrita;Viagens;Fotografia;Basquetebol;Música
+1488;Renato;Nascimento Mendes;Leitura;Escrita;Música;Jogos;Programação
+1489;Matheus;Santos Fernandes;Viagens;Redes Sociais;Jogos;Programação;Política
+1490;Denilson;Almeida Garcia;Ténis;Fórmula 1;Programação;História;Basquetebol
+1491;Vanessa;Esteves;Política;Andebol;Filmes;Música;Viagens
+1492;José;Vieira Pinto;Jogos;Política;Música;Ténis;Futebol
+1493;Gonçalo;Vieira Borges;Gastronomia;Redes Sociais;Futebol;Leitura;Viagens
+1494;Penélope;Sousa;Leitura;Basquetebol;Redes Sociais;Programação;Música
+1495;Luisa;Valente Pinheiro;Redes Sociais;Fotografia;Fórmula 1;Filmes;Ténis
+1496;Felipe;Gaspar Garcia;Gastronomia;Leitura;Ténis;Redes Sociais;Programação
+1497;Miguel;Andrade Nascimento;Programação;Basquetebol;Filmes;Fórmula 1;Ténis
+1498;Lavínia;Guerreiro Sousa;História;Futebol;Escrita;Programação;Filmes
+1499;Christian;Rodrigues Cruz;História;Programação;Viagens;Escrita;Fórmula 1
+1500;Esmeralda;Borges;Programação;Leitura;Ténis;Futebol;Gastronomia
+1501;Maurício;Rocha Vieira;Filmes;Ténis;Viagens;Fórmula 1;Pintura
+1502;Jónatas;Valente Pinheiro;Ténis;Redes Sociais;Política;Fórmula 1;Escrita
+1503;Noa;Almeida Moreira;História;Política;Andebol;Música;Basquetebol
+1504;Leonardo;Magalhães Nogueira;Andebol;Futebol;Música;Programação;Jogos
+1505;Constança;Almeida Moreira;Andebol;Leitura;Viagens;Redes Sociais;Fotografia
+1506;Micael;Rocha Rocha;Leitura;Filmes;Fórmula 1;Futebol;Jogos
+1507;Lya;Ribeiro;Andebol;Fórmula 1;História;Gastronomia;Filmes
+1508;Jason;Miranda Vaz;Leitura;Música;Redes Sociais;Fórmula 1;Escrita
+1509;Bruna;Paiva Matias;Gastronomia;Viagens;Pintura;Leitura;Filmes
+1510;Caio;Gomes Pires;Redes Sociais;Programação;Jogos;Leitura;Futebol
+1511;Lívia;Leite Nascimento;Futebol;Basquetebol;Fórmula 1;Música;Filmes
+1512;Cauã;Mendes Leal;Pintura;Redes Sociais;Fórmula 1;Futebol;Filmes
+1513;Safira;Moura Pinto;Basquetebol;Escrita;Redes Sociais;Viagens;Andebol
+1514;Taíssa;Moura Pinto;Andebol;Pintura;Escrita;Futebol;Gastronomia
+1515;Melanie;Andrade Nascimento;Leitura;Pintura;Viagens;Ténis;Fórmula 1
+1516;Marcus;Faria Marques;Gastronomia;Fórmula 1;Fotografia;Escrita;Viagens
+1517;Mara;Pereira;Política;Filmes;Pintura;Ténis;Fotografia
+1518;Simara;Tavares;Música;Andebol;Redes Sociais;Gastronomia;Política
+1519;Orlando;Teixeira Mota;Programação;Fórmula 1;Fotografia;Leitura;História
+1520;Constança;Leal Morais;Fórmula 1;Fotografia;Pintura;Jogos;Programação
+1521;Júlia;Garcia Morais;Política;Escrita;Jogos;Redes Sociais;Gastronomia
+1522;Lídia;Leite Loureiro;Fotografia;Ténis;Redes Sociais;Leitura;Pintura
+1523;Benjamim;Batista Loureiro;Redes Sociais;Basquetebol;Fotografia;Andebol;Ténis
+1524;Wilson;Moreira;Viagens;Leitura;Futebol;Ténis;Redes Sociais
+1525;Aléxis;Baptista Simões;História;Programação;Basquetebol;Gastronomia;Viagens
+1526;Breno;Vieira Campos;Programação;Filmes;Política;Pintura;Leitura
+1527;Briana;Abreu Faria;Ténis;Leitura;Fotografia;Gastronomia;Futebol
+1528;Eduarda;Neves Lopes;Ténis;Escrita;Filmes;Andebol;História
+1529;Liane;Fernandes;Programação;Gastronomia;Escrita;Viagens;Pintura
+1530;Noa;Borges;Basquetebol;Escrita;Fórmula 1;Pintura;Redes Sociais
+1531;Tamára;Torres Neves;Leitura;Escrita;Política;Ténis;Gastronomia
+1532;Amanda;Sá;História;Basquetebol;Filmes;Viagens;Pintura
+1533;Carlos;Matias Esteves;Política;Basquetebol;Pintura;Viagens;Escrita
+1534;Paloma;Mota Macedo;Filmes;Programação;Escrita;Redes Sociais;Futebol
+1535;Anna;Matias Moura;Fórmula 1;Viagens;Pintura;História;Ténis
+1536;Wesley;Pinheiro Lopes;Basquetebol;Pintura;Viagens;Escrita;Gastronomia
+1537;Isabel;Valente Barros;Pintura;Andebol;Jogos;Fórmula 1;Viagens
+1538;Luís;Valente Valente;Gastronomia;Política;História;Andebol;Filmes
+1539;Guilherme;Rodrigues Cruz;Viagens;Programação;Escrita;Futebol;Redes Sociais
+1540;Erica;Nascimento;Viagens;Programação;Filmes;Redes Sociais;Escrita
+1541;Constança;Mendes Neto;História;Programação;Gastronomia;Futebol;Andebol
+1542;Paloma;Amaral Melo;Filmes;Música;Fotografia;História;Política
+1543;Francisco;Brito Campos;Ténis;Viagens;Futebol;Redes Sociais;Escrita
+1544;Aisha;Henriques Sousa;Ténis;Programação;Futebol;Gastronomia;Viagens
+1545;Fausto;Azevedo;Jogos;Viagens;Ténis;Programação;Leitura
+1546;Ivo;Faria;Basquetebol;Filmes;Leitura;Redes Sociais;Viagens
+1547;Kevin;Gomes Lopes;Filmes;Fórmula 1;Futebol;Leitura;Jogos
+1548;Emília;Anjos Costa;Política;Jogos;Pintura;Futebol;Filmes
+1549;Rafaela;Fernandes Leite;Andebol;Fotografia;Programação;Jogos;História
+1550;Tânia;Lourenço;Viagens;Música;Redes Sociais;Basquetebol;Jogos
+1551;Josiane;Pires Lourenço;Viagens;Redes Sociais;Futebol;Gastronomia;Filmes
+1552;Jorge;Matias Esteves;Fotografia;Basquetebol;Ténis;Gastronomia;Filmes
+1553;Diana;Raposo;Fórmula 1;Jogos;Programação;Escrita;Ténis
+1554;Lina;Amorim Melo;História;Ténis;Filmes;Jogos;Andebol
+1555;Igor;Carvalho Moreira;Viagens;Filmes;Política;Gastronomia;Programação
+1556;Flávia;Pacheco;Redes Sociais;Jogos;Pintura;Ténis;Política
+1557;Patrícia;Costa;Fotografia;Redes Sociais;Leitura;Política;Escrita
+1558;Marcelo;Cruz;Música;Redes Sociais;Ténis;Viagens;Escrita
+1559;Anaís;Valente Pinheiro;Música;Ténis;História;Futebol;Programação
+1560;Samara;Torres Gomes;Jogos;Pintura;Basquetebol;Política;Futebol
+1561;Anabela;Coelho;Ténis;Filmes;Leitura;Programação;Jogos
+1562;Estêvão;Pires;Ténis;Andebol;Escrita;Leitura;Gastronomia
+1563;Anselmo;Anjos Pereira;Jogos;Pintura;Ténis;Futebol;Andebol
+1564;Júnior;Pereira Melo;Fórmula 1;Redes Sociais;Andebol;Música;Leitura
+1565;Liam;Guerreiro Moreira;Filmes;Programação;Redes Sociais;Futebol;Política
+1566;Jesus;Branco;Pintura;Andebol;Fotografia;Viagens;Futebol
+1567;Safira;Antunes;Basquetebol;Ténis;Jogos;Filmes;Futebol
+1568;Wilson;Pires Sá;Viagens;Escrita;Filmes;História;Programação
+1569;Cristóvão;Vieira Mendes;Música;Fotografia;Política;Gastronomia;Filmes
+1570;Débora;Jesus Melo;Redes Sociais;Fórmula 1;Pintura;Escrita;História
+1571;Eliane;Amaral Baptista;Basquetebol;História;Gastronomia;Fotografia;Fórmula 1
+1572;Maura;Amaral Melo;Viagens;Fotografia;Gastronomia;Andebol;Redes Sociais
+1573;Luis;Miranda Simões;História;Ténis;Viagens;Leitura;Pintura
+1574;Romeu;Pereira;Jogos;Escrita;Leitura;Fórmula 1;Gastronomia
+1575;Larissa;Castro Araújo;Andebol;Leitura;Ténis;Viagens;Filmes
+1576;Ária;Pereira Melo;Andebol;Leitura;Gastronomia;Jogos;Redes Sociais
+1577;Lavínia;Teixeira Magalhães;Programação;Futebol;Fórmula 1;Viagens;Escrita
+1578;Carlos;Garcia Morais;Filmes;Gastronomia;Leitura;Basquetebol;Escrita
+1579;Dário;Silva;Basquetebol;Música;Filmes;Política;História
+1580;Leandro;Lima Esteves;Fórmula 1;Programação;Pintura;Redes Sociais;Futebol
+1581;Emanuel;Esteves Carneiro;Programação;Música;Andebol;Gastronomia;Leitura
+1582;Félix;Marques Nascimento;Escrita;Fórmula 1;Andebol;História;Filmes
+1583;Clara;Maia;Redes Sociais;Gastronomia;Filmes;Programação;Fórmula 1
+1584;Jonatã;Matos Pinto;História;Basquetebol;Música;Escrita;Andebol
+1585;Riana;Domingues;Leitura;Andebol;Escrita;Futebol;Ténis
+1586;Kelvin;Melo;Filmes;Redes Sociais;Gastronomia;Futebol;Fotografia
+1587;Tobias;Pinho;Fotografia;Jogos;História;Viagens;Gastronomia
+1588;Amélia;Henriques Castro;Andebol;Futebol;Viagens;Basquetebol;Gastronomia
+1589;Gael;Pinto Gomes;Fórmula 1;História;Leitura;Ténis;Escrita
+1590;Valéria;Vieira Mendes;Fórmula 1;Viagens;Basquetebol;Gastronomia;Política
+1591;Ciara;Mota Ramos;Leitura;Ténis;Programação;Fotografia;Pintura
+1592;Cátia;Vicente Marques;Música;Gastronomia;Andebol;Pintura;Fórmula 1
+1593;Felipe;Paiva Matias;Programação;Gastronomia;Jogos;História;Fotografia
+1594;Juliano;Branco Ferreira;Leitura;Fotografia;Ténis;Programação;Futebol
+1595;Raquel;Torres Anjos;Fórmula 1;História;Pintura;Basquetebol;Viagens
+1596;Adam;Matias Correia;Pintura;Futebol;Fotografia;Basquetebol;Escrita
+1597;Marcelo;Santos;História;Pintura;Programação;Jogos;Redes Sociais
+1598;Maiara;Jesus Melo;Andebol;Escrita;Redes Sociais;Fotografia;Basquetebol
+1599;Raul;Esteves Raposo;Fórmula 1;Filmes;Leitura;Jogos;Futebol
+1600;Bia;Esteves Morais;Política;Escrita;Ténis;Viagens;Fórmula 1
+1601;Rafaela;Garcia Moura;Política;Filmes;História;Música;Basquetebol
+1602;Guiomar;Melo Domingues;Andebol;Pintura;Filmes;Jogos;Música
+1603;Enrique;Rocha Cunha;Basquetebol;Viagens;Ténis;História;Programação
+1604;Estêvão;Fonseca Cunha;Futebol;Gastronomia;Fórmula 1;Viagens;Programação
+1605;Samara;Batista Amorim;Escrita;Fórmula 1;Andebol;Futebol;Filmes
+1606;Sarah;Correia Sá;Música;Ténis;Fotografia;Política;Filmes
+1607;Victória;Mota Valente;Filmes;Escrita;Viagens;História;Política
+1608;India;Carneiro Mota;Programação;Futebol;História;Basquetebol;Leitura
+1609;Arthur;Carvalho Cruz;Fórmula 1;Futebol;Programação;Música;Andebol
+1610;Ian;Teixeira Magalhães;Gastronomia;Viagens;Futebol;Programação;Política
+1611;Lea;Machado Pinto;Fotografia;Futebol;Andebol;Viagens;Jogos
+1612;Ian;Barbosa Martins;Leitura;Programação;Andebol;Gastronomia;Política
+1613;Júnior;Lopes;Viagens;Programação;Fórmula 1;Redes Sociais;Leitura
+1614;Nataniel;Assunção Simões;Política;Fórmula 1;Escrita;Viagens;Pintura
+1615;Gerson;Amaral Melo;Gastronomia;Fórmula 1;Futebol;Leitura;Basquetebol
+1616;Fabrício;Esteves Matos;Jogos;Programação;Fotografia;História;Andebol
+1617;Nicole;Carneiro Mota;Música;História;Programação;Escrita;Jogos
+1618;Gerson;Mendes Leal;Jogos;Ténis;Viagens;Fórmula 1;Gastronomia
+1619;Aura;Carneiro Nogueira;Escrita;História;Jogos;Viagens;Filmes
+1620;Ian;Vieira;Pintura;Ténis;Escrita;Redes Sociais;Leitura
+1621;Carminho;Machado Mendes;Fórmula 1;Ténis;Filmes;Jogos;Programação
+1622;Artur;Melo Fernandes;Música;Fotografia;Leitura;Basquetebol;Ténis
+1623;Ibrahim;Gomes Lopes;Filmes;Leitura;História;Gastronomia;Jogos
+1624;Jesus;Rocha Vieira;História;Viagens;Futebol;Escrita;Jogos
+1625;Raquel;Sá;Filmes;História;Fórmula 1;Basquetebol;Viagens
+1626;Mara;Moreira Ribeiro;Escrita;Jogos;Andebol;Filmes;Política
+1627;Irís;Valente Pinheiro;Filmes;Política;Futebol;Jogos;Basquetebol
+1628;Abel;Esteves Carneiro;Pintura;Viagens;Música;Programação;Fórmula 1
+1629;Taís;Alves Santos;Programação;Ténis;Fotografia;Fórmula 1;História
+1630;Ísis;Torres;Viagens;Fórmula 1;História;Escrita;Fotografia
+1631;Naíma;Ferreira Ferreira;Leitura;Pintura;Fotografia;Redes Sociais;Ténis
+1632;Alex;Assunção Pinho;Política;Pintura;Programação;Gastronomia;Filmes
+1633;Alonso;Jesus;Jogos;Música;Basquetebol;Programação;Redes Sociais
+1634;Célio;Santos Mota;Fotografia;Fórmula 1;Viagens;Programação;Política
+1635;Jaime;Amorim Melo;Fórmula 1;Política;Basquetebol;Música;Futebol
+1636;Adriano;Nogueira Loureiro;Basquetebol;Filmes;Escrita;Ténis;Leitura
+1637;Cátia;Torres Gomes;Fotografia;Fórmula 1;Pintura;Viagens;Política
+1638;Telma;Barros Cruz;Redes Sociais;Música;Gastronomia;Basquetebol;Fotografia
+1639;Rute;Loureiro Barbosa;Música;Filmes;Ténis;História;Leitura
+1640;Matilde;Sousa;Programação;Pintura;Leitura;Fotografia;Andebol
+1641;Anselmo;Andrade Batista;Pintura;Música;História;Ténis;Gastronomia
+1642;Edgar;Esteves Alves;Redes Sociais;Fórmula 1;Pintura;Futebol;Jogos
+1643;Helder;Lima Mota;Futebol;História;Ténis;Programação;Jogos
+1644;Estrela;Vieira Pinto;Ténis;Futebol;Fotografia;Leitura;Filmes
+1645;Ema;Anjos Costa;Filmes;Basquetebol;História;Andebol;Jogos
+1646;Augusto;Melo;Viagens;Andebol;Música;Redes Sociais;Filmes
+1647;Eduardo;Brito Campos;Pintura;Fotografia;Gastronomia;Escrita;Jogos
+1648;Matheus;Cunha Valente;Pintura;Escrita;Gastronomia;Política;Jogos
+1649;Artur;Ferreira Moura;Andebol;Futebol;Música;Fotografia;Pintura
+1650;Jonas;Assunção;Escrita;Gastronomia;Viagens;História;Filmes
+1651;Flávia;Mendes Neto;Leitura;Jogos;História;Basquetebol;Futebol
+1652;Beatriz;Miranda Maia;Andebol;Fórmula 1;Futebol;Redes Sociais;Música
+1653;Taíssa;Coelho Pinto;Fórmula 1;Pintura;Fotografia;História;Futebol
+1654;Cátia;Borges;Escrita;Fotografia;Viagens;Andebol;Filmes
+1655;Matteo;Freitas Campos;Programação;Futebol;Redes Sociais;Basquetebol;Andebol
+1656;Bárbara;Nogueira Lima;Filmes;Política;Basquetebol;Futebol;Leitura
+1657;Estêvão;Oliveira Nunes;Viagens;Fórmula 1;Programação;Fotografia;Redes Sociais
+1658;Rafael;Henriques Abreu;Redes Sociais;Programação;História;Política;Música
+1659;David;Rocha;Ténis;História;Pintura;Jogos;Andebol
+1660;Paloma;Gomes Carneiro;Futebol;Ténis;Música;História;Redes Sociais
+1661;Isabela;Mendes Neto;Filmes;Música;Leitura;História;Gastronomia
+1662;Romeu;Amaral Melo;Redes Sociais;Jogos;Programação;Leitura;Filmes
+1663;Hélder;Gomes Pires;Música;Filmes;Fotografia;Pintura;Política
+1664;Luena;Matias Campos;Ténis;Filmes;Leitura;Escrita;Pintura
+1665;Isa;Vieira Borges;Fórmula 1;Pintura;Fotografia;Escrita;Programação
+1666;Anaís;Mota Valente;Gastronomia;Programação;Ténis;Filmes;Leitura
+1667;Aura;Ferreira Ferreira;Leitura;Fórmula 1;Viagens;História;Jogos
+1668;Christian;Fonseca;Fórmula 1;Filmes;Ténis;Andebol;Futebol
+1669;Áurea;Paiva Matias;Redes Sociais;Escrita;Ténis;Basquetebol;Futebol
+1670;Stephanie;Amorim Amaral;Política;Redes Sociais;Escrita;Viagens;Andebol
+1671;Aysha;Freitas Mendes;História;Música;Futebol;Pintura;Política
+1672;Jacinta;Matias Moura;Música;História;Viagens;Escrita;Basquetebol
+1673;Carolina;Carvalho Nunes;Futebol;Escrita;Redes Sociais;Ténis;Viagens
+1674;Amanda;Alves;Fórmula 1;Basquetebol;Gastronomia;Pintura;Política
+1675;Enzo;Coelho Pinto;Música;Política;Programação;História;Gastronomia
+1676;Juliana;Lima;Gastronomia;Basquetebol;Música;História;Andebol
+1677;Jorge;Santos;Filmes;História;Basquetebol;Escrita;Fórmula 1
+1678;Dora;Pinheiro Lopes;Escrita;Gastronomia;Viagens;Basquetebol;História
+1679;Dalila;Teixeira Magalhães;Fotografia;Viagens;Programação;Redes Sociais;Fórmula 1
+1680;Noa;Garcia Moura;Política;Basquetebol;História;Filmes;Viagens
+1681;Gaspar;Coelho Pinto;Jogos;Redes Sociais;Fotografia;Gastronomia;Música
+1682;Jónatas;Carvalho;Redes Sociais;Pintura;História;Ténis;Programação
+1683;Milena;Henriques;Fotografia;Pintura;Jogos;Viagens;Música
+1684;Melina;Sá Pereira;Redes Sociais;Jogos;Andebol;Ténis;Basquetebol
+1685;Maria;Neto;Política;História;Fotografia;Ténis;Escrita
+1686;Marisa;Pinto Macedo;Redes Sociais;Programação;Andebol;Filmes;Música
+1687;Eliane;Sá;Andebol;Programação;Filmes;História;Ténis
+1688;Michele;Assunção Simões;Programação;Jogos;Ténis;Andebol;Escrita
+1689;Catarina;Garcia Fernandes;Gastronomia;Escrita;Pintura;Ténis;Basquetebol
+1690;Noa;Moura Fonseca;Andebol;Gastronomia;Música;Fórmula 1;Redes Sociais
+1691;José;Ribeiro Tavares;Fórmula 1;Pintura;Redes Sociais;Andebol;Filmes
+1692;Félix;Morais Lourenço;Andebol;Política;Basquetebol;Ténis;Música
+1693;César;Monteiro;Gastronomia;Fórmula 1;Viagens;Ténis;Jogos
+1694;Kelly;Ribeiro;Jogos;Fotografia;Política;Ténis;Gastronomia
+1695;Luca;Vicente;Fórmula 1;Andebol;Jogos;História;Música
+1696;Elena;Castro Campos;História;Gastronomia;Redes Sociais;Política;Escrita
+1697;Cátia;Vieira Campos;Filmes;Fotografia;Jogos;Ténis;Redes Sociais
+1698;Ícaro;Leal Leal;Redes Sociais;Política;Leitura;Basquetebol;Escrita
+1699;Jorge;Mendes Neto;Leitura;Música;Redes Sociais;Política;Programação
+1700;Sandro;Gomes Carneiro;Andebol;Escrita;Redes Sociais;Leitura;Basquetebol
+1701;Constança;Correia;Fórmula 1;Ténis;Jogos;Política;Redes Sociais
+1702;Gil;Carvalho Cruz;Andebol;Futebol;Fotografia;Gastronomia;Música
+1703;Theo;Sá Rocha;Basquetebol;Pintura;Leitura;História;Política
+1704;Abel;Amaral;Redes Sociais;Escrita;Política;Fotografia;Programação
+1705;Renato;Gonçalves Pinto;Fórmula 1;Ténis;História;Basquetebol;Filmes
+1706;Laís;Leite Lopes;Ténis;Fotografia;Música;Filmes;Gastronomia
+1707;Cloe;Leite Lopes;Leitura;Programação;Redes Sociais;Futebol;Ténis
+1708;Benjamim;Batista;Música;Política;Gastronomia;História;Programação
+1709;Ryan;Matias Esteves;Viagens;Andebol;Basquetebol;Escrita;Fórmula 1
+1710;Salvador;Azevedo Carvalho;História;Escrita;Viagens;Basquetebol;Futebol
+1711;Tamára;Branco;Fotografia;Andebol;Jogos;Fórmula 1;Filmes
+1712;Tiago;Borges Macedo;Redes Sociais;História;Programação;Política;Escrita
+1713;Naíma;Gaspar Garcia;Filmes;Programação;Gastronomia;História;Jogos
+1714;Kyara;Pinto Pinto;Fotografia;Jogos;Música;Pintura;Gastronomia
+1715;Aline;Borges Macedo;Filmes;Programação;Futebol;História;Jogos
+1716;Joel;Cruz Nunes;Leitura;Pintura;Jogos;Programação;História
+1717;Tatiana;Neto;Música;Basquetebol;Viagens;Pintura;Futebol
+1718;Alberto;Marques Nascimento;Filmes;Redes Sociais;Programação;Fotografia;Fórmula 1
+1719;Gonçalo;Assunção Mota;Escrita;Jogos;Política;Leitura;Ténis
+1720;César;Batista Loureiro;Basquetebol;Pintura;Ténis;Escrita;Fórmula 1
+1721;William;Valente Pires;Programação;Jogos;Música;Fotografia;Política
+1722;Célio;Brito Magalhães;Viagens;Jogos;Ténis;Futebol;Pintura
+1723;Matteo;Moura;Basquetebol;História;Futebol;Filmes;Ténis
+1724;Martinho;Carvalho;Basquetebol;Fotografia;Redes Sociais;Leitura;Futebol
+1725;Vera;Gonçalves Cunha;Ténis;Viagens;Redes Sociais;Basquetebol;Música
+1726;Anna;Neto;Fórmula 1;Escrita;Redes Sociais;Leitura;Fotografia
+1727;Sarah;Paiva;Leitura;Jogos;Basquetebol;Futebol;Ténis
+1728;Samanta;Araújo Cunha;Futebol;Música;Fotografia;História;Programação
+1729;Aurora;Reis Cunha;Filmes;Redes Sociais;Música;Ténis;História
+1730;Rayssa;Macedo;Jogos;Filmes;Música;Fórmula 1;Futebol
+1731;Agostinho;Machado Neves;Gastronomia;Basquetebol;Leitura;Filmes;Pintura
+1732;Eric;Gaspar Magalhães;Futebol;Fórmula 1;Programação;Gastronomia;Leitura
+1733;Mónica;Miranda Vaz;Basquetebol;Leitura;Redes Sociais;História;Política
+1734;Aaron;Domingues Branco;Viagens;Leitura;Música;Andebol;Gastronomia
+1735;Rodrigo;Martins Amorim;Jogos;Escrita;Leitura;Basquetebol;História
+1736;Cauã;Fernandes Teixeira;Viagens;Leitura;Filmes;Andebol;Gastronomia
+1737;Manuel;Henriques Sousa;História;Basquetebol;Fotografia;Fórmula 1;Pintura
+1738;Eliana;Carvalho Garcia;Fotografia;Viagens;Política;Leitura;Ténis
+1739;Álvaro;Moreira;Filmes;Ténis;Basquetebol;Redes Sociais;Gastronomia
+1740;Jonatã;Nascimento Neto;Basquetebol;Gastronomia;Leitura;Andebol;Jogos
+1741;Igor;Moura Leal;Viagens;Filmes;Programação;Fórmula 1;História
+1742;Ulisses;Morais Lourenço;Gastronomia;Fotografia;Redes Sociais;Filmes;Futebol
+1743;Mia;Macedo;Leitura;Escrita;Política;Fotografia;Basquetebol
+1744;Adriana;Valente Garcia;Viagens;Música;Ténis;Política;Andebol
+1745;Agostinho;Monteiro;História;Fórmula 1;Andebol;Viagens;Ténis
+1746;Lívia;Pires Reis;Jogos;Fórmula 1;Programação;Música;Ténis
+1747;Noemi;Castro Campos;Andebol;Leitura;Fórmula 1;Futebol;História
+1748;Frederica;Alves Santos;Andebol;Política;Escrita;Filmes;Basquetebol
+1749;Liana;Amorim Costa;Gastronomia;Fotografia;Futebol;Jogos;Música
+1750;Rute;Esteves Carneiro;Filmes;Redes Sociais;Programação;Fórmula 1;Gastronomia
+1751;Dylan;Machado Mendes;Leitura;Andebol;Pintura;História;Ténis
+1752;Mia;Amaral Melo;Política;Escrita;Viagens;Fotografia;Programação
+1753;Martinho;Brito Campos;Fotografia;Pintura;História;Música;Andebol
+1754;Aisha;Leite Lopes;Gastronomia;Programação;Viagens;Leitura;Andebol
+1755;Lúcia;Andrade Nascimento;Fórmula 1;Futebol;Ténis;Filmes;Basquetebol
+1756;Benedita;Rodrigues Cruz;Leitura;Escrita;Andebol;Pintura;Viagens
+1757;Helder;Campos Valente;Pintura;Jogos;Música;Redes Sociais;Política
+1758;Noa;Gomes Neto;Ténis;Fotografia;Andebol;Filmes;Leitura
+1759;Naiara;Tavares Rocha;Fórmula 1;Viagens;Fotografia;Andebol;Filmes
+1760;Joaquim;Matias Moura;Política;Gastronomia;Filmes;Redes Sociais;História
+1761;Yasmin;Anjos;Escrita;Programação;Viagens;Futebol;Política
+1762;Elias;Santos Mota;Filmes;Fotografia;Pintura;Futebol;Gastronomia
+1763;Vasco;Henriques Amaral;Fórmula 1;Andebol;Filmes;Futebol;Pintura
+1764;Isabella;Gomes Neto;Ténis;Política;Escrita;Gastronomia;Pintura
+1765;Zoé;Fernandes;História;Basquetebol;Jogos;Leitura;Ténis
+1766;Jorge;Esteves Raposo;Pintura;Gastronomia;Viagens;Futebol;Escrita
+1767;Isabel;Andrade Batista;Leitura;Escrita;História;Música;Fórmula 1
+1768;Noemi;Machado Neves;Música;Leitura;Filmes;História;Jogos
+1769;Luisa;Neto;Escrita;História;Viagens;Programação;Filmes
+1770;Breno;Guerreiro Moreira;Basquetebol;Política;História;Ténis;Filmes
+1771;Juliano;Pires Henriques;Jogos;Programação;Viagens;Ténis;Fotografia
+1772;Martin;Amorim Melo;Fórmula 1;Futebol;Programação;História;Política
+1773;Zoé;Ferreira Ferreira;Fotografia;Andebol;Música;Ténis;Fórmula 1
+1774;Rodrigo;Pereira Rocha;Música;Política;Gastronomia;Futebol;Programação
+1775;Diego;Leite Matos;Leitura;Fórmula 1;Escrita;Ténis;Viagens
+1776;Agostinho;Alves Nascimento;Política;Viagens;Futebol;História;Jogos
+1777;Joyce;Ferreira Moura;Basquetebol;Escrita;Música;Jogos;Leitura
+1778;Eric;Nogueira Baptista;Jogos;Filmes;Ténis;Viagens;História
+1779;Noa;Marques Nascimento;Política;Andebol;Filmes;Gastronomia;Jogos
+1780;Adam;Gonçalves Cunha;Fotografia;História;Escrita;Basquetebol;Filmes
+1781;Rita;Lourenço;Fotografia;Pintura;Programação;Música;Redes Sociais
+1782;Luan;Lopes Rodrigues;Leitura;Redes Sociais;Jogos;Fotografia;Música
+1783;Jennifer;Fonseca Campos;Filmes;Andebol;Fotografia;História;Ténis
+1784;Priscila;Neves Coelho;Andebol;Futebol;Viagens;Jogos;Fotografia
+1785;Simão;Lima Mota;Fórmula 1;Filmes;Basquetebol;Pintura;Programação
+1786;Suéli;Fernandes Leite;Fotografia;Viagens;Leitura;Filmes;História
+1787;Violeta;Gonçalves Santos;Fórmula 1;Andebol;Escrita;Gastronomia;Redes Sociais
+1788;Márcia;Barbosa;Pintura;Música;Fórmula 1;Jogos;Basquetebol
+1789;Aléxis;Esteves Carneiro;História;Gastronomia;Ténis;Leitura;Escrita
+1790;Valentino;Sá Moreira;Andebol;Música;Programação;Leitura;Redes Sociais
+1791;Amadeu;Morais;Gastronomia;Filmes;Redes Sociais;Futebol;Jogos
+1792;Bruna;Barros;Jogos;Basquetebol;Música;Pintura;História
+1793;Kayla;Macedo Cruz;Viagens;Música;História;Futebol;Ténis
+1794;Lais;Mota Valente;Programação;Música;Andebol;Viagens;Redes Sociais
+1795;Dalila;Pacheco Rodrigues;Jogos;Andebol;História;Pintura;Política
+1796;Robert;Loureiro Freitas;Gastronomia;Jogos;Futebol;Basquetebol;Fotografia
+1797;Márcio;Alves Nascimento;Fotografia;Escrita;Pintura;Redes Sociais;Fórmula 1
+1798;Sérgio;Baptista;Filmes;Escrita;Fórmula 1;Pintura;Viagens
+1799;Joaquim;Valente Garcia;Política;História;Programação;Pintura;Gastronomia
+1800;Rosa;Mota Anjos;História;Ténis;Fórmula 1;Política;Programação
+1801;Liam;Magalhães;Fórmula 1;Filmes;Futebol;Pintura;Jogos
+1802;Thomas;Moura Pinto;Música;Fotografia;Leitura;Andebol;Jogos
+1803;Arthur;Guerreiro Gaspar;Futebol;Jogos;História;Programação;Escrita
+1804;Luzia;Torres Neves;Jogos;Gastronomia;Programação;Futebol;Basquetebol
+1805;William;Costa;Música;Basquetebol;Escrita;Redes Sociais;Fotografia
+1806;Aura;Pinto;Ténis;Gastronomia;Pintura;Jogos;Futebol
+1807;Paula;Cruz Nunes;Basquetebol;Redes Sociais;Ténis;Leitura;Filmes
+1808;Davi;Esteves Matos;Gastronomia;Ténis;Programação;Escrita;Pintura
+1809;Anaís;Rocha Vieira;Basquetebol;Gastronomia;Política;Andebol;Redes Sociais
+1810;Maira;Lima Gaspar;Gastronomia;Andebol;Fórmula 1;Programação;Filmes
+1811;Milena;Neves Lopes;Política;Andebol;Música;Pintura;Gastronomia
+1812;Christian;Garcia;Viagens;Escrita;Redes Sociais;Fórmula 1;Ténis
+1813;Josué;Monteiro;Basquetebol;Leitura;Futebol;Filmes;Música
+1814;Viviane;Costa Branco;História;Redes Sociais;Música;Jogos;Escrita
+1815;Emília;Assunção Pinho;Filmes;Basquetebol;Pintura;Música;Política
+1816;Adriana;Santos Henriques;Redes Sociais;Pintura;Filmes;Gastronomia;Viagens
+1817;Diogo;Magalhães Guerreiro;Leitura;Fórmula 1;Música;Viagens;Gastronomia
+1818;Célio;Paiva Matias;Ténis;Política;Programação;Filmes;Viagens
+1819;Noa;Campos Carvalho;Escrita;Programação;Andebol;Jogos;Futebol
+1820;Ícaro;Esteves Morais;Viagens;Música;Futebol;Fotografia;Jogos
+1821;Raissa;Brito Melo;Leitura;Fotografia;Gastronomia;Política;Música
+1822;Martinho;Figueiredo Gaspar;Filmes;Viagens;Jogos;História;Escrita
+1823;Joana;Neves Lopes;Basquetebol;Jogos;Futebol;Ténis;Programação
+1824;Marta;Abreu Martins;Redes Sociais;História;Fotografia;Gastronomia;Futebol
+1825;Kévim;Sousa Fonseca;Música;Viagens;Leitura;Andebol;Programação
+1826;Constança;Almeida Moreira;Jogos;Fotografia;Pintura;Escrita;Filmes
+1827;Valentim;Baptista Simões;Basquetebol;Música;Fotografia;Escrita;Ténis
+1828;Alexa;Miranda Neves;Programação;Pintura;Leitura;Redes Sociais;Jogos
+1829;Elena;Rodrigues Valente;Política;Escrita;Basquetebol;Andebol;Leitura
+1830;Wilson;Torres Carneiro;Jogos;Música;Viagens;Gastronomia;Basquetebol
+1831;Thaís;Amorim Rocha;Andebol;Redes Sociais;Jogos;História;Música
+1832;Cláudia;Lourenço Cruz;Redes Sociais;Ténis;Fotografia;História;Música
+1833;Graça;Assunção Mota;Fotografia;Pintura;Escrita;Futebol;Filmes
+1834;Alissa;Henriques;Gastronomia;Escrita;Futebol;Andebol;Política
+1835;Natanael;Gomes Neto;Fórmula 1;Leitura;Andebol;Viagens;Política
+1836;Bruno;Rodrigues Valente;Gastronomia;Política;Escrita;Redes Sociais;Basquetebol
+1837;Vítor;Almeida Moreira;Política;História;Fórmula 1;Redes Sociais;Escrita
+1838;Adelaide;Rocha Vieira;Viagens;Leitura;Gastronomia;Fotografia;Música
+1839;Aron;Nascimento Neto;Fórmula 1;Música;Viagens;Pintura;Redes Sociais
+1840;Isabel;Cunha Valente;Política;Jogos;Música;Futebol;Leitura
+1841;Valentim;Campos Paiva;Fotografia;Jogos;Leitura;Filmes;Andebol
+1842;Carminho;Batista;Gastronomia;Viagens;Filmes;Música;Futebol
+1843;Adriana;Maia Nogueira;Filmes;Gastronomia;Programação;Basquetebol;Leitura
+1844;Manuel;Maia;Música;Fotografia;Redes Sociais;Fórmula 1;Gastronomia
+1845;Omar;Neves Costa;Jogos;Fórmula 1;Viagens;História;Andebol
+1846;Edson;Torres Neves;Programação;Fórmula 1;Redes Sociais;Leitura;Ténis
+1847;Raúl;Silva Neto;Política;Redes Sociais;Programação;Fórmula 1;Gastronomia
+1848;Ian;Lopes;História;Andebol;Política;Gastronomia;Ténis
+1849;Ícaro;Figueiredo;Jogos;Fórmula 1;Viagens;Andebol;Fotografia
+1850;César;Cruz;Viagens;Ténis;Andebol;Futebol;Fotografia
+1851;Vanessa;Sá Pereira;Andebol;Viagens;Fórmula 1;Pintura;Música
+1852;Débora;Figueiredo;Futebol;Filmes;Viagens;Jogos;História
+1853;Nataniel;Vieira;Fórmula 1;Fotografia;Andebol;Jogos;Música
+1854;Ângela;Teixeira Carvalho;Futebol;Ténis;Viagens;Pintura;Programação
+1855;Aurora;Domingues Branco;Fotografia;Filmes;Música;Programação;Política
+1856;Tobias;Antunes;Fórmula 1;Leitura;Jogos;Ténis;Fotografia
+1857;Suéli;Cunha Campos;Pintura;Programação;Fórmula 1;Música;Escrita
+1858;Tânia;Mendes Leal;Música;Política;Fotografia;Filmes;Gastronomia
+1859;Aléxia;Henriques Castro;Música;Leitura;Programação;Escrita;Ténis
+1860;Dylan;Morais Lourenço;Ténis;Futebol;Andebol;Fotografia;Fórmula 1
+1861;Valentina;Moura Pinto;Política;Programação;Redes Sociais;Escrita;Ténis
+1862;Cloe;Moura;Andebol;Ténis;Futebol;Leitura;Fórmula 1
+1863;Miguel;Ferreira Antunes;Leitura;Gastronomia;Ténis;Música;Pintura
+1864;Roberto;Baptista Simões;Política;Basquetebol;Programação;Fotografia;Andebol
+1865;Jennifer;Rocha Cunha;Fórmula 1;Gastronomia;Leitura;Jogos;Futebol
+1866;Breno;Henriques Abreu;Gastronomia;Redes Sociais;Política;Futebol;Ténis
+1867;Sophia;Henriques Abreu;História;Pintura;Política;Redes Sociais;Andebol
+1868;Eduarda;Gomes Neto;Gastronomia;Política;Viagens;Andebol;Basquetebol
+1869;Aura;Esteves Alves;Leitura;Fotografia;Filmes;Viagens;Música
+1870;Joabe;Faria Domingues;Andebol;Basquetebol;Jogos;Música;História
+1871;Clarisse;Paiva Valente;Pintura;Fotografia;Futebol;Andebol;Redes Sociais
+1872;Adam;Barros;Fotografia;Música;Gastronomia;História;Leitura
+1873;Júnior;Pinto Pinto;Fotografia;Música;Basquetebol;Filmes;Viagens
+1874;India;Almeida Moreira;Gastronomia;Andebol;Política;Pintura;Música
+1875;Samara;Leite Matos;Andebol;História;Basquetebol;Viagens;Música
+1876;Oceana;Cunha Cunha;Gastronomia;Jogos;Leitura;Futebol;Fotografia
+1877;Vitor;Nogueira Loureiro;Viagens;Fotografia;Filmes;Leitura;Gastronomia
+1878;Sara;Pacheco Rodrigues;Fórmula 1;História;Música;Leitura;Escrita
+1879;Margarida;Tavares;Basquetebol;Programação;Política;Música;Ténis
+1880;Carina;Carvalho Cruz;Futebol;Ténis;Fórmula 1;Gastronomia;Leitura
+1881;Israel;Maia Nogueira;Fórmula 1;Basquetebol;Programação;História;Música
+1882;Orlando;Andrade;Redes Sociais;Fotografia;Escrita;Ténis;Leitura
+1883;Danilo;Sousa;Política;Andebol;Basquetebol;História;Leitura
+1884;Verónica;Nogueira;Música;Fórmula 1;Viagens;Redes Sociais;Leitura
+1885;Sarah;Pinho;Gastronomia;Fórmula 1;História;Fotografia;Jogos
+1886;Stella;Batista;Andebol;Ténis;Redes Sociais;Política;Música
+1887;Ashley;Esteves Matos;Futebol;História;Filmes;Política;Basquetebol
+1888;Cíntia;Miranda;Leitura;Música;Programação;Viagens;Gastronomia
+1889;Riana;Araújo Andrade;Pintura;Andebol;Política;Jogos;Gastronomia
+1890;Tamara;Loureiro Freitas;Pintura;Escrita;Basquetebol;Viagens;Jogos
+1891;Carminho;Henriques Sousa;Fórmula 1;Leitura;Redes Sociais;Futebol;Gastronomia
+1892;Josué;Carvalho Garcia;Escrita;Viagens;Filmes;Leitura;Fotografia
+1893;Aurea;Jesus Ribeiro;Programação;Futebol;Fotografia;Leitura;Política
+1894;Alissa;Cunha Valente;Jogos;História;Viagens;Escrita;Futebol
+1895;Benjamin;Carvalho Cruz;Filmes;História;Programação;Fórmula 1;Ténis
+1896;Liz;Lopes Rodrigues;Programação;Pintura;Gastronomia;Leitura;Futebol
+1897;Deise;Monteiro;Fotografia;Pintura;Futebol;Fórmula 1;Redes Sociais
+1898;David;Nogueira Antunes;História;Política;Viagens;Escrita;Andebol
+1899;Xavier;Santos Henriques;Política;Programação;Viagens;Fórmula 1;Andebol
+1900;Álvaro;Ferreira Ferreira;Filmes;Música;Pintura;Programação;Ténis
+1901;Lisandra;Gonçalves;Programação;Fórmula 1;Política;Basquetebol;Fotografia
+1902;Ema;Pinho Nogueira;Filmes;Pintura;Redes Sociais;Escrita;Andebol
+1903;Paula;Ferreira;Fotografia;Escrita;Ténis;História;Basquetebol
+1904;Joshua;Freitas Campos;Gastronomia;Fórmula 1;Andebol;Futebol;Música
+1905;Aron;Matos Pinto;História;Basquetebol;Pintura;Ténis;Jogos
+1906;Lídia;Castro Campos;Jogos;Viagens;Basquetebol;História;Leitura
+1907;Viviana;Marques Nascimento;História;Pintura;Fotografia;Jogos;Basquetebol
+1908;Alexandro;Alves Nascimento;Leitura;Andebol;Fórmula 1;Basquetebol;Fotografia
+1909;Flávio;Cunha;História;Basquetebol;Viagens;Política;Andebol
+1910;Tomé;Figueiredo Miranda;Escrita;Viagens;Leitura;Política;Basquetebol
+1911;Noé;Ferreira Amorim;Viagens;Fotografia;Política;História;Basquetebol
+1912;Penélope;Amorim Amaral;Redes Sociais;Fotografia;Futebol;Leitura;Ténis
+1913;Salomé;Neto Mendes;Ténis;Fórmula 1;Basquetebol;Escrita;Programação
+1914;Lais;Assunção;Pintura;Viagens;Basquetebol;Ténis;Fórmula 1
+1915;Sophia;Marques;Basquetebol;Viagens;Fotografia;Política;Programação
+1916;Emanuel;Matias;Política;Jogos;Filmes;Pintura;Programação
+1917;Leandro;Loureiro Barbosa;Fórmula 1;História;Música;Pintura;Viagens
+1918;Maiara;Carvalho Cruz;Futebol;Ténis;Basquetebol;Pintura;Política
+1919;Stella;Neves;Filmes;Andebol;Escrita;Gastronomia;Viagens
+1920;Angélica;Azevedo Almeida;Escrita;Ténis;Fórmula 1;Viagens;Jogos
+1921;Gerson;Gaspar;Leitura;Fórmula 1;Música;Andebol;Filmes
+1922;Sophia;Branco Ferreira;Escrita;Leitura;Viagens;Andebol;Filmes
+1923;Rebeca;Leal Amaral;História;Jogos;Escrita;Fórmula 1;Programação
+1924;Guilherme;Monteiro;Filmes;Andebol;Gastronomia;Jogos;Redes Sociais
+1925;Jussara;Loureiro;História;Filmes;Basquetebol;Jogos;Política
+1926;Ravi;Morais Lourenço;Futebol;Fotografia;História;Fórmula 1;Ténis
+1927;Noa;Alves Santos;Futebol;Redes Sociais;Ténis;Fórmula 1;Política
+1928;Doriana;Pinheiro Machado;História;Fotografia;Música;Jogos;Gastronomia
+1929;Juliana;Torres Neves;Gastronomia;Música;Basquetebol;Programação;Futebol
+1930;Zoé;Lima Esteves;Viagens;Andebol;Filmes;História;Escrita
+1931;Cloé;Moura Leal;História;Jogos;Ténis;Gastronomia;Música
+1932;Isabella;Gomes Valente;Política;Gastronomia;Futebol;História;Jogos
+1933;Mohamed;Pinho Abreu;Política;Programação;Jogos;Andebol;História
+1934;Brenda;Araújo Cunha;Escrita;Basquetebol;Jogos;Redes Sociais;Pintura
+1935;Cloé;Pacheco Rodrigues;Filmes;Andebol;Escrita;Futebol;Ténis
+1936;Júlia;Nogueira Antunes;Escrita;Fotografia;Ténis;Jogos;Viagens
+1937;Juliano;Jesus;História;Escrita;Gastronomia;Andebol;Filmes
+1938;Igor;Cunha Valente;Jogos;Política;Viagens;Andebol;Leitura
+1939;Alberto;Gaspar Garcia;Viagens;Programação;Jogos;Música;Política
+1940;Iara;Gaspar Magalhães;Pintura;Andebol;Escrita;Filmes;Basquetebol
+1941;Stella;Lima Faria;Redes Sociais;Gastronomia;Programação;Fórmula 1;História
+1942;Yuri;Sousa Magalhães;Basquetebol;Fórmula 1;Música;Futebol;Filmes
+1943;Simara;Marques Freitas;Leitura;Escrita;Andebol;Pintura;Fotografia
+1944;Adrian;Paiva;Fotografia;Futebol;Leitura;Escrita;Filmes
+1945;Enzo;Garcia;Música;Programação;Redes Sociais;Filmes;Futebol
+1946;Augusto;Castro Abreu;Pintura;Viagens;Música;Filmes;Basquetebol
+1947;Alissa;Cardoso Pereira;Futebol;Fórmula 1;Música;Viagens;Fotografia
+1948;Christian;Sá Torres;Leitura;Política;Programação;Ténis;Filmes
+1949;Rafael;Guerreiro;Jogos;Andebol;Futebol;Ténis;Gastronomia
+1950;Gustavo;Leite Matos;Fotografia;Programação;Música;Escrita;Leitura
+1951;Hugo;Guerreiro;Fotografia;Basquetebol;Filmes;Programação;Andebol
+1952;Gustavo;Macedo Cruz;História;Redes Sociais;Leitura;Fotografia;Basquetebol
+1953;Dayane;Oliveira Silva;Basquetebol;Jogos;Leitura;Futebol;Ténis
+1954;César;Coelho;Basquetebol;Fórmula 1;Música;Programação;Política
+1955;Ellen;Sousa Magalhães;Futebol;Viagens;Leitura;Basquetebol;Filmes
+1956;Vasco;Rodrigues Cruz;Fórmula 1;Política;Programação;Gastronomia;Redes Sociais
+1957;Kenzo;Guerreiro Sousa;Ténis;Andebol;Viagens;Escrita;História
+1958;Suéli;Faria;Jogos;Andebol;Música;Redes Sociais;História
+1959;Kévim;Campos Carvalho;Fotografia;Jogos;Programação;Leitura;Música
+1960;Verónica;Ferreira Amorim;Programação;Futebol;Fórmula 1;Escrita;Leitura
+1961;Augusto;Gaspar Pinheiro;Fórmula 1;Música;Política;Basquetebol;Gastronomia
+1962;Áurea;Cunha Valente;Política;Leitura;História;Ténis;Gastronomia
+1963;Carolina;Carneiro Nogueira;Futebol;Política;Jogos;Ténis;Basquetebol
+1964;Mário;Castro Araújo;Fórmula 1;Viagens;Filmes;Política;Ténis
+1965;Lorena;Matos Lourenço;Escrita;Fotografia;Futebol;Ténis;Gastronomia
+1966;Liane;Fernandes;Viagens;Filmes;Basquetebol;Escrita;Programação
+1967;Taíssa;Santos Henriques;Basquetebol;História;Música;Viagens;Jogos
+1968;Alana;Machado Pinto;Gastronomia;Fotografia;Viagens;Política;Futebol
+1969;Salomé;Freitas Baptista;Futebol;Filmes;Leitura;Escrita;Música
+1970;Carlota;Miranda;Futebol;Fotografia;Andebol;Pintura;Filmes
+1971;Mia;Lourenço Azevedo;Basquetebol;Futebol;Programação;Escrita;Pintura
+1972;Dalila;Baptista;Pintura;Música;Fórmula 1;Jogos;Ténis
+1973;Penélope;Nunes;Basquetebol;Viagens;Ténis;Filmes;Redes Sociais
+1974;Ellen;Andrade Moreira;Viagens;Fotografia;Programação;Redes Sociais;História
+1975;Tânia;Henriques Sousa;Fotografia;Programação;Redes Sociais;Política;Música
+1976;Edgar;Barbosa Martins;Música;História;Viagens;Andebol;Programação
+1977;Rute;Mota;Andebol;Futebol;Redes Sociais;Música;Basquetebol
+1978;Taísa;Pinheiro Machado;Política;Pintura;Andebol;Fotografia;Basquetebol
+1979;Francisca;Moura Pinto;Filmes;História;Música;Viagens;Basquetebol
+1980;Luca;Almeida;Leitura;Basquetebol;Andebol;Gastronomia;Jogos
+1981;Soraia;Soares;Música;Ténis;Programação;Gastronomia;Andebol
+1982;Tamara;Borges Macedo;Andebol;Ténis;História;Filmes;Escrita
+1983;Francisco;Abreu Martins;Redes Sociais;Andebol;História;Programação;Escrita
+1984;Jorge;Guerreiro Moreira;Gastronomia;Política;Fotografia;Pintura;Viagens
+1985;Riana;Neto Faria;Política;Fotografia;História;Futebol;Escrita
+1986;Maura;Pinheiro;Jogos;Ténis;Filmes;Pintura;Fotografia
+1987;Marisa;Anjos Pereira;Andebol;Futebol;Pintura;Basquetebol;Redes Sociais
+1988;Josué;Leite Nascimento;Andebol;Viagens;Fotografia;Programação;Pintura
+1989;Briana;Pinho Nogueira;Música;Leitura;Basquetebol;Política;História
+1990;Caio;Matias Moura;Fórmula 1;Gastronomia;Política;História;Música
+1991;Alana;Martins Amorim;Leitura;Redes Sociais;Gastronomia;Pintura;Música
+1992;Julieta;Monteiro Amaral;Escrita;Filmes;História;Gastronomia;Política
+1993;Aura;Santos Pinho;Fotografia;Fórmula 1;Música;Basquetebol;Viagens
+1994;Luísa;Rocha;Basquetebol;Jogos;Leitura;Viagens;Redes Sociais
+1995;David;Borges Moura;Política;Fórmula 1;Basquetebol;Leitura;Fotografia
+1996;Eva;Miranda Maia;Escrita;Programação;Fotografia;Pintura;Fórmula 1
+1997;Clarinha;Rocha Carneiro;Leitura;Gastronomia;Pintura;Escrita;Música
+1998;Alana;Macedo;Basquetebol;Leitura;Escrita;Programação;Fórmula 1
+1999;Ulisses;Castro Campos;Pintura;Redes Sociais;Gastronomia;Música;Viagens
+2000;João;Torres Gomes;Futebol;Música;História;Gastronomia;Jogos
