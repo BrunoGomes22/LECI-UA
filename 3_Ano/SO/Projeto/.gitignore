@@ -1,0 +1,7 @@
+# avoid build, lib and bin folders
+build
+lib
+bin
+include
+main_test.cpp
+TODO.md
