@@ -1,0 +1,119 @@
+II Agentes Reactivos
+
+1. Está a ser desenvolvido um robô para pesca submarina, o Nautilus, pedindo-se a sua
+colaboração no desenvolvimento do módulo de controlo. Este robô transporta um máximo
+de 10 arpões e um depósito com capacidade para 20 peixes. Quando sente um peixe em
+frente lança imediatamente um arpão (acção Disparar ). Se o arpão atingir um peixe, o robô
+guarda o peixe no depósito (acção Agarrar ), podendo neste caso recuperar o arpão. Caso
+contrário, o arpão perde-se. Quando perder todos os arpões, o Nautilus pode reabastecer-se
+(acção Reabastecer ), ficando novamente com 10 arpões. Quando o depósito de peixes estiver
+cheio, estes devem ser descarregados (acção Descarregar ), ficando o depósito novamente
+vazio. Quando não tem mais nada para fazer, limita-se a vaguear (acção Vaguear ).
+
+(a) Identifique as variáveis de estado, se necessárias.
+
+n_arpoes
+n_peixes
+
+(b) Identifique e caracterize um conjunto de predicados que possam ser usados para des-
+crever situações em que se encontre o Nautilus.
+
+deteta_peixa
+atinge_peixe
+
+(c) Especifique o conjunto de regras situação-acção que regem o comportamento do Nau-
+tilus. Pode fazê-lo na forma de uma tabela com as serguintes colunas:
+• Situação - uma conjunção de condições em lógica de primeira ordem
+• Actualização - actualização das variáveis de estado, caso existam
+• Acção - acção a executar pelo agente na situação indicada
+
+Situação                                                   Atualização                                                 Ação
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+deteta_peixe  & n_arpoes>0 & n_peixes<20                   n_arpoes--                                                  Disparar
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+atigiu_peixe                                               n_peixes++                                                  Agarrar
+                                                           n_arpoes++
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+~deteta_peixe  & n_arpoes>0 & n_peixes<20 & ~atingiu_peixe                                                             Vaguear
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+n_arpoes == 0                                              n_arpoes=10                                                 Reabastecer
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+n_peixes==20                                               n_peixes = 0                                                Descarregar
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+III Representação do Conhecimento
+
+2. Considere o mundo dos blocos com n blocos representados pelas constantes (B1 , B2 , . . . , Bn ),
+predicado On(x, y) que indica que o bloco x está em cima do objecto y e o predicado
+Clear(x) que indica que o bloco x não tem nenhum bloco em cima. Indique qual o número
+mı́nimo de blocos para que cada uma das fórmulas seguintes seja verdadeira:
+(a) ¬Clear(B1 ) ∧ ¬Clear(B2 ) ∧ ∃x(On(B3 , x) ∧ x 6= F loor)
+		|B3|
+		|B1|
+	     ___|B2|___
+	     
+Resposta: 3
+	
+(b) Clear(B1 ) ⇒ Clear(B2 )
+    ~Clear(B1) v Clear(B2)
+    
+       |B2|
+    ___|B1|___
+    
+   ___|B1|___|B2|___
+   
+Resposta: 2
+
+3. Considere o seguinte mundo composto por uma torneira, dois tanques (T1 e T2) e um
+recipiente (R). A torneira pode estar aberta para um dos dois tanques mas nunca para os
+dois ao mesmo tempo. O recipiente pode ser colocado dentro de um tanque, desde que este
+esteja sem água. Se a torneira estiver aberta, então o tanque respectivo ou o recipiente (se
+estiver dentro do tanque) ficam com água. Se o recipiente estiver dentro de um tanque, e
+a torneira estiver aberta para esse tanque, então o recipiente fica com água, mas o tanque
+não. Tanto os tanques como o recipiente podem ter água mesmo que a torneira não esteja
+aberta para eles.
+
+Considere os seguintes predicados:
+	• W ater(x) indica que x (recipiente ou tanque) tem água;
+	• Open(x) que indica que a torneira está aberta para o tanque x;
+	• Over(x, y) que indica que o recipiente x está colocado sobre o tanque y.
+	
+	(a) Para cada uma das observações seguintes, apresente os valores lógicos possı́veis para
+	    Water(T1), Water(T2) e Water(R).
+	    	______________________________________________Water(T1)_________Water(T2)____________WaTer(R)___________________
+ 		i. Open(T2) ∧ Over(R, T2)                     F,V               F                    V
+		ii. Open(T2) ∧ Over(R, T1)                    F                 V                    F,V
+		iii. ¬Open(T2) ∧ Over(R, T1)                  F                 F,V                  F,V
+		iv. ¬Open(T1) ∧ ¬Open(T2) ∧ Over(R, T1)      F                 F,V                   F,V
+	(b) Diga se cada uma das seguintes fórmulas é satisfatı́vel, e caso seja, se é uma tautologia:
+		i. ∀x (¬(¬Open(x) ⇒ Water(x)))  Satisfativel
+			
+		ii. ∀x (¬(Open(x) ⇒ Water(x)))  Não Satisfatível
+		
+		iii. ∀x (Open(x) ⇒ ∃y Water(y))  Tautologia
+		
+		iv. ∃x ∃y (Open(x) ∧ Open(y) ∧ x 6= y)  Não satisfatível
+		
+
+10. Considere um domı́nio composto por animais, espécies e intervalos de tempo, no qual o
+conhecimento pode ser descrito através dos seguintes predicados:
+
+	• Animal (a): a é um animal
+	• Espécie(a,e): o animal a é da espécie e
+	• Vivo(a,t): o animal a está vivo no intervalo t
+	• Extinta(e,t): a expécie e está extinta no intervalo t
+	• Progenitor (p,a): o animal p é progenitor do animal a
+(a) Represente as seguintes frases em lógica de primeira ordem:
+	• Qualquer animal tem um progenitor
+		∀a A(a) ⇒ ∃p(p,a)
+	• Qualquer animal pertence a uma espécie
+		∀a A(a) ⇒ ∃e(a,e)
+	• Apenas os animais pertencem a espécies
+	• Se p é o progenitor de a e a pertence a uma espécie e, então p
+	também pertence a e
+	• Uma espécie e está extinta no intervalo t se nenhum animal dessa espécie
+	está vivo nesse intervalo
+	• Não existiam mamutes vivos no ano de 1918
+(b) Demonstre que os mamutes estavam extintos em 1918 a partir das fórmulas que es-
+creveu.

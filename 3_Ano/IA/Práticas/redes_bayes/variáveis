@@ -1,0 +1,28 @@
+Variáveis 
+
+CP - cara preocupada
+FER - frequencia exagerada do rato
+ST - sobrecarga de trabalho (independente)
+CENL - correio eletronico nao lido
+UPT - usando o processador de texto (independente)
+PA - precisa de ajuda
+
+Topologia da rede
+
+  UPT      ST__           
+   / \      \  \
+  |   \ _PA  \  \
+  |    _/\    \  CENL
+  |   /   \   |
+  FER      \_CP          
+  
+  
+  Probabilidades condicionadas
+  
+  P(FER|UPT,PA) = 0.90
+  P(FER|~UPT,PA) = 0.10
+  P(FER|UPT, ~PA) = 0.90
+  P(FER|~UPT, ~PA) = 0.01
+  
+  P(CP|PA,ST) = 0.02
+   
