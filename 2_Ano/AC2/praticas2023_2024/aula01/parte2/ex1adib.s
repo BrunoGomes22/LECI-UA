@@ -65,6 +65,8 @@ end:
     li $v0, 0 # return 0
     jr $ra
 
+############# funct wait ################
+
 wait:
     li $t2, 0 # $t2 = i = 0
     li $t5, 515000

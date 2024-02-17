@@ -1,0 +1,20 @@
+GAS LISTING ex2adi.s 			page 1
+
+
+DEFINED SYMBOLS
+            ex2adi.s:2      *ABS*:0000000000000014 SIZE
+            ex2adi.s:3      *ABS*:0000000000000009 READ_STR
+            ex2adi.s:4      *ABS*:0000000000000008 PRINT_STR
+            ex2adi.s:5      *ABS*:0000000000000006 PRINT_INT
+            ex2adi.s:6      *ABS*:0000000000000003 PUT_CHAR
+            ex2adi.s:9      .data:0000000000000000 res
+            ex2adi.s:10     .data:000000000000000d str
+            ex2adi.s:11     .data:0000000000000023 str1
+            ex2adi.s:12     .data:0000000000000038 str2
+            ex2adi.s:13     .data:000000000000004d str3
+            ex2adi.s:16     .text:0000000000000000 main
+            ex2adi.s:55     .text:0000000000000078 strlen
+            ex2adi.s:57     .text:000000000000007c for
+            ex2adi.s:62     .text:0000000000000094 endfor
+
+NO UNDEFINED SYMBOLS
