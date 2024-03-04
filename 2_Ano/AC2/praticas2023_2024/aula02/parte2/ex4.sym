@@ -1,0 +1,23 @@
+GAS LISTING ex4.s 			page 1
+
+
+DEFINED SYMBOLS
+               ex4.s:4      *ABS*:0000000000000003 PUT_CHAR
+               ex4.s:5      *ABS*:0000000000000006 PRINT_INT
+               ex4.s:6      *ABS*:000000000000000c RESET_CORE_TIMER
+               ex4.s:7      *ABS*:000000000000000b READ_CORE_TIMER
+               ex4.s:8      *ABS*:0000000000000001 INKEY
+               ex4.s:9      *ABS*:0000000000000002 GET_CHAR
+               ex4.s:13     .text:0000000000000000 main
+               ex4.s:20     .text:0000000000000014 while
+               ex4.s:26     .text:0000000000000034 endif5
+               ex4.s:29     .text:0000000000000044 endif6
+               ex4.s:35     .text:0000000000000064 endif7
+               ex4.s:31     .text:0000000000000050 block
+               ex4.s:88     .text:0000000000000120 delay
+               ex4.s:72     .text:00000000000000d0 if1
+               ex4.s:75     .text:00000000000000e8 if2
+               ex4.s:78     .text:0000000000000100 endif2
+               ex4.s:93     .text:0000000000000130 loop
+
+NO UNDEFINED SYMBOLS

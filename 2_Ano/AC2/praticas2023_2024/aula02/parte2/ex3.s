@@ -5,6 +5,7 @@
     .equ PRINT_INT, 6
     .equ RESET_CORE_TIMER, 12
     .equ READ_CORE_TIMER, 11
+    .equ INKEY, 1
     .data
     .text
     .globl main
@@ -16,6 +17,16 @@ main:
     sw $s2, 0($sp)
 
 while:  # while(true)
+    li $v0, INKEY
+    syscall
+
+if4: bne $v0, 'A', if5
+    divu $t5, $t5, 2
+    j endif5
+if5: bne $v0, 'N', endif5
+    li $t5, 100
+endif5:
+
     li $a0, '\r'
     li $v0, PUT_CHAR
     syscall
@@ -46,7 +57,7 @@ while:  # while(true)
     li $v0, PRINT_INT
     syscall
 
-    li $a0, 100
+    move $a0, $t5
     jal delay
 
     addi $s2, $s2, 1
