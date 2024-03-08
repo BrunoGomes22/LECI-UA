@@ -1,0 +1,40 @@
+portos: E7;E6;E5;E4;E3;E2;E1;E0
+
+queremos configurar E3 e E1 como outputs
+E2 e E0 como inputs
+
+Alternativa 1:
+TRISEbits.TRISE0 = 1;
+TRISEbits.TRISE1 = 0;
+TRISEbits.TRISE2 = 1;
+TRISEbits.TRISE3 = 0;
+
+Alternativa 2:
+
+TRISE = (TRISE & 0xFFF0) | 0x0005;
+
+----------------------------------------------------------
+
+delay() só se pode usar com atrasos multiplos de 1ms
+
+em outras situações devemos usar o readCoretimer();
+----------------------------------------------------------
+
+ex2.
+
+f = 4.6 Hz
+T = 0.2173971 s (1/4.6)
+
+1s ---------------------- 20 000 000
+0.2173971s --------------- x
+
+x = 0.2173971 * 20 000 000 = 4347942
+
+a expressão LATE = (LATE & 0xFF87) é feita porque:
+
+E7;E6;E5;E4;E3;E2;E1;E0
+1  0  0  0  0  1  1  1
+----------|-----------
+     8           7
+
+o counter é shiftado 3 bits á esquerda para fazer o OR com os portos E6-E3;
