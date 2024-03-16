@@ -1,8 +1,0 @@
-core_timer = contador módulo 2³² [0, 2³² - 1]
-
-20 Mhz -> 20 milhões de ciclos por segundo
-
-ao fim de um segundo chegamos a 20 milhoes de contagens
-ao fim de meio segundo chegamos a 10 milhoes de contagens
-
-x = Tx20x10⁶ T -> tempo   x-> nº de contagens
