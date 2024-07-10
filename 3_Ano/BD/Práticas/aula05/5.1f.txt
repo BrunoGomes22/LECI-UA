@@ -1,0 +1,2 @@
+ alpha = (σ Sex = 'F' (π Dno, Salary, Sex (employee)))
+ γ Dno; avg(Salary) -> avg_Salary (alpha)

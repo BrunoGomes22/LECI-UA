@@ -1,0 +1,1 @@
+σ fornecedor = null (fornecedor ⟕ nif = fornecedor encomenda)

@@ -1,0 +1,16 @@
+C:\Users\bgfgo\OneDrive\Ambiente de Trabalho\BD\Projeto_final\forms_train\forms_train\forms_train\obj\Debug\forms_train.csproj.AssemblyReference.cache
+C:\Users\bgfgo\OneDrive\Ambiente de Trabalho\BD\Projeto_final\forms_train\forms_train\forms_train\obj\Debug\forms_train.Properties.Resources.resources
+C:\Users\bgfgo\OneDrive\Ambiente de Trabalho\BD\Projeto_final\forms_train\forms_train\forms_train\obj\Debug\forms_train.csproj.GenerateResource.cache
+C:\Users\bgfgo\OneDrive\Ambiente de Trabalho\BD\Projeto_final\forms_train\forms_train\forms_train\obj\Debug\forms_train.csproj.CoreCompileInputs.cache
+C:\Users\bgfgo\OneDrive\Ambiente de Trabalho\BD\Projeto_final\forms_train\forms_train\forms_train\bin\Debug\forms_train.exe.config
+C:\Users\bgfgo\OneDrive\Ambiente de Trabalho\BD\Projeto_final\forms_train\forms_train\forms_train\bin\Debug\forms_train.exe
+C:\Users\bgfgo\OneDrive\Ambiente de Trabalho\BD\Projeto_final\forms_train\forms_train\forms_train\bin\Debug\forms_train.pdb
+C:\Users\bgfgo\OneDrive\Ambiente de Trabalho\BD\Projeto_final\forms_train\forms_train\forms_train\obj\Debug\forms_train.Form1.resources
+C:\Users\bgfgo\OneDrive\Ambiente de Trabalho\BD\Projeto_final\forms_train\forms_train\forms_train\obj\Debug\forms_train.exe
+C:\Users\bgfgo\OneDrive\Ambiente de Trabalho\BD\Projeto_final\forms_train\forms_train\forms_train\obj\Debug\forms_train.pdb
+C:\Users\bgfgo\OneDrive\Ambiente de Trabalho\BD\Projeto_final\forms_train\forms_train\forms_train\obj\Debug\forms_train.Form2.resources
+C:\Users\bgfgo\OneDrive\Ambiente de Trabalho\BD\Projeto_final\forms_train\forms_train\forms_train\obj\Debug\forms_train.Form3.resources
+C:\Users\bgfgo\OneDrive\Ambiente de Trabalho\BD\Projeto_final\forms_train\forms_train\forms_train\obj\Debug\forms_train.Form4.resources
+C:\Users\bgfgo\OneDrive\Ambiente de Trabalho\BD\Projeto_final\forms_train\forms_train\forms_train\obj\Debug\forms_train.Form5.resources
+C:\Users\bgfgo\OneDrive\Ambiente de Trabalho\BD\Projeto_final\forms_train\forms_train\forms_train\obj\Debug\forms_train.LoginForm.resources
+C:\Users\bgfgo\OneDrive\Ambiente de Trabalho\BD\Projeto_final\forms_train\forms_train\forms_train\obj\Debug\forms_train.RegistrationForm.resources

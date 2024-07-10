@@ -1,0 +1,50 @@
+                  Query         		|     Rows      |      Cost     |      Pag. Reads    |     Index used     |     Index Op.
+#1
+select * from
+Production.WorkOrder            		|    72591      |    .488       |        742         |  WorkOrderID(PK)   |    Clustered Index Scan
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+#2
+select * from 
+Production.WorkOrder            		|      1        |    .003       |       216          |  WorkOrderID(PK)   |    Clustered Index Seek
+where WorkOrderID=1234
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+#3
+SELECT * FROM Production.WorkOrder
+WHERE WorkOrderID between 10000 and 10010	|  11.9979	|     .003      |       216          | WorkOrderID(PK)    |    Clustered Index Seek
+
+SELECT * FROM Production.WorkOrder
+WHERE WorkOrderID between 1 and 72591           |  72591        |      .488     |      744           |  WorkOrderID(PK)   |    Clustered Index Seek
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+#4
+SELECT * FROM Production.WorkOrder
+WHERE StartDate = '2007-06-25'			|    1          |      .522     |      1342          | WorkOrderID(PK)    |   Clustered Index Scan
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+#5
+SELECT * FROM Production.WorkOrder
+WHERE ProductID = 757				|    11.4       |      .037     |     238            |  ProductID         |   Index Seek
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+#6
+SELECT WorkOrderID, StartDate 
+FROM Production.WorkOrder                       |    11.4       |     .037      |     238            | ProductID Covered (StartDate)|   Index Seek
+WHERE ProductID = 757
+
+SELECT WorkOrderID, StartDate 
+FROM Production.WorkOrder			|   1105        |     .473      |     748            | ProductID Covered (StartDate)|   Clustered Index Scan 
+WHERE ProductID = 945
+
+SELECT WorkOrderID
+FROM Production.WorkOrder			|     1         |     .473      |     750            | ProductID Covered (StartDate)|   Clustered Index Scan   
+WHERE ProductID = 945 AND 
+StartDate = '2006-01-04'
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+#7
+SELECT WorkOrderID, StartDate 
+FROM Production.WorkOrder
+WHERE ProductID = 945 AND                       |     1         |    .473       |    750             |ProductID and StartDate       |   Clustered Index Scan
+StartDate = '2006-01-04'
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+#8
+SELECT WorkOrderID, StartDate 
+FROM Production.WorkOrder
+WHERE ProductID = 945 AND			|      1        |   .003        |     1554           |Composite (ProductID, StartDate)|  Index Seek
+StartDate = '2006-01-04'

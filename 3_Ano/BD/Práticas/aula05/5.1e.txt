@@ -1,0 +1,1 @@
+σ Pno = null (π Fname, Lname, Ssn (employee) ⟕ Essn = Ssn (works_on))

@@ -1,0 +1,3 @@
+quando elimino o comboio da base de dados, faltou-me fazer o delete nas tabelas com FK_Comboio...
+
+operações de update também precisam de ser aperfeiçoadas

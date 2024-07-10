@@ -1,0 +1,1 @@
+π Fname, Lname, Ssn ,Address (σ (Dlocation≠'Aveiro' and Plocation='Aveiro') (dept_location⨝Dnumber=Dno (project⨝Pnumber=Pno (employee⨝Ssn=Essn works_on))))

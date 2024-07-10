@@ -1,0 +1,1 @@
+π Pname, Essn, Hours (π Pname, Pnumber (project) ⨝ Pnumber = Pno (works_on))

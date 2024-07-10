@@ -1,0 +1,2 @@
+orig = (π Fname, Lname, Ssn (employee) ⨝ Ssn = Essn (dependent))
+(σ count_dependent >  2 (γ Ssn; count(Dependent_name) -> count_dependent (orig)))

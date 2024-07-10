@@ -1,0 +1,1 @@
+π Super_ssn, Fname, Lname (σ Super_ssn ≠ null  (π Ssn (σ Fname = 'Carlos' and Minit = 'D' and Lname = 'Gomes' (employee)) ⨝ π Super_ssn , Fname, Lname ( ρ e (employee))))

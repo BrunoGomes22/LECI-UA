@@ -1,0 +1,1 @@
+σ Dependent_name = null (π Mgr_ssn (department) ⨝ Mgr_ssn = Ssn (employee) ⟕ Essn = Ssn (dependent))

@@ -1,0 +1,1 @@
+π Fname, Lname, Ssn, Dno, Hours, Pname (σ Dno = 3 and Hours > 20 ((π Fname, Lname, Ssn, Dno (employee) ⨝ Essn = Ssn (works_on)) ⨝ Pno = Pnumber (π Pname, Pnumber (project))))

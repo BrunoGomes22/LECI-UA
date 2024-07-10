@@ -1,0 +1,4 @@
+private SqlConnection getSGBDConnection()
+        {
+            return new SqlConnection("data source= LAPTOP-A6Q32042\\SQLEXPRESS;integrated security=true;initial catalog=train");
+        }

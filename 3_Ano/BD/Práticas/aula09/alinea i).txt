@@ -1,0 +1,28 @@
+Stored Procedures:
+
+Mais valias:
+	- Reutilização de código: As stored procedures permitem escrever um código complexo uma vez e reutilizá-lo em vários lugares da base de dados.
+	- Desempenho: Por serem pré-compiladas e armazenadas na base de dados, as stored procedures podem ser executadas mais rapidamente do que consultas SQL "normais".
+        - Segurança: As stored procedures podem ser usadas para controlar o acesso aos dados, desta forma os utilizadores da base de dados só podem executar as operações definidas na própria procedure.
+
+Características:
+	- Podem aceitar parâmetros de entrada e retornar valores.
+	- Facilitam a "reciclagem" de instruções SQL
+	- Podem ser chamadas por outros programas ou processos.
+	- Podem conter instruções SQL complexas, condicionais e de controlo de fluxo.
+
+Exemplo de uso: Uma situação em que uma stored procedure é útil é ao executar uma operação complexa que envolve várias etapas, como atualizar várias tabelas num único processo.
+
+UDFs (User-Defined Functions):
+
+Mais valias:
+ 	- Modularidade: As UDFs permitem encapsular uma lógica específica e reutilizá-la em várias consultas SQL, tornando o código mais modular e fácil de manter.
+ 	- Expressividade: As UDFs podem ser usadas para expandir as capacidades da linguagem SQL, permitindo a criação de funções personalizadas para atender a requisitos específicos.
+ 	- Facilidade de uso: As UDFs podem ser usadas diretamente em consultas SQL, facilitando a obtenção de resultados calculados ou manipulação de dados.
+
+Características:
+	- Podem ser definidas pelo utilizador, aumentando as capacidades da linguagem base SQL.
+	- Podem aceitar parâmetros de entrada e retornar valores.
+	- Podem ser usadas em instruções SELECT, WHERE, JOIN, entre outras.
+
+Exemplo de uso: Quando precisamos de executar operações repetitivas como por exemplo conversão de unidades de uma certa tabela podemos usar uma UDF para agilizar o processo.

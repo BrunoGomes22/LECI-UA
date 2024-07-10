@@ -1,0 +1,160 @@
+          +-------------------+
+          |     Comboios       |
+          +-------------------+
+          | id_comboio        |
+          | modelo            |
+          | capacidade        |
+          | data_fabricacao   |
+          | ...               |
+          +-------------------+
+
+          +-------------------+
+          |     Tripulação     |
+          +-------------------+
+          | id_tripulacao     |
+          | nome              |
+          | licenca_maquinista|
+          | tipo_comboio      |
+          | ...               |
+          +-------------------+
+
+          +-------------------+
+          |    Rotas de trem   |
+          +-------------------+
+          | id_rota           |
+          | estacao_origem    |
+          | estacao_destino   |
+          | horario_partida   |
+          | horario_chegada   |
+          | ...               |
+          +-------------------+
+
+          +-------------------+
+          |  Programação comboio |
+          +-------------------+
+          | id_programacao     |
+          | id_comboio        |
+          | id_tripulacao     |
+          | id_rota           |
+          | data_partida      |
+          | data_chegada      |
+          | ...               |
+          +-------------------+
+
+          +-------------------+
+          |     Manutenção     |
+          +-------------------+
+          | id_manutencao     |
+          | id_comboio        |
+          | descricao         |
+          | data_manutencao   |
+          | ...               |
+          +-------------------+
+
+          +-------------------+
+          |     Passageiros    |
+          +-------------------+
+          | id_passageiro     |
+          | nome              |
+          | bilhete_numero    |
+          | id_programacao    |
+          | ...               |
+          +-------------------+
+
+          +-------------------+
+          |       Tarifas      |
+          +-------------------+
+          | id_tarifa         |
+          | id_rota           |
+          | preco             |
+          | tipo              |
+          | politica_cancelamento |
+          | ...               |
+          +-------------------+
+
+          +-------------------+
+          | Incidentes e acidentes |
+          +-------------------+
+          | id_incidente      |
+          | id_comboio        |
+          | descricao         |
+          | data_incidente    |
+          | ...               |
+          +-------------------+
+
+          +-------------------+
+          |      Finanças      |
+          +-------------------+
+          | id_financas       |
+          | receita           |
+          | despesa           |
+          | lucro_prejuizo    |
+          | ...               |
+          +-------------------+
+
+          +-------------------+
+          |     Estações       |
+          +-------------------+
+          | id_estacao        |
+          | nome              |
+          | localizacao       |
+          | horario_funcionamento |
+          | ...               |
+          +-------------------+
+
+          +-------------------+
+          |   Clientes corporativos |
+          +-------------------+
+          | id_cliente        |
+          | nome              |
+          | cnpj              |
+          | contrato          |
+          | ...               |
+          +-------------------+
+
+          +-------------------+
+          |   Serviços a bordo |
+          +-------------------+
+          | id_servico        |
+          | descricao         |
+          | preco             |
+          | ...               |
+          +-------------------+
+
+          +-------------------+
+          |      Bagagem       |
+          +-------------------+
+          | id_bagagem        |
+          | id_passageiro     |
+          | quantidade        |
+          | ...               |
+	  +-------------------+
+
+	
+      +-------------------+
+      |     Vagões        |
+      +-------------------+
+      | id_vagao          |
+      | id_comboio        |
+      | modelo            |
+      | capacidade        |
+      | ...               |
+      +-------------------+
+
+      +-------------------+
+      |  Tipos de vagões   |
+      +-------------------+
+      | id_tipo_vagao     |
+      | descricao         |
+      | capacidade        |
+      | ...               |
+      +-------------------+
+
+      +-------------------+
+      |  Atribuição de Vagões |
+      +-------------------+
+      | id_atribuicao     |
+      | id_vagao          |
+      | id_programacao    |
+      | ...               |
+      +-------------------+

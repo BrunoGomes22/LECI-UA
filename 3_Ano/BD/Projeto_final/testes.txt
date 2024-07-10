@@ -1,0 +1,12 @@
+--testes
+SELECT * FROM train.Gestor;
+SELECT * FROM train.Manuntencao;
+SELECT * FROM train.Rota;
+SELECT * FROM train.Vagao;
+SELECT * FROM train.Modelo_vagao;
+SELECT * FROM train.Comboio;
+SELECT * FROM train.Modelo_Comboio;
+SELECT train.Comboio.id_comboio, capacidade, data_fabrico, modelo FROM train.Comboio, train.Modelo_Comboio WHERE train.Comboio.id_comboio = train.Modelo_Comboio.id_comboio;
+
+SELECT train.Vagao.id_vagao, descricao, capacidade, FK_Comboio, modelo FROM train.Vagao, train.Modelo_vagao WHERE  train.Vagao.id_vagao = train.Modelo_vagao.id_vagao;
+--testes

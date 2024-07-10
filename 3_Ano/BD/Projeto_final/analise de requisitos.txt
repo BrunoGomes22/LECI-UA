@@ -1,0 +1,26 @@
+Análise de requisitos
+
+Quem vai utilizar esta base de dados? Esta base de dados vai ser utilizada principalmente por funcionários da empresa de gestão de comboios, e pelos passageiros que podem ser clientes "normais" ou clientes corporativos.
+
+Principais informações e funções armazenadas: Informações sobre serviços de bordo, informações sobre clientes, bilhetes, tripulação presente no comboio, bagagens, informações sobre o próprio comboio e a manuntenção do mesmo, informações sobre cada vagão integrante do comboio, informações sobre acontecimentos de acidentes/incidentes, informações sobre rotas e estações onde o comboio para.
+
+Relações entre as entidades:
+	-Um serviço de bordo tem apenas uma tripulação associada a esse serviço;
+	-N tripulações tratam de M bagagens;
+	-Um passageiro pode ter N bagagens;
+	-Um passageiro paga apenas um bilhete;
+	-Um passageiro pode ser um cliente ou um cliente corporativo;
+	-Um comboio tem N serviços de bordo;
+	-Um comboio tem N tripulações;
+	-Um comboio tem N passageiros;
+	-Um comboio tem N vagões;
+	-Um comboio necessita de uma manutenção;
+	-Um comboio para em N estações;
+	-Um comboio percorre N rotas;
+	-Um comboio pode ter N incidentes/acidentes;
+	-Uma rota pode ter N estações associadas.
+
+Restrições de integridade: Um cliente não pode comprar bilhete para um comboio que já tenha partido, um vagão só pode ser atribuído a um comboio, não pode haver bilhetes sem clientes associados, não podem existir comboios sem manutenção feita, o horário de partida tem de ser sempre "menor" que o horário de chegada.
+
+Regras de acesso e segurança:Só os funcionários e responsáveis pela gestão da base de dados podem ter acesso á própria. 
+

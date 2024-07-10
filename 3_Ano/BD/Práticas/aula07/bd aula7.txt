@@ -1,0 +1,3 @@
+7.2
+a)
+A fórmula não está na 2ª nem na 3ª forma normal pois o atributo Afiliacao_Autor depende apenas do nome do Autor.
