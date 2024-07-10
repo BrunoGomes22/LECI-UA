@@ -1,0 +1,57 @@
+intelligence    12      12,18   DownLeft
+optimization    12      11,24   Down
+programming     11      1,11    DownLeft
+intelligent     11      25,14   Right
+artificial      10      1,13    Down
+automation      10      24,15   Right
+processing      10      13,23   Up
+innovation      10      16,25   Down
+technology      10      14,12   Up
+futuristic      10      5,25    Down
+assistants      10      14,2    Down
+algorithm       9       11,15   Up
+cognitive       9       5,22    Down
+computIng       9       2,14    Right
+networks        8       15,5    Right
+Analysis        8       17,3    Right
+learnIng        8       2,1     Right
+robotics        8       17,23   Left
+Language        8       17,14   Down
+computer        8       16,4    Up
+decision        8       10,10   Up
+machine         7       10,1    UpRight
+natural         7       21,8    UpRight
+systems         7       1,15    Right
+virtual         7       14,6    Up
+neural          6       5,21    DownLeft
+Vision          6       19,9    Left
+making          6       12,11   Up
+agents          6       20,5    DownRight
+smart           5       17,15   DownRight
+data            4       8,1     Up
+deep            4       18,1    Down
+. . . . . . . . . . P . A . S Y S T E M S . . . . 
+L E A R N I N G . R . . R C O M P U T I N G . . . 
+. . . . . . . . O N . . T . M . . . . . . . . . . 
+. . . . . . E G . O . . I . H . . . . . . . G . . 
+A . . . . N R . . I . Y F . T . . . . . N C N . F 
+T . . . I A . . . S . G I . I . . . . E . O I . U 
+A . . H M . . . . I G O C . R . . . U . . G S . T 
+D . C M . L . . . C N L I . O . . R . . . N S . U 
+. A I R . A . . . E I O A . G . A . . . . I E . R 
+M N . E . U . . . D K N L . L L . . . . . T C . I 
+G . . T . T . . . . A H . . A . . . . . . I O O S 
+. . . U . R . . . . M C . . . . . I . . . V R P T 
+. . . P . I . . . . . E . . . . N . . . . E P T I 
+. A . M . V . . . . . T . . . T . . . . . . . I C 
+. S . O N E T W O R K S . L E . . . . . . . . M . 
+. S . C . . . . . . . . A L . . . . . . . . . I I 
+. I A N A L Y S I S . R L L S S C I T O B O R Z N 
+D S . . . . . . . . U I . A . M . . . . . . . A N 
+E T . N O I S I V T G . . N . . A . . . . . . T O 
+E A . . A . . . A E . . . G . . . R . . . . . I V 
+P N . . . G . N N . . . . U . . . . T . . . . O A 
+. T . . . . E C . . . . . A . . . . . . . . . N T 
+. S . . . . E N . . . . . G . . . . . . . . . . I 
+. . . . . . . . T . . . . E A U T O M A T I O N O 
+. . . . . . . . . S . . . I N T E L L I G E N T N 

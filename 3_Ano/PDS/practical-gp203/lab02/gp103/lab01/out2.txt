@@ -1,0 +1,37 @@
+resilience      10      13,15   Left
+preventive      10      11,16   Up
+relaxation      10      16,14   Left
+prevention      10      1,13    Left
+nutrition       9       3,19    Down
+hydration       9       20,11   Left
+emotional       9       11,3    Right
+diabetes        8       9,13    Left
+exercise        8       12,17   Left
+immunity        8       10,15   Left
+vitamin         7       6,7     DownLeft
+healthy         7       15,7    Right
+hygiene         7       13,20   DownLeft
+stress          6       2,4     Down
+blood           5       12,6    Left
+sleep           5       2,15    Down
+well            4       1,1     Down
+W . . N O I T N E V E R P . . . . . . . 
+E . . S . . . . . . . . . . S E . . . . 
+L . . T . . . . . . . . . . L V . . N . 
+L . . R . . . . . . . . . . E I . . U . 
+. . . E . . . . . . . . . . E T . . T . 
+. . . S . . V . . . . . . . P N . . R . 
+. . . S . I . . . . . . . . . E . . I . 
+. . . . T . . . . . . . . . . V . . T . 
+. . . A . S E T E B A I D . . E . . I . 
+. . M . . . . Y T I N U M M I R . . O . 
+. I E M O T I O N A L . . . . P . . N . 
+N D O O L B . . . E S I C R E X E . . . 
+. . . . . E C N E I L I S E R . . . . H 
+. . . . . . . . . . . . . . . . . . Y . 
+. . . . . . H E A L T H Y . . . . G . . 
+. . . . N O I T A X A L E R . . I . . . 
+. . . . . . . . . . . . . . . E . . . . 
+. . . . . . . . . . . . . . N . . . . . 
+. . . . . . . . . . . . . E . . . . . . 
+. . N O I T A R D Y H . . . . . . . . . 

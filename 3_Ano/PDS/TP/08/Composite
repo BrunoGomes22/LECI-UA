@@ -1,0 +1,34 @@
+@startuml
+
+!theme plain
+top to bottom direction
+skinparam linetype ortho
+
+class Department {
+  + Department(String): 
+  - name: String
+  - subDepartments: List<Department>
+  - employees: List<Employee>
+  + toString(): String
+  + getSubDepartments(): List<Department>
+  + addDepartment(Department): void
+  + getEmployees(): List<Employee>
+  + addEmployee(Employee): void
+  + addDepartment(List<Department>): void
+  + getName(): String
+  + addEmployee(List<Employee>): void
+}
+interface Employee << interface >> {
+  + showDetails(): void
+}
+class IndividualEmployee {
+  + IndividualEmployee(String, String): 
+  - name: String
+  - position: String
+  + showDetails(): void
+  + toString(): String
+}
+
+Department         "1" *-[#595959,plain]-> "employees\n*" Employee           
+IndividualEmployee  -[#008200,dashed]-^  Employee           
+@enduml

@@ -1,0 +1,18 @@
+1) Problema
+Quando os países querem mandar mensagens para todos os outros países do mundo, teriam que saber que outros países existem
+para conseguir mandar essas mensagens.
+Isto geraria um grande grau de interdependência entre essas várias classes que representariam os países.
+Se a Russia quisesse mandar uma mensagem para a China e os USA teriam que ter referências para ambos.
+Isto seria pouco escalável e modular.
+
+2) Solução
+Usando o mediator design pattern criamos um mediator chamado UNSecurityCouncil que trata da comunicação entre os países.
+Deste modo cada país só precisa de saber da existência do mediator.
+Na classe USA, por exemplo, usamos o sendMessage e o recieveMessage com o Mediator, deste modo os USA não precisam  de
+saber de todos os outros países para enviarem as suas mensagens.
+Deste modo temos uma Solução modular e escalável.
+
+3) Referências 
+https://refactoring.guru/design-patterns/mediator
+https://www.un.org/securitycouncil/
+

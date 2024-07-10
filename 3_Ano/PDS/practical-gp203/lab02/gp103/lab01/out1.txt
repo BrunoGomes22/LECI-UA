@@ -1,0 +1,17 @@
+algorithm       9       1,9     DownLeft
+computer        8       9,3     Right
+software        8       3,8     DownLeft
+Hardware        8       1,8     DownLeft
+Data            4       7,1     UpRight
+CpU             3       10,8    Right
+RAm             3       4,10    Left
+. . . . . . . H A . 
+. . . . . . A L . . 
+. . . . . R G S . . 
+. . . A D O O M A R 
+. . T W R F . . . . 
+. A A I T . . . . . 
+D R T W . . . . . . 
+E H A . . . . . . . 
+M R C O M P U T E R 
+E . . . . . . C P U 

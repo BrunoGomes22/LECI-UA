@@ -1,0 +1,5 @@
+package Cake;
+
+public enum Cream {
+    CHOCOLATE, VANILLA, STRAWBERRY, MINT, HAZEL, WHIPPED_CREAM, HEAVY_CREAM
+}

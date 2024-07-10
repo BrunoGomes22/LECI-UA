@@ -1,0 +1,19 @@
+Padrão Builder (Creational Design):
+    public static class Builder{}
+    O programa tem uma classe Builder, que é usada para criar novos calendários, conforme
+    os argumentos de tempo ou data passados ás diferentes funções que estão contidas nesta
+    mesma classe. Nesta classe, apenas os métodos necessários para a criação do calendário
+    serão chamados para esse efeito, não sendo necessário chamar todos os métodos da classe.
+
+Padrão Factory:
+    private static Calendar createCalendar(TimeZone zone, Locale aLocale)
+    Este programa tem um método createCalendar() que recebe dois argumentos, zone e aLocale,
+    estes vão definir o tipo de calendário que irá se criado, podendo o calendário ser "BuddhistCalendar",
+    "JapaneseImperialCalendar" ou "GregorianCalendar". Estes calendários pertecem todos á superclasse
+    "Calendar".
+
+Padrão Singleton:
+    private static class CalendarAccessControlContext
+    Tem uma private static final INSTANCE AccessControlContext que é inicializada apenas uma vez no bloco estático.
+    O construtor da classe é privado que previne a inicialização externa.
+

@@ -1,0 +1,14 @@
+java.io.InputStream: 
+
+read(byte[] b, int off, int len) vem da operação read() que é abstrata e tem que ser implementada pelas subclasses
+
+
+java.util.AbstractList:
+
+add(E e) e add(int index, E element)
+listIterator() e iterator(), size()
+
+
+java.uti.AbstractMap:
+
+isEmpty(), containsKey(Object key) e containsValue(Object value) são template Methods. Usam a opperação primitiva entrySet() que é abstrata.
