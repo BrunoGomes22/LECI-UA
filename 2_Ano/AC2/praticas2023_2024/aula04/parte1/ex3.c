@@ -2,13 +2,12 @@
 
 int main(void)
 {
-    TRISE = TRISE & 0xFF87;
-    int counter = 0;
+    TRISE = TRISE & 0xFF87; // configurar portos RE6-RE3 como saidas
+    int counter = 9;
     while(1){
         LATE = (LATE & 0xFF87) | counter << 3;
         resetCoreTimer();
-        while(readCoreTimer() < 4347826);
+        while(readCoreTimer() < 7407407); // (1/2.7) * 20 000 000
         counter = (counter + 9) % 10;
-        //counter = counter > 0 ? counter - 1 : 9;
     }
 }
