@@ -19,9 +19,9 @@ int main(void)
         do
         {
             send2displays(counter);
-            // wait 20 ms (1/50Hz)
-            delay(20);
-        } while(++i < 10); // 20ms * 10 = 200ms 
+            // wait 10 ms
+            delay(10);
+        } while(++i < 20); // 10ms * 20 = 200ms 
         // increment counter (mod 256)
         counter++; // contador é incrementado com freq de 5hz
     }
