@@ -20,7 +20,8 @@ int main(void)
         i = 0;
         do
         {
-            send2displays(toBCD(counter));
+            send2displays(toBCD(counter)); // send2displays recieves decimal values
+            LATE = (LATE & 0xFF00) | counter; 
             // wait 10 ms
             delay(10);
         } while(++i < 50); // 10ms * 50 = 500ms 
@@ -45,7 +46,6 @@ void send2displays(unsigned char value)
         LATDbits.LATD6 = 0;
         // send digit_low (dl) to display: dl = value & 0x0F
         LATB = (LATB & 0x80FF) | (disp7Scodes[value & 0x0F] << 8);
-        LATE = (LATE & 0xFFF0) | (value & 0x0F);
     }
     else{
         //select display high
@@ -53,10 +53,6 @@ void send2displays(unsigned char value)
         LATDbits.LATD5 = 0;
         //send digit_high (dh) to display: dh = value >> 4
         LATB = (LATB & 0x80FF) | (disp7Scodes[value >> 4] << 8);
-        if((value & 0xF0) != 0){
-            LATE = (LATE & 0xFF0F) | (value & 0xF0) >> 4;
-        }
-        
     }
 
     displayFlag = !displayFlag; //toggle displayFlag
