@@ -4,24 +4,27 @@ void setup();
 
 int main(void){
     setup(); // Configure the A/D module and port RB4 as analog input
-    int i = 0;
-    int v = 0;
+    int i;
+    int v;
     while(1)
     {
         AD1CON1bits.ASAM = 1; // Start conversion
         while (IFS1bits.AD1IF == 0); // Wait while conversion not done (A1IF == 0)
         int *p = (int *)(&ADC1BUF0);
+
+        v = 0; //voltage
+
         for(i = 0; i<4; i++){ // só queremos ver apenas as 4 prmeiras amostras
             v+= (p[i*4]*33+511)/1023;
         }
-        printInt(v/4, 10 | 4 << 16); // valores impressos em decimal formatados com 4 digitos
+        printInt(v/4, 10 | 2 << 16); // valores impressos em decimal formatados com 2 digitos (v/4) -> calculo da media
         putChar('\r');
         IFS1bits.AD1IF = 0; // Reset AD1IF
     }
     return 0;
 }
 
-setup(){
+void setup(){
     TRISBbits.TRISB4 = 1;       // RBx digital output disconnected
     AD1PCFGbits.PCFG4= 0;       // RBx configured as analog input
     AD1CON1bits.SSRC = 7;       // Conversion trigger selection bits: in this
