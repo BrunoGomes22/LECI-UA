@@ -13,10 +13,11 @@ int main(void){
     setup(); // Configure the A/D module and port RB4 as analog input
     int i;
     int v;
+    int j = 0;
     while(1)
     {   
-        int j = 0;
-        do{
+        
+        if(j == 0){
             AD1CON1bits.ASAM = 1; // Start conversion
             while (IFS1bits.AD1IF == 0); // Wait while conversion not done (A1IF == 0)
             int *p = (int *)(&ADC1BUF0);
@@ -33,7 +34,10 @@ int main(void){
             while(readCoreTimer() < 20000 * 10); // 20KHZ * 10ms
             putChar('\r');
             IFS1bits.AD1IF = 0; // Reset AD1IF
-        }while (++j < 20); // 20 * 0.01s = 0.2s   -> 1/0.2 = 5hz
+        }
+
+        j = (j+1) % 20; // 10ms * 20 times -> gives frequency of 5hz
+        
     }
     return 0;
 }
