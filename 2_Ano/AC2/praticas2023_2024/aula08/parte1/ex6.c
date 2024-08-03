@@ -1,6 +1,12 @@
 #include <detpic32.h>
 
 int main(void){
+    // configure RE3 and RE0 as output
+    TRISE = TRISE & 0xFFF5;
+
+    // reset RE3 and RE0
+    LATE = LATE & 0xFFF5;
+
     // Timer T1 configuration (5 Hz)
     T1CONbits.TCKPS = 2; // k = 64
     PR1 = 62499;
@@ -12,13 +18,7 @@ int main(void){
     IFS0bits.T1IF = 0; // Reset timer T1 interrupt flag
 
     // Timer T3 configuration (25 Hz)
-    //T3CONbits.TCKPS = 4; // k = 16
-    //PR3 = 49999;
-    //TMR3 = 0;
-    //T3CONbits.TON = 1;
-
-    // Timer T3 configuration (50 Hz)
-    T3CONbits.TCKPS = 3; // k = 8
+    T3CONbits.TCKPS = 4; // k = 16
     PR3 = 49999;
     TMR3 = 0;
     T3CONbits.TON = 1;
@@ -36,10 +36,12 @@ int main(void){
 
 void _int_(4) isr_T1(void){ // 4 is the vector number of T1
     printInt10(1);
+    LATEbits.LATE1 = !LATEbits.LATE1;
     IFS0bits.T1IF = 0; // Reset timer T1 interrupt flag
 }
 
 void _int_(12) isr_T3(void){ // 12 is the vector number of T3
     printInt10(3);
+    LATEbits.LATE3 = !LATEbits.LATE3;
     IFS0bits.T3IF = 0; // Reset timer T3 interrupt flag
 }
