@@ -13,7 +13,7 @@ int main(void){
     
     OC1CONbits.OCM = 6;     // PWM mode on OCx; fault pin disabled
     OC1CONbits.OCTSEL =1;   // Use timer T3 as the time base for PWM generation
-    OC1RS = 12500;          // Ton constant
+    setPWM(10);
     OC1CONbits.ON = 1;      // Enable OC1 module
 
     EnableInterrupts();
@@ -26,4 +26,13 @@ int main(void){
 void _int_(12) isr_T3(void)
 {
     IFS0bits.T3IF = 0; // Reset timer T3 interrupt flag
+}
+
+void setPWM(unsigned int dutyCycle)
+{
+    // duty_cycle must be in the range [0, 100]
+    if(dutyCycle >= 0 && dutyCycle <= 100){
+        OC1RS = ((PR3+1)*dutyCycle)/100;
+    }
+    
 }
