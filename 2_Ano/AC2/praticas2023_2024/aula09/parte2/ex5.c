@@ -3,6 +3,8 @@
 void setPWM(unsigned int dutyCycle);
 
 int main(void){
+    TRISCbits.TRISC14 = 0; // RC14 configured as output
+
     T3CONbits.TCKPS = 2;    // 1:4
     PR3 = 49999;            
     TMR3 = 0;               // Reset timer T3 count register
@@ -20,7 +22,9 @@ int main(void){
 
     EnableInterrupts();
 
-    while(1);
+    while(1){
+        LATCbits.LATC14 = PORTDbits.RD0;
+    }
 
     return 0;
 }
