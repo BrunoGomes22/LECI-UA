@@ -3,10 +3,12 @@
 void configureAll();
 void send2displays(unsigned char value);
 unsigned char toBCD(unsigned char value);
+void setPWM(unsigned int dutyCycle);
 
 volatile int voltage = 0; // Global variable
 
 int main(void){
+    int dutyCycle;
     configureAll();  // Function to configure all (digital I/O, analog
                      // input, A/D module, timers T1 and T3, interrupts)
 
@@ -16,17 +18,28 @@ int main(void){
     IFS0bits.T3IF = 0; // Reset timer T3 interrupt flag
 
     EnableInterrupts(); //Global interrupt enable
-    while(1){
-        short unsigned int value = PORTB & 0x0003;
-        
-        if(value == 1){
-            IEC0bits.T1IE = 0; // Disable timer T1 interrupts
+    while(1)
+    {
+        short unsigned int portVal = PORTB & 0x0003; // Read RB1, RB0 to the variable "portVal"
+        switch(portVal)
+        {
+            case 0:  //Measure input voltage
+                // Enable T1 interrupts
+                IEC0bits.T1IE = 1;
+                setPWM(0);
+                break;
+            case 1: //Freeze
+                // Disable T1 interrupts
+                IEC0bits.T1IE = 0;
+                setPWM(100);
+                break;
+            default: //n funciona
+                // Enable T1 interrupts
+                IEC0bits.T1IE = 1;
+                dutyCycle = voltage * 3;
+                setPWM(dutyCycle);
+                break;
         }
-        else{
-            IEC0bits.T1IE = 1; // Enable timer T1 interrupts
-        }
-        
-
     }
     return 0;
 }
@@ -74,14 +87,13 @@ void configureAll(){
     // Timer 1 interruptions
     IPC1bits.T1IP = 2; // Interrupt priority (must be in range [1..6])
     
-
     // Timer 3 interruptions
     IPC3bits.T3IP = 2; // Interrupt priority (must be in range [1..6])
     IEC0bits.T3IE = 1; // Enable timer T3 interrupts
 
     // A/D interruptions
     IPC6bits.AD1IP = 2; // configure priority of A/D interrupts
-    IEC1bits.AD1IE = 1; // enable A/D interrupts
+    IEC1bits.AD1IE = 1;
 }
 
 void send2displays(unsigned char value)
@@ -113,9 +125,9 @@ unsigned char toBCD(unsigned char value){
 }
 
 void _int_(4) isr_T1(void) // 4 is the vector number of T1
-{  
+{
     AD1CON1bits.ASAM = 1; //Start A/D conversion
- 
+
     IFS0bits.T1IF = 0;  // Reset T1IF Flag
 }
 
@@ -142,3 +154,11 @@ void _int_(27) isr_adc(void)
     IFS1bits.AD1IF = 0; // Reset AD1IF flag
 }
 
+void setPWM(unsigned int dutyCycle)
+{
+    // duty_cycle must be in the range [0, 100]
+    if(dutyCycle >= 0 && dutyCycle <= 100){
+        OC1RS = ((PR3+1)*dutyCycle)/100;
+    }
+    
+}
