@@ -1,36 +1,65 @@
 #include <detpic32.h>
 
-int main(void) {
-    // Configure UART2: 115200, N, 8, 1
-    U2BRG = 10;               // U2BRG = (20Mhz / (16*115200))-1 ~ 10
-    U2MODEbits.PDSEL = 0b00;  // 00 = 8-bit data, no parity
-    U2MODEbits.STSEL = 0;     // only 1 stop bit
-    U2MODEbits.BRGH = 0;      // divide by 16
+void putc(char byte2send);
+void putstr(char *str);
 
-    U2STAbits.URXEN = 1;       // Enable Receiver
-    U2STAbits.UTXEN = 1;       // Enable Transmitter
-    U2STAbits.URXISEL = 0b00;  // Select interrupt only for receiver
-    IPC8bits.U2IP = 1;         // UART2 Priority
-    IEC1bits.U2RXIE = 1;       // U2RX Interrupt Enable
-    IEC1bits.U2TXIE = 0;       // U2RX Interrupt Disable
-    IFS1bits.U2RXIF = 0;       // U2RX Interrupt Flag
-    TRISCbits.TRISC14 = 0;     // saida
-    U2MODEbits.ON = 1;         // Enable UART2
-    // Enable global Interrupts
+int main(void)
+{
+    TRISCbits.TRISC14 = 0; // RC14 is configured as output
+
+    // Configure UART2: 115200,N,8,1
+    // 1 - Configure BaudRate Generator
+    U2BRG = 10;
+    U2MODEbits.BRGH = 0; // fator divisao 16
+    // 2 - Configure number of data bits, parity and number of stop bits
+    U2MODEbits.PDSEL = 0b00; // 8 bit data, no parity
+    U2MODEbits.STSEL = 0;    // 1 stop bit
+    // 3 - Enable the transmitter and receiver modules
+    U2STAbits.UTXEN = 1; // enable transmitter
+    U2STAbits.URXEN = 1; // enable receiver
+    // 4 - Enable UART2
+    U2MODEbits.ON = 1;
+
+    // Configure UART2 interrupts, with RX interrupts enabled and TX interrupts disabled
+    IEC1bits.U2RXIE = 1; // enable U2RXIE
+    IEC1bits.U2TXIE = 0; // disable U2TXIE
+    IPC8bits.U2IP = 1; // set UART2 priority level
+    IFS1bits.U2RXIF = 0; // clear interrupt flag bit
+    U2STAbits.URXISEL = 0b00; // define RX interrupt mode
+
     EnableInterrupts();
-    while (1)
-        ;
+
+    while(1);
     return 0;
 }
 
-void _int_(32) isr_uart2(void) {
-    if (IFS1bits.U2RXIF == 1) {
-        char byte = U2RXREG;  // Read character from FIFO (U2RXREG)
-        if (byte == 'T') {
+void _int_(32) isr_uart2(void) // 32 is the number of the UART2 transmitter vector
+{
+    if(IFS1bits.U2RXIF = 1) // UART2 RX flag
+    {
+        char byte = U2RXREG; // Read character from FIFO (U2RXREG)
+        putc(byte);     // send the character using putc()
+
+        if(byte == 'T'){
             LATCbits.LATC14 = 1;
-        } else if (byte == 't') {
+        }
+        else if(byte == 't'){
             LATCbits.LATC14 = 0;
         }
-        IFS1bits.U2RXIF = 0;  // Clear UART2 Rx interrupt flag
+        
+        IFS1bits.U2RXIF = 0;
     }
+}
+
+void putstr(char *str){
+    int i = 0;
+    while(str[i] != '\0'){
+        putc(str[i++]);
+    }
+}
+
+void putc(char byte2send)
+{
+    while(U2STAbits.UTXBF == 1); // wait while UTXBF == 1 (FIFO FULL)
+    U2TXREG = byte2send;         // Copy byte2send to the UxTXREG register
 }
