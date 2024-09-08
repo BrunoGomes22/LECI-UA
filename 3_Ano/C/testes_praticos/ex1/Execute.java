@@ -4,13 +4,12 @@ import java.util.Scanner;
 
 @SuppressWarnings("CheckReturnValue")
 public class Execute extends StrLangBaseVisitor<String> {
-   Map<String,String> varsTable = new HashMap<>();
-   Scanner sc = new Scanner(System.in);
+   protected Map<String,String> varsTable;
+   protected Scanner sc;
 
-   @Override public String visitProgram(StrLangParser.ProgramContext ctx) {
-      String res = null;
-      return visitChildren(ctx);
-      //return res;
+   public Execute(){
+      varsTable = new HashMap<>();
+      sc = new Scanner(System.in);
    }
 
    @Override public String visitStatPrint(StrLangParser.StatPrintContext ctx) {
