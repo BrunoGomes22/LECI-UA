@@ -1,0 +1,6 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/home/brunofgomes/antlr4-install/antlr-4.13.1-complete.jar"
+    ]
+}
